@@ -1,0 +1,14 @@
+{
+  "seed": 2,
+  "val_objective": "bce",
+  "arch": {
+    "target_dim": 128,
+    "hidden_dim": 256,
+    "n_layers": 2
+  },
+  "val_bce": 0.62109,
+  "best_epoch": 6,
+  "test_pq_auc": 0.766643,
+  "test_ece": 0.041249,
+  "test_cost_auc": 0.723334
+}

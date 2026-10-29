@@ -1,0 +1,50 @@
+{
+  "note": "No full_ext fit here -- replaces router-eval/bfdkr-ablation's H4. See DESIGN.md: EmbedLLM's own sweep already shows every sigma multiplier far from the search-range bounds, so a range-extension fit would be a guaranteed no-op.",
+  "sigma_mult_range": [
+    0.015625,
+    4.0
+  ],
+  "n_sweep_points": 24,
+  "sweep_sigma_x_mult": {
+    "min": 0.126352,
+    "max": 0.650801,
+    "min_ratio_to_lo": 8.087,
+    "min_ratio_to_hi": 6.146
+  },
+  "sweep_sigma_y_mult": {
+    "min": 0.140425,
+    "max": 0.451597,
+    "min_ratio_to_lo": 8.987,
+    "min_ratio_to_hi": 8.857
+  },
+  "full_points": [
+    {
+      "seed": 0,
+      "sigma_x_mult": 0.205036,
+      "sigma_y_mult": 0.143044
+    },
+    {
+      "seed": 1,
+      "sigma_x_mult": 0.156181,
+      "sigma_y_mult": 0.244425
+    },
+    {
+      "seed": 2,
+      "sigma_x_mult": 0.127775,
+      "sigma_y_mult": 0.17345
+    }
+  ],
+  "full_sigma_x_mult": {
+    "min": 0.127775,
+    "max": 0.205036,
+    "min_ratio_to_lo": 8.178,
+    "min_ratio_to_hi": 19.509
+  },
+  "full_sigma_y_mult": {
+    "min": 0.143044,
+    "max": 0.244425,
+    "min_ratio_to_lo": 9.155,
+    "min_ratio_to_hi": 16.365
+  },
+  "H4_no_pinning": true
+}

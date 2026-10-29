@@ -1,0 +1,7 @@
+{
+  "statement": "S1 ~ S2 -> metadata-grade size information is most of what a static policy can use. S2 >> S1 means fingerprints carry model-quality signal beyond size.",
+  "s1_cost_auc": 0.463183,
+  "s2_cost_auc": 0.456184,
+  "delta_s2_minus_s1": -0.006999,
+  "within_tie_band": false
+}

@@ -1,0 +1,14 @@
+{
+  "config": {
+    "lambda_re": 0.25,
+    "tau": 0.05,
+    "seed": 0
+  },
+  "fit_s": 175.46,
+  "device": "cpu",
+  "val_bce": 0.593499,
+  "n_train_q": 21404,
+  "n_train_l": 70,
+  "test_cost_auc": 0.456828,
+  "test_pq_auc": 0.60469
+}

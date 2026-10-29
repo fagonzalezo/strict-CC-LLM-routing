@@ -1,0 +1,39 @@
+{
+  "statement": "BF-DKR clears even the hindsight-best static policy. If BF-DKR < S3, a well-chosen static policy is competitive and section VI-A needs a containment clause.",
+  "arm": "S3",
+  "per_seed": [
+    {
+      "cost_auc_gap_point": -0.01295,
+      "cost_auc_gap_ci95": [
+        -0.018567,
+        -0.007537
+      ],
+      "cost_auc_gap_excludes_zero": true,
+      "outside_tie_band": true
+    },
+    {
+      "cost_auc_gap_point": 0.001024,
+      "cost_auc_gap_ci95": [
+        -0.003683,
+        0.005964
+      ],
+      "cost_auc_gap_excludes_zero": false,
+      "outside_tie_band": false
+    },
+    {
+      "cost_auc_gap_point": -0.033463,
+      "cost_auc_gap_ci95": [
+        -0.039123,
+        -0.027901
+      ],
+      "cost_auc_gap_excludes_zero": true,
+      "outside_tie_band": true
+    }
+  ],
+  "n_seeds": 3,
+  "bfdkr_wins": 0,
+  "arm_wins": 2,
+  "ties_within_band": 1,
+  "mean_gap": -0.01513,
+  "tie_band_cost_auc": 0.0035
+}

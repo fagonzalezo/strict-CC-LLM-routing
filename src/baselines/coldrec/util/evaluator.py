@@ -1,0 +1,142 @@
+import math
+
+
+class Metric(object):
+    def __init__(self):
+        pass
+
+    @staticmethod
+    def hits(origin, res):
+        hit_count = {}
+        for user in origin:
+            items = list(origin[user].keys())
+            predicted = [item[0] for item in res[user]]
+            hit_count[user] = len(set(items).intersection(set(predicted)))
+        return hit_count
+
+    @staticmethod
+    def hit_ratio(origin, hits):
+        """
+        Note: This type of hit ratio calculates the fraction:
+         (# retrieved interactions in the test set / #all the interactions in the test set)
+        """
+        total_num = 0
+        for user in origin:
+            items = list(origin[user].keys())
+            total_num += len(items)
+        hit_num = 0
+        for user in hits:
+            hit_num += hits[user]
+        if total_num == 0:
+            return 0.0
+        return round(hit_num / total_num, 5)
+
+    @staticmethod
+    def precision(hits, N):
+        if len(hits) == 0 or N == 0:
+            return 0.0
+        prec = sum([hits[user] for user in hits])
+        return round(prec / (len(hits) * N), 5)
+
+    @staticmethod
+    def recall(hits, origin):
+        recall_list = []
+        for user in hits:
+            denom = len(origin[user])
+            if denom == 0:
+                continue
+            recall_list.append(hits[user] / denom)
+        if not recall_list:
+            return 0.0
+        return round(sum(recall_list) / len(recall_list), 5)
+
+    @staticmethod
+    def F1(prec, recall):
+        if (prec + recall) != 0:
+            return round(2 * prec * recall / (prec + recall), 5)
+        else:
+            return 0
+
+    @staticmethod
+    def MAE(res):
+        error = 0
+        count = 0
+        for entry in res:
+            error += abs(entry[2] - entry[3])
+            count += 1
+        if count == 0:
+            return error
+        return round(error / count, 5)
+
+    @staticmethod
+    def RMSE(res):
+        error = 0
+        count = 0
+        for entry in res:
+            error += (entry[2] - entry[3]) ** 2
+            count += 1
+        if count == 0:
+            return error
+        return round(math.sqrt(error / count), 5)
+
+    @staticmethod
+    def NDCG(origin, res, N):
+        if len(res) == 0:
+            return 0.0
+        sum_NDCG = 0.0
+        n_valid = 0
+        for user in res:
+            DCG = 0
+            IDCG = 0
+            # 1 = related, 0 = unrelated
+            for n, item in enumerate(res[user]):
+                if item[0] in origin[user]:
+                    DCG += 1.0 / math.log(n + 2, 2)
+            for n, _item in enumerate(list(origin[user].keys())[:N]):
+                IDCG += 1.0 / math.log(n + 2, 2)
+            if IDCG == 0:
+                continue
+            sum_NDCG += DCG / IDCG
+            n_valid += 1
+        if n_valid == 0:
+            return 0.0
+        return round(sum_NDCG / n_valid, 5)
+
+
+def ranking_evaluation(origin, res, N):
+    measure = []
+    performance = [[] for _ in N]
+    for i, n in enumerate(N):
+        predicted = {}
+        for user in res:
+            predicted[user] = res[user][:n]
+        indicators = []
+        if len(origin) != len(predicted):
+            print(f"ground-truth set size: {len(origin)}, predicted set size: {len(predicted)}")
+            print('The Lengths of ground-truth set and predicted set do not match!')
+            exit(-1)
+        hits = Metric.hits(origin, predicted)
+        hr = Metric.hit_ratio(origin, hits)
+        indicators.append('Hit Ratio:' + str(hr) + '\n')
+        prec = Metric.precision(hits, n)
+        indicators.append('Precision:' + str(prec) + '\n')
+        recall = Metric.recall(hits, origin)
+        indicators.append('Recall:' + str(recall) + '\n')
+        NDCG = Metric.NDCG(origin, predicted, n)
+        indicators.append('NDCG:' + str(NDCG) + '\n')
+        measure.append('Top ' + str(n) + '\n')
+        measure += indicators
+        performance[i].append(hr)
+        performance[i].append(prec)
+        performance[i].append(recall)
+        performance[i].append(NDCG)
+    return measure, performance
+
+
+def rating_evaluation(res):
+    measure = []
+    mae = Metric.MAE(res)
+    measure.append('MAE:' + str(mae) + '\n')
+    rmse = Metric.RMSE(res)
+    measure.append('RMSE:' + str(rmse) + '\n')
+    return measure

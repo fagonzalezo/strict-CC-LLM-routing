@@ -1,0 +1,13 @@
+{
+  "seed": 2,
+  "objective": "pq_auc",
+  "k": 4096,
+  "val_cost_auc": 0.471569,
+  "test_cost_auc": 0.478969,
+  "test_pq_auc": 0.595366,
+  "test_ece": 0.023388,
+  "sigma_x": 0.084859,
+  "sigma_y": 0.125259,
+  "sigma_x_med": 0.664127,
+  "sigma_y_med": 0.722164
+}

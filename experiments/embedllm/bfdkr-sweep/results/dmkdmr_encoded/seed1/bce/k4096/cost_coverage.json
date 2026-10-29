@@ -1,0 +1,43 @@
+{
+  "split": "test",
+  "n": 21,
+  "coverage": 1.0,
+  "min_billions": 1.3,
+  "median_billions": 7.0,
+  "max_billions": 67.0,
+  "size_histogram": {
+    "7.0B": 12,
+    "33.0B": 1,
+    "1.3B": 1,
+    "8.0B": 1,
+    "28.0B": 1,
+    "34.0B": 1,
+    "10.7B": 1,
+    "6.0B": 1,
+    "15.5B": 1,
+    "67.0B": 1
+  },
+  "model_costs": {
+    "berkeley-nest__Starling-LM-7B-alpha": 7.0,
+    "CultriX__NeuralTrix-bf16": 7.0,
+    "lmsys__vicuna-33b-v1.3": 33.0,
+    "scb10x__typhoon-7b": 7.0,
+    "mlabonne__AlphaMonarch-7B": 7.0,
+    "mistralai__Mistral-7B-Instruct-v0.1": 7.0,
+    "golaxy__gowizardlm": 7.0,
+    "deepseek-ai__deepseek-coder-1.3b-base": 1.3,
+    "yam-peleg__Experiment26-7B": 7.0,
+    "meta-llama__Meta-Llama-3-8B": 8.0,
+    "Plaban81__Moe-4x7b-math-reason-code": 28.0,
+    "CausalLM__34b-beta": 34.0,
+    "meta-math__MetaMath-Llemma-7B": 7.0,
+    "FelixChao__vicuna-7B-chemical": 7.0,
+    "upstage__SOLAR-10.7B-Instruct-v1.0": 10.7,
+    "CorticalStack__pastiche-crown-clown-7b-dare-dpo": 7.0,
+    "01-ai__Yi-6B": 6.0,
+    "bigcode__octocoder": 15.5,
+    "deepseek-ai__deepseek-llm-67b-chat": 67.0,
+    "bigscience__bloom-7b1": 7.0,
+    "sail__Sailor-7B": 7.0
+  }
+}

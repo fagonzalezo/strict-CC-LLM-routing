@@ -1,0 +1,106 @@
+{
+  "condition": "metadata_ablation",
+  "dataset": "router-eval",
+  "arm": "meta_struct",
+  "seed": 0,
+  "objective": "pq_auc",
+  "k_protocol": "per_arm_val_selected",
+  "k_protocol_note": "k is swept and val-selected within each arm; it is NOT inherited from the fp arm, whose k was selected for fingerprint inputs.",
+  "k_selection": {
+    "grid": [
+      {
+        "k": 128,
+        "val_cost_auc": 0.7235629336759108,
+        "val_brier": 0.22340695559978485,
+        "val_pq_auc": 0.6710366529578636,
+        "fit_elapsed_s": 775.0
+      },
+      {
+        "k": 512,
+        "val_cost_auc": 0.7264460407195893,
+        "val_brier": 0.22284284234046936,
+        "val_pq_auc": 0.6714407516259915,
+        "fit_elapsed_s": 789.13
+      },
+      {
+        "k": 2048,
+        "val_cost_auc": 0.7264023866203385,
+        "val_brier": 0.2225474715232849,
+        "val_pq_auc": 0.6708993106238827,
+        "fit_elapsed_s": 765.77
+      },
+      {
+        "k": 4096,
+        "val_cost_auc": 0.7255448895384964,
+        "val_brier": 0.22254979610443115,
+        "val_pq_auc": 0.6706011969650443,
+        "fit_elapsed_s": 749.07
+      }
+    ],
+    "selected_k": 512
+  },
+  "llm_representation": {
+    "arm": "meta_struct",
+    "raw_dim": 104,
+    "encoded_dim": 128
+  },
+  "raw_bundle": "data/router-eval/processed/metadata_variants/meta_struct/llm_perf_dataset.pkl",
+  "encoded_bundle": "data/router-eval/processed/metadata_variants/meta_struct/mlpdot_encoded_seed0/llm_perf_dataset_mlpdot_encoded.pkl",
+  "bfdkr_reused_stage1_fit": false,
+  "knn_enc": {
+    "k_q": 1024,
+    "k_l": 4,
+    "val_cost_auc": 0.766277,
+    "grid_size": 42
+  },
+  "knn_raw": {
+    "k_q": 1024,
+    "k_l": 1,
+    "val_cost_auc": 0.771403,
+    "grid_size": 42,
+    "caveat": "cosine metric on the raw variant representation; for meta_struct that is a ~100-d mostly-indicator vector, a geometry cosine kNN is not well suited to -- reported as a sub-row, not the kNN row (see DESIGN.md section 9)"
+  },
+  "predictions": {
+    "bfdkr": {
+      "path": "experiments/router-eval/metadata-ablation/results/seed0/meta_struct/P_test_bfdkr.npy",
+      "shape": [
+        2894,
+        376
+      ],
+      "dtype": "float32",
+      "sha256": "052f1a606163e2d59a8b74a8ec71a7ce36f97e773540675ae0bcb0108a5c7f08",
+      "committed": false
+    },
+    "mlpdot": {
+      "path": "experiments/router-eval/metadata-ablation/results/seed0/meta_struct/P_test_mlpdot.npy",
+      "shape": [
+        2894,
+        376
+      ],
+      "dtype": "float32",
+      "sha256": "38f0f56b0cfef073449cb774bff63cf5c0a9214e225d074bac324c2570834c51",
+      "committed": false
+    },
+    "knn_enc": {
+      "path": "experiments/router-eval/metadata-ablation/results/seed0/meta_struct/P_test_knn_enc.npy",
+      "shape": [
+        2894,
+        376
+      ],
+      "dtype": "float32",
+      "sha256": "cfd8b17c3d635b5307d4f09c7a384f4f4e66b8e2bd1db2cf27dd1ba6923a97fd",
+      "committed": false
+    },
+    "knn_raw": {
+      "path": "experiments/router-eval/metadata-ablation/results/seed0/meta_struct/P_test_knn_raw.npy",
+      "shape": [
+        2894,
+        376
+      ],
+      "dtype": "float32",
+      "sha256": "ed4dfd2bfe893e635d6911d83f9660466bc58b8f748aa11aae3bcc27e9ec5884",
+      "committed": false
+    }
+  },
+  "reproduction_gate": null
+}

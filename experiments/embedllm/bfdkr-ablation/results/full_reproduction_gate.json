@@ -1,0 +1,57 @@
+{
+  "tolerance": 0.002,
+  "per_seed": [
+    {
+      "seed": 0,
+      "our_full": {
+        "test_cost_auc": 0.502698,
+        "test_pq_auc": 0.622065,
+        "test_ece": 0.011196
+      },
+      "sweep_pq_auc_k4096": {
+        "test_cost_auc": 0.502698,
+        "test_pq_auc": 0.622065,
+        "test_ece": 0.011196
+      },
+      "delta_cost_auc": 0.0,
+      "delta_pq_auc": 0.0,
+      "delta_ece": 0.0,
+      "passed": true
+    },
+    {
+      "seed": 1,
+      "our_full": {
+        "test_cost_auc": 0.513981,
+        "test_pq_auc": 0.624747,
+        "test_ece": 0.009915
+      },
+      "sweep_pq_auc_k4096": {
+        "test_cost_auc": 0.513981,
+        "test_pq_auc": 0.624747,
+        "test_ece": 0.009915
+      },
+      "delta_cost_auc": 0.0,
+      "delta_pq_auc": 0.0,
+      "delta_ece": 0.0,
+      "passed": true
+    },
+    {
+      "seed": 2,
+      "our_full": {
+        "test_cost_auc": 0.478969,
+        "test_pq_auc": 0.595366,
+        "test_ece": 0.023388
+      },
+      "sweep_pq_auc_k4096": {
+        "test_cost_auc": 0.478969,
+        "test_pq_auc": 0.595366,
+        "test_ece": 0.023388
+      },
+      "delta_cost_auc": 0.0,
+      "delta_pq_auc": 0.0,
+      "delta_ece": 0.0,
+      "passed": true
+    }
+  ],
+  "all_passed": true
+}

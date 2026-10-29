@@ -1,0 +1,9 @@
+{
+  "n_models": 70,
+  "quartile_size": 17,
+  "mean_train_accuracy_lowest_re_loss_quartile": 0.694035,
+  "mean_train_accuracy_highest_re_loss_quartile": 0.689511,
+  "gap_high_minus_low": -0.004524,
+  "H4_confirmed": true,
+  "note": "quartile_size=17 models per group (70 train LLMs total) -- much noisier than router-eval's ~750-model quartiles; treat as suggestive, not confirmatory. gap < 0 means worst-discriminating models (highest re_loss) route worse on their own train set."
+}

@@ -1,0 +1,155 @@
+{
+  "per_point": [
+    {
+      "seed": 0,
+      "k": 128,
+      "test_ece_bce_minus_pqauc": 0.001385,
+      "test_brier_bce_minus_pqauc": -0.000282,
+      "test_cost_auc_bce_minus_pqauc": 0.008805,
+      "test_pq_auc_bce_minus_pqauc": 0.000414,
+      "test_top1_acc_bce_minus_pqauc": 0.017753
+    },
+    {
+      "seed": 0,
+      "k": 512,
+      "test_ece_bce_minus_pqauc": 0.003632,
+      "test_brier_bce_minus_pqauc": -8.8e-05,
+      "test_cost_auc_bce_minus_pqauc": 0.007513,
+      "test_pq_auc_bce_minus_pqauc": -0.000911,
+      "test_top1_acc_bce_minus_pqauc": 0.016446
+    },
+    {
+      "seed": 0,
+      "k": 2048,
+      "test_ece_bce_minus_pqauc": 0.005877,
+      "test_brier_bce_minus_pqauc": -0.000951,
+      "test_cost_auc_bce_minus_pqauc": 0.007762,
+      "test_pq_auc_bce_minus_pqauc": -0.006306,
+      "test_top1_acc_bce_minus_pqauc": 0.032237
+    },
+    {
+      "seed": 0,
+      "k": 4096,
+      "test_ece_bce_minus_pqauc": 0.004753,
+      "test_brier_bce_minus_pqauc": -1.8e-05,
+      "test_cost_auc_bce_minus_pqauc": 0.007617,
+      "test_pq_auc_bce_minus_pqauc": -0.004182,
+      "test_top1_acc_bce_minus_pqauc": 0.033732
+    },
+    {
+      "seed": 1,
+      "k": 128,
+      "test_ece_bce_minus_pqauc": -0.001093,
+      "test_brier_bce_minus_pqauc": -0.000153,
+      "test_cost_auc_bce_minus_pqauc": 0.006931,
+      "test_pq_auc_bce_minus_pqauc": 0.000608,
+      "test_top1_acc_bce_minus_pqauc": 0.012802
+    },
+    {
+      "seed": 1,
+      "k": 512,
+      "test_ece_bce_minus_pqauc": -0.000733,
+      "test_brier_bce_minus_pqauc": -0.000239,
+      "test_cost_auc_bce_minus_pqauc": 0.003247,
+      "test_pq_auc_bce_minus_pqauc": 0.001463,
+      "test_top1_acc_bce_minus_pqauc": 0.004111
+    },
+    {
+      "seed": 1,
+      "k": 2048,
+      "test_ece_bce_minus_pqauc": -9.8e-05,
+      "test_brier_bce_minus_pqauc": -1.2e-05,
+      "test_cost_auc_bce_minus_pqauc": 0.000275,
+      "test_pq_auc_bce_minus_pqauc": 5.6e-05,
+      "test_top1_acc_bce_minus_pqauc": 0.000654
+    },
+    {
+      "seed": 1,
+      "k": 4096,
+      "test_ece_bce_minus_pqauc": -0.000838,
+      "test_brier_bce_minus_pqauc": 6.9e-05,
+      "test_cost_auc_bce_minus_pqauc": 0.005259,
+      "test_pq_auc_bce_minus_pqauc": -0.001033,
+      "test_top1_acc_bce_minus_pqauc": 0.007382
+    },
+    {
+      "seed": 2,
+      "k": 128,
+      "test_ece_bce_minus_pqauc": -0.008136,
+      "test_brier_bce_minus_pqauc": -0.000859,
+      "test_cost_auc_bce_minus_pqauc": -0.022177,
+      "test_pq_auc_bce_minus_pqauc": -0.000884,
+      "test_top1_acc_bce_minus_pqauc": -0.039525
+    },
+    {
+      "seed": 2,
+      "k": 512,
+      "test_ece_bce_minus_pqauc": -0.013064,
+      "test_brier_bce_minus_pqauc": -0.001338,
+      "test_cost_auc_bce_minus_pqauc": -0.022358,
+      "test_pq_auc_bce_minus_pqauc": -0.003826,
+      "test_top1_acc_bce_minus_pqauc": -0.040086
+    },
+    {
+      "seed": 2,
+      "k": 2048,
+      "test_ece_bce_minus_pqauc": -0.013851,
+      "test_brier_bce_minus_pqauc": -0.001385,
+      "test_cost_auc_bce_minus_pqauc": -0.022861,
+      "test_pq_auc_bce_minus_pqauc": -0.004455,
+      "test_top1_acc_bce_minus_pqauc": -0.041207
+    },
+    {
+      "seed": 2,
+      "k": 4096,
+      "test_ece_bce_minus_pqauc": -0.01329,
+      "test_brier_bce_minus_pqauc": -0.001276,
+      "test_cost_auc_bce_minus_pqauc": -0.025267,
+      "test_pq_auc_bce_minus_pqauc": -0.00444,
+      "test_top1_acc_bce_minus_pqauc": -0.045319
+    }
+  ],
+  "summary": {
+    "test_ece": {
+      "n": 12,
+      "bce_wins": 8,
+      "mean_diff_bce_minus_pqauc": -0.002955,
+      "std_diff": 0.006924,
+      "sign_test_p": 0.3877,
+      "lower_is_better": true
+    },
+    "test_brier": {
+      "n": 12,
+      "bce_wins": 11,
+      "mean_diff_bce_minus_pqauc": -0.000544,
+      "std_diff": 0.000547,
+      "sign_test_p": 0.0063,
+      "lower_is_better": true
+    },
+    "test_cost_auc": {
+      "n": 12,
+      "bce_wins": 8,
+      "mean_diff_bce_minus_pqauc": -0.003771,
+      "std_diff": 0.013906,
+      "sign_test_p": 0.3877,
+      "lower_is_better": false
+    },
+    "test_pq_auc": {
+      "n": 12,
+      "bce_wins": 4,
+      "mean_diff_bce_minus_pqauc": -0.001958,
+      "std_diff": 0.002429,
+      "sign_test_p": 0.3877,
+      "lower_is_better": false
+    },
+    "test_top1_acc": {
+      "n": 12,
+      "bce_wins": 8,
+      "mean_diff_bce_minus_pqauc": -0.003418,
+      "std_diff": 0.028547,
+      "sign_test_p": 0.3877,
+      "lower_is_better": false
+    }
+  },
+  "H3_bce_better_calibrated": false
+}

@@ -1,0 +1,7 @@
+{
+  "statement": "meta_name > meta_struct (a learned text encoder recovers more than hand-parsed fields); either direction is informative",
+  "meta_name_mean": 0.461704,
+  "meta_struct_mean": 0.494558,
+  "mean_delta": -0.032854,
+  "n_seeds_meta_name_higher": 0
+}

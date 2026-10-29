@@ -1,0 +1,15 @@
+{
+  "config": {
+    "mf_dim": 64,
+    "p_drop": 0.3,
+    "seed": 0
+  },
+  "fit_s": 297.33,
+  "device": "cpu",
+  "mf_train_bce": 0.15728,
+  "val_bce": 0.594871,
+  "n_train_q": 21404,
+  "n_train_l": 70,
+  "test_cost_auc": 0.482595,
+  "test_pq_auc": 0.602574
+}

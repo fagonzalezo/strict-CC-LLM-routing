@@ -1,0 +1,106 @@
+{
+  "condition": "metadata_ablation",
+  "dataset": "embedllm",
+  "arm": "concat",
+  "seed": 2,
+  "objective": "pq_auc",
+  "k_protocol": "per_arm_val_selected",
+  "k_protocol_note": "k is swept and val-selected within each arm; it is NOT inherited from the fp arm, whose k was selected for fingerprint inputs.",
+  "k_selection": {
+    "grid": [
+      {
+        "k": 128,
+        "val_cost_auc": 0.46621433061846485,
+        "val_brier": 0.19910790026187897,
+        "val_pq_auc": 0.6327719601622961,
+        "fit_elapsed_s": 351.32
+      },
+      {
+        "k": 512,
+        "val_cost_auc": 0.4707074878260898,
+        "val_brier": 0.19920861721038818,
+        "val_pq_auc": 0.6344245811828488,
+        "fit_elapsed_s": 375.63
+      },
+      {
+        "k": 2048,
+        "val_cost_auc": 0.47093750446616606,
+        "val_brier": 0.19920235872268677,
+        "val_pq_auc": 0.6343362713318591,
+        "fit_elapsed_s": 397.84
+      },
+      {
+        "k": 4096,
+        "val_cost_auc": 0.47059168644802474,
+        "val_brier": 0.19923371076583862,
+        "val_pq_auc": 0.634366905013538,
+        "fit_elapsed_s": 323.34
+      }
+    ],
+    "selected_k": 2048
+  },
+  "llm_representation": {
+    "arm": "concat",
+    "raw_dim": 2071,
+    "encoded_dim": 32
+  },
+  "raw_bundle": "data/embedllm/processed/metadata_variants/concat/llm_perf_dataset.pkl",
+  "encoded_bundle": "data/embedllm/processed/metadata_variants/concat/mlpdot_encoded_seed2/llm_perf_dataset_mlpdot_encoded.pkl",
+  "bfdkr_reused_stage1_fit": false,
+  "knn_enc": {
+    "k_q": 256,
+    "k_l": 1,
+    "val_cost_auc": 0.473078,
+    "grid_size": 49
+  },
+  "knn_raw": {
+    "k_q": 1024,
+    "k_l": 2,
+    "val_cost_auc": 0.46913,
+    "grid_size": 49,
+    "caveat": "cosine metric on the raw variant representation; for meta_struct that is a 23-d mostly-indicator vector, a geometry cosine kNN is not well suited to -- reported as a sub-row, not the kNN row (see DESIGN.md section 9)"
+  },
+  "predictions": {
+    "bfdkr": {
+      "path": "experiments/embedllm/metadata-ablation/results/seed2/concat/P_test_bfdkr.npy",
+      "shape": [
+        10702,
+        21
+      ],
+      "dtype": "float32",
+      "sha256": "1854cf382446c4f246e22ebee5535d588eeaf9d30a3a5e152f8263390433f9e5",
+      "committed": false
+    },
+    "mlpdot": {
+      "path": "experiments/embedllm/metadata-ablation/results/seed2/concat/P_test_mlpdot.npy",
+      "shape": [
+        10702,
+        21
+      ],
+      "dtype": "float32",
+      "sha256": "57d1743073825a7bb78679ab0cf0d196e69ed9d58a302469ce155ade8c4182b7",
+      "committed": false
+    },
+    "knn_enc": {
+      "path": "experiments/embedllm/metadata-ablation/results/seed2/concat/P_test_knn_enc.npy",
+      "shape": [
+        10702,
+        21
+      ],
+      "dtype": "float32",
+      "sha256": "52d5749b60a9c2cf9f8ded1dd07e608fd08baad3d31a322ff339498a25027c5b",
+      "committed": false
+    },
+    "knn_raw": {
+      "path": "experiments/embedllm/metadata-ablation/results/seed2/concat/P_test_knn_raw.npy",
+      "shape": [
+        10702,
+        21
+      ],
+      "dtype": "float32",
+      "sha256": "d4a2f9356e1b5312de3f28d65593244cd088c4997998cada56d803274dc386ef",
+      "committed": false
+    }
+  },
+  "reproduction_gate": null
+}

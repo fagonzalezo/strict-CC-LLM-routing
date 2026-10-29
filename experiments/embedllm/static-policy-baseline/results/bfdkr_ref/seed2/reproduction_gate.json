@@ -1,0 +1,20 @@
+{
+  "source": "experiments/embedllm/all-methods-comparison/results/seed_summary.json -> methods[label=='BF-DKR (pq_auc)'] (protocol 'per-seed val-selected k') -> per_seed[seed=2]",
+  "expected_config": "k=4096",
+  "expected_test_cost_auc": 0.478969,
+  "expected_test_pq_auc": 0.595366,
+  "expected_test_ece": 0.023388,
+  "floor_cost_auc": 0.394225,
+  "oracle_cost_auc": 0.868398,
+  "three_seed_mean_cost_auc": 0.498651,
+  "three_seed_std_cost_auc": 0.014621,
+  "seed": 2,
+  "derived_k": 4096,
+  "objective": "pq_auc",
+  "observed_test_cost_auc": 0.48011,
+  "observed_test_pq_auc": 0.597521,
+  "observed_test_ece": 0.019769,
+  "drift_cost_auc": 0.001141,
+  "tie_band_cost_auc": 0.0035,
+  "passed": true
+}

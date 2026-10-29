@@ -1,0 +1,115 @@
+{
+  "condition": "metadata_ablation",
+  "dataset": "router-eval",
+  "arm": "fp",
+  "seed": 0,
+  "objective": "pq_auc",
+  "k_protocol": "per_arm_val_selected",
+  "k_protocol_note": "k is swept and val-selected within each arm; it is NOT inherited from the fp arm, whose k was selected for fingerprint inputs.",
+  "k_selection": {
+    "grid": [
+      {
+        "k": 128,
+        "val_cost_auc": 0.773853,
+        "val_brier": 0.214983,
+        "committed_test_cost_auc": 0.727079
+      },
+      {
+        "k": 512,
+        "val_cost_auc": 0.778437,
+        "val_brier": 0.214856,
+        "committed_test_cost_auc": 0.739515
+      },
+      {
+        "k": 2048,
+        "val_cost_auc": 0.776458,
+        "val_brier": 0.214539,
+        "committed_test_cost_auc": 0.741011
+      },
+      {
+        "k": 4096,
+        "val_cost_auc": 0.77831,
+        "val_brier": 0.214433,
+        "committed_test_cost_auc": 0.740977
+      }
+    ],
+    "selected_k": 512
+  },
+  "llm_representation": {
+    "arm": "fp",
+    "raw_dim": 2048,
+    "encoded_dim": 128
+  },
+  "raw_bundle": "data/router-eval/processed/llm_perf_dataset.pkl",
+  "encoded_bundle": "data/router-eval/processed/mlpdot_encoded_seed0/llm_perf_dataset_mlpdot_encoded.pkl",
+  "bfdkr_reused_stage1_fit": true,
+  "knn_enc": {
+    "k_q": 1024,
+    "k_l": 4,
+    "val_cost_auc": 0.77643,
+    "grid_size": 42
+  },
+  "knn_raw": {
+    "k_q": 4096,
+    "k_l": 16,
+    "val_cost_auc": 0.729045,
+    "grid_size": 42,
+    "caveat": "cosine metric on the raw variant representation; for meta_struct that is a ~100-d mostly-indicator vector, a geometry cosine kNN is not well suited to -- reported as a sub-row, not the kNN row (see DESIGN.md section 9)"
+  },
+  "predictions": {
+    "bfdkr": {
+      "path": "experiments/router-eval/metadata-ablation/results/seed0/fp/P_test_bfdkr.npy",
+      "shape": [
+        2894,
+        376
+      ],
+      "dtype": "float32",
+      "sha256": "22671029f3602eab7b152d3c409cc9c5b800f04c7cee23ebf22d16ad993fbe70",
+      "committed": false
+    },
+    "mlpdot": {
+      "path": "experiments/router-eval/metadata-ablation/results/seed0/fp/P_test_mlpdot.npy",
+      "shape": [
+        2894,
+        376
+      ],
+      "dtype": "float32",
+      "sha256": "923ff60f0ed6fb920bceff0f90dfa5d5af0d4bb0a63a33714869e9ce2e70dd4c",
+      "committed": false
+    },
+    "knn_enc": {
+      "path": "experiments/router-eval/metadata-ablation/results/seed0/fp/P_test_knn_enc.npy",
+      "shape": [
+        2894,
+        376
+      ],
+      "dtype": "float32",
+      "sha256": "a492284eaf33f97c4edd6c4fe39f40fbaeda9780df313b57d0aebb64af250516",
+      "committed": false
+    },
+    "knn_raw": {
+      "path": "experiments/router-eval/metadata-ablation/results/seed0/fp/P_test_knn_raw.npy",
+      "shape": [
+        2894,
+        376
+      ],
+      "dtype": "float32",
+      "sha256": "0e8eafaa1e9d96fb58c1fc1ee661a88b0c310a62d13fd61aefbb029289c69d22",
+      "committed": false
+    }
+  },
+  "reproduction_gate": {
+    "source": "seed_summary.json -> methods['BF-DKR (pq_auc)'] -> per_seed[0]",
+    "expected_config": "k=512",
+    "expected_test_cost_auc": 0.739515,
+    "floor_cost_auc": 0.538449,
+    "oracle_cost_auc": 0.947298,
+    "seed": 0,
+    "observed_test_cost_auc": 0.739515,
+    "derived_k": 512,
+    "reused_stage1_fit": true,
+    "drift_cost_auc": 0.0,
+    "tie_band_cost_auc": 0.0035,
+    "passed": true
+  }
+}

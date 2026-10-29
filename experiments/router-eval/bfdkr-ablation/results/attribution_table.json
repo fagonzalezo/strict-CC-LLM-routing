@@ -1,0 +1,158 @@
+{
+  "full": {
+    "test_cost_auc": {
+      "mean": 0.738856,
+      "std": 0.003481
+    },
+    "test_pq_auc": {
+      "mean": 0.768688,
+      "std": 0.003284
+    },
+    "test_ece": {
+      "mean": 0.00991,
+      "std": 0.001451
+    },
+    "test_brier": {
+      "mean": 0.212783,
+      "std": 0.000427
+    },
+    "test_aiq": {
+      "mean": 0.200407,
+      "std": 0.003481
+    },
+    "test_aiq_deploy": {
+      "mean": 0.155974,
+      "std": 0.003567
+    }
+  },
+  "qk_off": {
+    "test_cost_auc": {
+      "mean": 0.727793,
+      "std": 0.001529
+    },
+    "test_pq_auc": {
+      "mean": 0.76547,
+      "std": 0.003452
+    },
+    "test_ece": {
+      "mean": 0.013005,
+      "std": 0.005545
+    },
+    "test_brier": {
+      "mean": 0.216006,
+      "std": 0.001007
+    },
+    "test_aiq": {
+      "mean": 0.189344,
+      "std": 0.001529
+    },
+    "test_aiq_deploy": {
+      "mean": 0.148268,
+      "std": 0.005037
+    }
+  },
+  "lk_off": {
+    "test_cost_auc": {
+      "mean": 0.724236,
+      "std": 0.005927
+    },
+    "test_pq_auc": {
+      "mean": 0.769046,
+      "std": 0.00327
+    },
+    "test_ece": {
+      "mean": 0.009921,
+      "std": 0.001831
+    },
+    "test_brier": {
+      "mean": 0.213087,
+      "std": 0.000419
+    },
+    "test_aiq": {
+      "mean": 0.185787,
+      "std": 0.005927
+    },
+    "test_aiq_deploy": {
+      "mean": 0.143189,
+      "std": 0.024579
+    }
+  },
+  "bw_off": {
+    "test_cost_auc": {
+      "mean": 0.667714,
+      "std": 0.001358
+    },
+    "test_pq_auc": {
+      "mean": 0.739003,
+      "std": 0.00313
+    },
+    "test_ece": {
+      "mean": 0.047457,
+      "std": 0.004019
+    },
+    "test_brier": {
+      "mean": 0.224879,
+      "std": 0.001158
+    },
+    "test_aiq": {
+      "mean": 0.129265,
+      "std": 0.001358
+    },
+    "test_aiq_deploy": {
+      "mean": 0.168849,
+      "std": 0.000193
+    }
+  },
+  "full_ext": {
+    "test_cost_auc": {
+      "mean": 0.738767,
+      "std": 0.004014
+    },
+    "test_pq_auc": {
+      "mean": 0.768964,
+      "std": 0.003254
+    },
+    "test_ece": {
+      "mean": 0.009986,
+      "std": 0.001494
+    },
+    "test_brier": {
+      "mean": 0.212788,
+      "std": 0.000466
+    },
+    "test_aiq": {
+      "mean": 0.200318,
+      "std": 0.004014
+    },
+    "test_aiq_deploy": {
+      "mean": 0.155919,
+      "std": 0.00428
+    }
+  },
+  "knn_enc": {
+    "test_cost_auc": {
+      "mean": 0.721484,
+      "std": 0.007226
+    },
+    "test_pq_auc": {
+      "mean": 0.762081,
+      "std": 0.005557
+    },
+    "test_ece": {
+      "mean": 0.01148,
+      "std": 0.001533
+    },
+    "test_brier": {
+      "mean": 0.213561,
+      "std": 0.000252
+    },
+    "test_aiq": {
+      "mean": 0.183035,
+      "std": 0.007226
+    },
+    "test_aiq_deploy": {
+      "mean": 0.148933,
+      "std": 0.016036
+    }
+  }
+}

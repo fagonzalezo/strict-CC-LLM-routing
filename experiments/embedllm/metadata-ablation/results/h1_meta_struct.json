@@ -1,0 +1,40 @@
+{
+  "statement": "fp > meta_struct in cost_auc on 3/3 seeds, CIs excluding 0",
+  "arm": "meta_struct",
+  "reference": "fp",
+  "tie_band_cost_auc": 0.0035,
+  "per_seed": [
+    {
+      "cost_auc_gap_point": 0.023122,
+      "cost_auc_gap_ci95": [
+        0.017702,
+        0.02856
+      ],
+      "cost_auc_gap_excludes_zero": true,
+      "outside_tie_band": true
+    },
+    {
+      "cost_auc_gap_point": 0.007677,
+      "cost_auc_gap_ci95": [
+        0.002142,
+        0.013582
+      ],
+      "cost_auc_gap_excludes_zero": true,
+      "outside_tie_band": true
+    },
+    {
+      "cost_auc_gap_point": -0.019143,
+      "cost_auc_gap_ci95": [
+        -0.02571,
+        -0.012768
+      ],
+      "cost_auc_gap_excludes_zero": true,
+      "outside_tie_band": true
+    }
+  ],
+  "n_seeds": 3,
+  "reference_wins": 2,
+  "arm_wins": 1,
+  "ties_within_band": 0,
+  "mean_gap": 0.003885
+}

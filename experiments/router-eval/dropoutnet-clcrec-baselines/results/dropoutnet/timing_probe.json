@@ -1,0 +1,15 @@
+{
+  "config": {
+    "mf_dim": 16,
+    "p_drop": 0.3,
+    "seed": 0
+  },
+  "fit_s": 283.56,
+  "device": "cuda",
+  "mf_train_bce": 0.28134,
+  "val_bce": 0.619052,
+  "n_train_q": 22906,
+  "n_train_l": 2999,
+  "test_cost_auc": 0.723909,
+  "test_pq_auc": 0.766933
+}

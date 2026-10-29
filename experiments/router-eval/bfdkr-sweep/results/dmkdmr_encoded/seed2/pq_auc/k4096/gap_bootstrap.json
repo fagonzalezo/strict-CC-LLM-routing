@@ -1,0 +1,21 @@
+{
+  "cost_auc_gap_point": 0.010614,
+  "cost_auc_gap_ci95": [
+    0.002682,
+    0.018562
+  ],
+  "cost_auc_gap_excludes_zero": true,
+  "pq_auc_gap_point": 0.006423,
+  "pq_auc_gap_ci95": [
+    0.004469,
+    0.008275
+  ],
+  "pq_auc_gap_excludes_zero": true,
+  "n_boot": 1000,
+  "n_queries": 2894,
+  "single_seed": true,
+  "reference": "mlpdot_in_task",
+  "seed": 2,
+  "objective": "pq_auc",
+  "k": 4096
+}

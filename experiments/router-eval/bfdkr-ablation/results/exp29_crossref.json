@@ -1,0 +1,27 @@
+{
+  "note": "Directional only -- exp_29 used the old pre-src/eval, per-benchmark-macro, pq_auc-primary protocol on the RAW sup-EmbedKit representation (different embeddings, different pipeline). Not a matched numeric comparison.",
+  "source": "experiments/router-eval/INDEX.md exp_29 row",
+  "qk_off": {
+    "exp38_encoded_mean_delta_pq_auc": -0.003218,
+    "exp29_raw": {
+      "delta_pq_auc": -0.003,
+      "note": "replicates specialist result; inert"
+    }
+  },
+  "lk_off": {
+    "exp38_encoded_mean_delta_pq_auc": 0.000358,
+    "exp38_encoded_mean_delta_aiq_deploy": -0.012785,
+    "exp29_raw": {
+      "delta_pq_auc": -0.005,
+      "delta_aiq_deploy": -0.036,
+      "note": "inert for full-range ranking; deploy-window AIQ collapses"
+    }
+  },
+  "bw_off": {
+    "exp38_encoded_mean_delta_pq_auc": -0.029685,
+    "exp29_raw": {
+      "delta_pq_auc": -0.026,
+      "note": "ECE x3.2, AIQ -0.067; dominant component on raw embeddings"
+    }
+  }
+}

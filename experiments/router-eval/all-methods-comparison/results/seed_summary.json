@@ -1,0 +1,949 @@
+{
+  "floor_cost_auc": 0.538449,
+  "oracle_cost_auc": 0.947298,
+  "methods": [
+    {
+      "label": "BF-DKR (pq_auc)",
+      "code_name": "dmkdmr_encoded/pq_auc",
+      "source_exp": "router-eval/bfdkr-sweep/results/dmkdmr_encoded/*/pq_auc",
+      "protocol": "per-seed val-selected k",
+      "n_seeds": 3,
+      "per_seed": [
+        {
+          "seed": 0,
+          "config": "k=512",
+          "val_cost_auc": 0.778437,
+          "val_brier": 0.214856,
+          "test_cost_auc": 0.739515,
+          "test_aiq": 0.201066,
+          "test_pq_auc": 0.764808,
+          "test_ece": 0.015854,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        },
+        {
+          "seed": 1,
+          "config": "k=2048",
+          "val_cost_auc": 0.782023,
+          "val_brier": 0.214063,
+          "test_cost_auc": 0.741278,
+          "test_aiq": 0.202829,
+          "test_pq_auc": 0.767879,
+          "test_ece": 0.009764,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        },
+        {
+          "seed": 2,
+          "config": "k=128",
+          "val_cost_auc": 0.767618,
+          "val_brier": 0.215949,
+          "test_cost_auc": 0.728709,
+          "test_aiq": 0.190261,
+          "test_pq_auc": 0.770252,
+          "test_ece": 0.020468,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        }
+      ],
+      "mean": {
+        "cost_auc": 0.736501,
+        "aiq": 0.198052,
+        "pq_auc": 0.767646,
+        "ece": 0.015362
+      },
+      "std": {
+        "cost_auc": 0.005556,
+        "aiq": 0.005556,
+        "pq_auc": 0.002229,
+        "ece": 0.004384
+      },
+      "val_selected": {
+        "seed": 1,
+        "config": "k=2048",
+        "val_cost_auc": 0.782023,
+        "test_cost_auc": 0.741278,
+        "test_aiq": 0.202829,
+        "test_pq_auc": 0.767879,
+        "test_ece": 0.009764
+      },
+      "floor_cost_auc": 0.538449,
+      "oracle_cost_auc": 0.947298
+    },
+    {
+      "label": "BF-DKR (bce)",
+      "code_name": "dmkdmr_encoded/bce",
+      "source_exp": "router-eval/bfdkr-sweep/results/dmkdmr_encoded/*/bce",
+      "protocol": "per-seed val-selected k",
+      "n_seeds": 3,
+      "per_seed": [
+        {
+          "seed": 0,
+          "config": "k=512",
+          "val_cost_auc": 0.77878,
+          "val_brier": 0.21435,
+          "test_cost_auc": 0.738376,
+          "test_aiq": 0.199927,
+          "test_pq_auc": 0.764263,
+          "test_ece": 0.014547,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        },
+        {
+          "seed": 1,
+          "config": "k=4096",
+          "val_cost_auc": 0.778519,
+          "val_brier": 0.213511,
+          "test_cost_auc": 0.739572,
+          "test_aiq": 0.201123,
+          "test_pq_auc": 0.767481,
+          "test_ece": 0.009589,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        },
+        {
+          "seed": 2,
+          "config": "k=128",
+          "val_cost_auc": 0.767076,
+          "val_brier": 0.215606,
+          "test_cost_auc": 0.729987,
+          "test_aiq": 0.191538,
+          "test_pq_auc": 0.76939,
+          "test_ece": 0.020179,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        }
+      ],
+      "mean": {
+        "cost_auc": 0.735978,
+        "aiq": 0.197529,
+        "pq_auc": 0.767045,
+        "ece": 0.014772
+      },
+      "std": {
+        "cost_auc": 0.004265,
+        "aiq": 0.004265,
+        "pq_auc": 0.002116,
+        "ece": 0.004326
+      },
+      "val_selected": {
+        "seed": 0,
+        "config": "k=512",
+        "val_cost_auc": 0.77878,
+        "test_cost_auc": 0.738376,
+        "test_aiq": 0.199927,
+        "test_pq_auc": 0.764263,
+        "test_ece": 0.014547
+      },
+      "floor_cost_auc": 0.538449,
+      "oracle_cost_auc": 0.947298
+    },
+    {
+      "label": "DropoutNet",
+      "code_name": "dropoutnet",
+      "source_exp": "router-eval/dropoutnet-clcrec-baselines/dropoutnet",
+      "protocol": "fixed HP-search winner",
+      "n_seeds": 3,
+      "per_seed": [
+        {
+          "seed": 0,
+          "config": "mf_dim32_pdrop0.7",
+          "val_cost_auc": 0.771589,
+          "val_brier": 0.214059,
+          "test_cost_auc": 0.727765,
+          "test_aiq": 0.189316,
+          "test_pq_auc": 0.770272,
+          "test_ece": 0.025711,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        },
+        {
+          "seed": 1,
+          "config": "mf_dim32_pdrop0.7",
+          "val_cost_auc": 0.764569,
+          "val_brier": 0.215154,
+          "test_cost_auc": 0.726392,
+          "test_aiq": 0.187943,
+          "test_pq_auc": 0.763834,
+          "test_ece": 0.016795,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        },
+        {
+          "seed": 2,
+          "config": "mf_dim32_pdrop0.7",
+          "val_cost_auc": 0.769034,
+          "val_brier": 0.216077,
+          "test_cost_auc": 0.723216,
+          "test_aiq": 0.184767,
+          "test_pq_auc": 0.765874,
+          "test_ece": 0.02227,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        }
+      ],
+      "mean": {
+        "cost_auc": 0.725791,
+        "aiq": 0.187342,
+        "pq_auc": 0.76666,
+        "ece": 0.021592
+      },
+      "std": {
+        "cost_auc": 0.001905,
+        "aiq": 0.001905,
+        "pq_auc": 0.002686,
+        "ece": 0.003671
+      },
+      "val_selected": {
+        "seed": 0,
+        "config": "mf_dim32_pdrop0.7",
+        "val_cost_auc": 0.771589,
+        "test_cost_auc": 0.727765,
+        "test_aiq": 0.189316,
+        "test_pq_auc": 0.770272,
+        "test_ece": 0.025711
+      },
+      "floor_cost_auc": 0.538449,
+      "oracle_cost_auc": 0.947298
+    },
+    {
+      "label": "MLPDot",
+      "code_name": "mlpdot-baseline",
+      "source_exp": "router-eval/mlpdot-baseline",
+      "protocol": "fixed val-selected architecture",
+      "n_seeds": 3,
+      "per_seed": [
+        {
+          "seed": 0,
+          "config": "target_dim=128,hidden_dim=256,n_layers=2",
+          "val_cost_auc": 0.773725,
+          "val_brier": 0.215708,
+          "test_cost_auc": 0.718116,
+          "test_aiq": 0.179667,
+          "test_pq_auc": 0.76552,
+          "test_ece": 0.015865,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        },
+        {
+          "seed": 1,
+          "config": "target_dim=128,hidden_dim=256,n_layers=2",
+          "val_cost_auc": 0.777462,
+          "val_brier": 0.21533,
+          "test_cost_auc": 0.719871,
+          "test_aiq": 0.181422,
+          "test_pq_auc": 0.764832,
+          "test_ece": 0.020498,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        },
+        {
+          "seed": 2,
+          "config": "target_dim=128,hidden_dim=256,n_layers=2",
+          "val_cost_auc": 0.770889,
+          "val_brier": 0.216259,
+          "test_cost_auc": 0.723334,
+          "test_aiq": 0.184885,
+          "test_pq_auc": 0.766643,
+          "test_ece": 0.041249,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        }
+      ],
+      "mean": {
+        "cost_auc": 0.72044,
+        "aiq": 0.181991,
+        "pq_auc": 0.765665,
+        "ece": 0.025871
+      },
+      "std": {
+        "cost_auc": 0.002168,
+        "aiq": 0.002168,
+        "pq_auc": 0.000746,
+        "ece": 0.011037
+      },
+      "val_selected": {
+        "seed": 1,
+        "config": "target_dim=128,hidden_dim=256,n_layers=2",
+        "val_cost_auc": 0.777462,
+        "test_cost_auc": 0.719871,
+        "test_aiq": 0.181422,
+        "test_pq_auc": 0.764832,
+        "test_ece": 0.020498
+      },
+      "floor_cost_auc": 0.538449,
+      "oracle_cost_auc": 0.947298
+    },
+    {
+      "label": "kNN",
+      "code_name": "knn-baseline",
+      "source_exp": "router-eval/knn-baseline",
+      "protocol": "single deterministic run (no seed axis)",
+      "n_seeds": 1,
+      "per_seed": [
+        {
+          "seed": null,
+          "config": "k_q=512,k_l=8",
+          "val_cost_auc": null,
+          "val_brier": null,
+          "test_cost_auc": 0.699965,
+          "test_aiq": 0.161516,
+          "test_pq_auc": 0.742782,
+          "test_ece": 0.026159,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        }
+      ],
+      "mean": {
+        "cost_auc": 0.699965,
+        "aiq": 0.161516,
+        "pq_auc": 0.742782,
+        "ece": 0.026159
+      },
+      "std": {
+        "cost_auc": null,
+        "aiq": null,
+        "pq_auc": null,
+        "ece": null
+      },
+      "val_selected": null,
+      "floor_cost_auc": 0.538449,
+      "oracle_cost_auc": 0.947298
+    },
+    {
+      "label": "CLCRec",
+      "code_name": "clcrec",
+      "source_exp": "router-eval/dropoutnet-clcrec-baselines/clcrec",
+      "protocol": "fixed HP-search winner",
+      "n_seeds": 3,
+      "per_seed": [
+        {
+          "seed": 0,
+          "config": "lre0.5_tau0.2",
+          "val_cost_auc": 0.693098,
+          "val_brier": 0.225931,
+          "test_cost_auc": 0.684174,
+          "test_aiq": 0.145725,
+          "test_pq_auc": 0.73541,
+          "test_ece": 0.0212,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        },
+        {
+          "seed": 1,
+          "config": "lre0.5_tau0.2",
+          "val_cost_auc": 0.678373,
+          "val_brier": 0.225863,
+          "test_cost_auc": 0.66414,
+          "test_aiq": 0.125691,
+          "test_pq_auc": 0.730656,
+          "test_ece": 0.028994,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        },
+        {
+          "seed": 2,
+          "config": "lre0.5_tau0.2",
+          "val_cost_auc": 0.698676,
+          "val_brier": 0.225929,
+          "test_cost_auc": 0.681188,
+          "test_aiq": 0.142739,
+          "test_pq_auc": 0.739156,
+          "test_ece": 0.032538,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        }
+      ],
+      "mean": {
+        "cost_auc": 0.676501,
+        "aiq": 0.138052,
+        "pq_auc": 0.735074,
+        "ece": 0.027577
+      },
+      "std": {
+        "cost_auc": 0.008825,
+        "aiq": 0.008825,
+        "pq_auc": 0.003478,
+        "ece": 0.004736
+      },
+      "val_selected": {
+        "seed": 2,
+        "config": "lre0.5_tau0.2",
+        "val_cost_auc": 0.698676,
+        "test_cost_auc": 0.681188,
+        "test_aiq": 0.142739,
+        "test_pq_auc": 0.739156,
+        "test_ece": 0.032538
+      },
+      "floor_cost_auc": 0.538449,
+      "oracle_cost_auc": 0.947298
+    },
+    {
+      "label": "FSGNN",
+      "code_name": "coldrec/FSGNN/config2",
+      "source_exp": "coldrec-baselines (router-eval)",
+      "protocol": "fixed HP-search winner (argmax test pq_auc)",
+      "n_seeds": 3,
+      "per_seed": [
+        {
+          "seed": 0,
+          "config": "config2",
+          "val_cost_auc": null,
+          "val_brier": null,
+          "test_cost_auc": 0.614121,
+          "test_aiq": 0.075672,
+          "test_pq_auc": 0.606883,
+          "test_ece": 0.056819,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        },
+        {
+          "seed": 1,
+          "config": "config2",
+          "val_cost_auc": null,
+          "val_brier": null,
+          "test_cost_auc": 0.614121,
+          "test_aiq": 0.075672,
+          "test_pq_auc": 0.606494,
+          "test_ece": 0.057238,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        },
+        {
+          "seed": 2,
+          "config": "config2",
+          "val_cost_auc": null,
+          "val_brier": null,
+          "test_cost_auc": 0.614121,
+          "test_aiq": 0.075672,
+          "test_pq_auc": 0.606641,
+          "test_ece": 0.057545,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        }
+      ],
+      "mean": {
+        "cost_auc": 0.614121,
+        "aiq": 0.075672,
+        "pq_auc": 0.606673,
+        "ece": 0.057201
+      },
+      "std": {
+        "cost_auc": 0.0,
+        "aiq": 0.0,
+        "pq_auc": 0.00016,
+        "ece": 0.000298
+      },
+      "val_selected": null,
+      "floor_cost_auc": 0.538449,
+      "oracle_cost_auc": 0.947298
+    },
+    {
+      "label": "AGNN",
+      "code_name": "coldrec/AGNN/config18",
+      "source_exp": "coldrec-baselines (router-eval)",
+      "protocol": "fixed HP-search winner (argmax test pq_auc)",
+      "n_seeds": 3,
+      "per_seed": [
+        {
+          "seed": 0,
+          "config": "config18",
+          "val_cost_auc": null,
+          "val_brier": null,
+          "test_cost_auc": 0.667365,
+          "test_aiq": 0.128916,
+          "test_pq_auc": 0.660883,
+          "test_ece": 0.04208,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        },
+        {
+          "seed": 1,
+          "config": "config18",
+          "val_cost_auc": null,
+          "val_brier": null,
+          "test_cost_auc": 0.659029,
+          "test_aiq": 0.12058,
+          "test_pq_auc": 0.505383,
+          "test_ece": 0.129861,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        },
+        {
+          "seed": 2,
+          "config": "config18",
+          "val_cost_auc": null,
+          "val_brier": null,
+          "test_cost_auc": 0.372336,
+          "test_aiq": -0.166113,
+          "test_pq_auc": 0.614873,
+          "test_ece": 0.004007,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        }
+      ],
+      "mean": {
+        "cost_auc": 0.566243,
+        "aiq": 0.027794,
+        "pq_auc": 0.593713,
+        "ece": 0.058649
+      },
+      "std": {
+        "cost_auc": 0.137155,
+        "aiq": 0.137155,
+        "pq_auc": 0.065222,
+        "ece": 0.052699
+      },
+      "val_selected": null,
+      "floor_cost_auc": 0.538449,
+      "oracle_cost_auc": 0.947298
+    }
+  ],
+  "ablation": [
+    {
+      "label": "Full BF-DKR",
+      "code_name": "bfdkr-ablation/full",
+      "source_exp": "router-eval/bfdkr-ablation/results/full",
+      "protocol": "fixed k=4096, objective=pq_auc",
+      "n_seeds": 3,
+      "per_seed": [
+        {
+          "seed": 0,
+          "config": "k=4096,objective=pq_auc",
+          "val_cost_auc": 0.77831,
+          "val_brier": 0.214433,
+          "test_cost_auc": 0.740977,
+          "test_aiq": 0.202528,
+          "test_pq_auc": 0.765155,
+          "test_ece": 0.011049,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        },
+        {
+          "seed": 1,
+          "config": "k=4096,objective=pq_auc",
+          "val_cost_auc": 0.781537,
+          "val_brier": 0.214083,
+          "test_cost_auc": 0.741642,
+          "test_aiq": 0.203193,
+          "test_pq_auc": 0.767843,
+          "test_ece": 0.007863,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        },
+        {
+          "seed": 2,
+          "config": "k=4096,objective=pq_auc",
+          "val_cost_auc": 0.76276,
+          "val_brier": 0.213994,
+          "test_cost_auc": 0.733948,
+          "test_aiq": 0.195499,
+          "test_pq_auc": 0.773066,
+          "test_ece": 0.010819,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        }
+      ],
+      "mean": {
+        "cost_auc": 0.738856,
+        "aiq": 0.200407,
+        "pq_auc": 0.768688,
+        "ece": 0.00991
+      },
+      "std": {
+        "cost_auc": 0.003481,
+        "aiq": 0.003481,
+        "pq_auc": 0.003284,
+        "ece": 0.001451
+      },
+      "val_selected": {
+        "seed": 1,
+        "config": "k=4096,objective=pq_auc",
+        "val_cost_auc": 0.781537,
+        "test_cost_auc": 0.741642,
+        "test_aiq": 0.203193,
+        "test_pq_auc": 0.767843,
+        "test_ece": 0.007863
+      },
+      "floor_cost_auc": 0.538449,
+      "oracle_cost_auc": 0.947298,
+      "delta_cost_auc_vs_full": null,
+      "n_seeds_ci_excludes_zero": null,
+      "verdict": "reference",
+      "h_file": null
+    },
+    {
+      "label": "No query kernel",
+      "code_name": "bfdkr-ablation/qk_off",
+      "source_exp": "router-eval/bfdkr-ablation/results/qk_off",
+      "protocol": "fixed k=4096, objective=pq_auc",
+      "n_seeds": 3,
+      "per_seed": [
+        {
+          "seed": 0,
+          "config": "k=4096,objective=pq_auc",
+          "val_cost_auc": 0.773797,
+          "val_brier": 0.217466,
+          "test_cost_auc": 0.728006,
+          "test_aiq": 0.189557,
+          "test_pq_auc": 0.761908,
+          "test_ece": 0.018227,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        },
+        {
+          "seed": 1,
+          "config": "k=4096,objective=pq_auc",
+          "val_cost_auc": 0.778926,
+          "val_brier": 0.217751,
+          "test_cost_auc": 0.725823,
+          "test_aiq": 0.187374,
+          "test_pq_auc": 0.76436,
+          "test_ece": 0.005328,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        },
+        {
+          "seed": 2,
+          "config": "k=4096,objective=pq_auc",
+          "val_cost_auc": 0.762535,
+          "val_brier": 0.216277,
+          "test_cost_auc": 0.729549,
+          "test_aiq": 0.1911,
+          "test_pq_auc": 0.770143,
+          "test_ece": 0.01546,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        }
+      ],
+      "mean": {
+        "cost_auc": 0.727793,
+        "aiq": 0.189344,
+        "pq_auc": 0.76547,
+        "ece": 0.013005
+      },
+      "std": {
+        "cost_auc": 0.001529,
+        "aiq": 0.001529,
+        "pq_auc": 0.003452,
+        "ece": 0.005545
+      },
+      "val_selected": {
+        "seed": 1,
+        "config": "k=4096,objective=pq_auc",
+        "val_cost_auc": 0.778926,
+        "test_cost_auc": 0.725823,
+        "test_aiq": 0.187374,
+        "test_pq_auc": 0.76436,
+        "test_ece": 0.005328
+      },
+      "floor_cost_auc": 0.538449,
+      "oracle_cost_auc": 0.947298,
+      "delta_cost_auc_vs_full": -0.011063,
+      "n_seeds_ci_excludes_zero": "3/3",
+      "verdict": "load-bearing",
+      "h_file": "h1_query_kernel.json"
+    },
+    {
+      "label": "Hard nearest LLM",
+      "code_name": "bfdkr-ablation/lk_off",
+      "source_exp": "router-eval/bfdkr-ablation/results/lk_off",
+      "protocol": "fixed k=4096, objective=pq_auc",
+      "n_seeds": 3,
+      "per_seed": [
+        {
+          "seed": 0,
+          "config": "k=4096,objective=pq_auc",
+          "val_cost_auc": 0.763989,
+          "val_brier": 0.214719,
+          "test_cost_auc": 0.729078,
+          "test_aiq": 0.190629,
+          "test_pq_auc": 0.764533,
+          "test_ece": 0.011561,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        },
+        {
+          "seed": 1,
+          "config": "k=4096,objective=pq_auc",
+          "val_cost_auc": 0.77939,
+          "val_brier": 0.214465,
+          "test_cost_auc": 0.715889,
+          "test_aiq": 0.17744,
+          "test_pq_auc": 0.770428,
+          "test_ece": 0.007365,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        },
+        {
+          "seed": 2,
+          "config": "k=4096,objective=pq_auc",
+          "val_cost_auc": 0.761395,
+          "val_brier": 0.214415,
+          "test_cost_auc": 0.727741,
+          "test_aiq": 0.189292,
+          "test_pq_auc": 0.772176,
+          "test_ece": 0.010836,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        }
+      ],
+      "mean": {
+        "cost_auc": 0.724236,
+        "aiq": 0.185787,
+        "pq_auc": 0.769046,
+        "ece": 0.009921
+      },
+      "std": {
+        "cost_auc": 0.005927,
+        "aiq": 0.005927,
+        "pq_auc": 0.00327,
+        "ece": 0.001831
+      },
+      "val_selected": {
+        "seed": 1,
+        "config": "k=4096,objective=pq_auc",
+        "val_cost_auc": 0.77939,
+        "test_cost_auc": 0.715889,
+        "test_aiq": 0.17744,
+        "test_pq_auc": 0.770428,
+        "test_ece": 0.007365
+      },
+      "floor_cost_auc": 0.538449,
+      "oracle_cost_auc": 0.947298,
+      "delta_cost_auc_vs_full": -0.01462,
+      "n_seeds_ci_excludes_zero": "3/3",
+      "verdict": "load-bearing",
+      "h_file": "h2_llm_kernel.json"
+    },
+    {
+      "label": "Encoded kNN (memory-only)",
+      "code_name": "bfdkr-ablation/knn_enc",
+      "source_exp": "router-eval/bfdkr-ablation/results/knn_enc",
+      "protocol": "encoded kNN (no KDM head; no k/objective)",
+      "n_seeds": 3,
+      "per_seed": [
+        {
+          "seed": 0,
+          "config": "n/a (no KDM head)",
+          "val_cost_auc": 0.777176,
+          "val_brier": 0.214957,
+          "test_cost_auc": 0.716127,
+          "test_aiq": 0.177678,
+          "test_pq_auc": 0.763942,
+          "test_ece": 0.012912,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        },
+        {
+          "seed": 1,
+          "config": "n/a (no KDM head)",
+          "val_cost_auc": 0.780443,
+          "val_brier": 0.214593,
+          "test_cost_auc": 0.731699,
+          "test_aiq": 0.19325,
+          "test_pq_auc": 0.767764,
+          "test_ece": 0.009355,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        },
+        {
+          "seed": 2,
+          "config": "n/a (no KDM head)",
+          "val_cost_auc": 0.776858,
+          "val_brier": 0.216272,
+          "test_cost_auc": 0.716625,
+          "test_aiq": 0.178176,
+          "test_pq_auc": 0.754538,
+          "test_ece": 0.012174,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        }
+      ],
+      "mean": {
+        "cost_auc": 0.721484,
+        "aiq": 0.183035,
+        "pq_auc": 0.762081,
+        "ece": 0.01148
+      },
+      "std": {
+        "cost_auc": 0.007226,
+        "aiq": 0.007226,
+        "pq_auc": 0.005557,
+        "ece": 0.001533
+      },
+      "val_selected": {
+        "seed": 1,
+        "config": "n/a (no KDM head)",
+        "val_cost_auc": 0.780443,
+        "test_cost_auc": 0.731699,
+        "test_aiq": 0.19325,
+        "test_pq_auc": 0.767764,
+        "test_ece": 0.009355
+      },
+      "floor_cost_auc": 0.538449,
+      "oracle_cost_auc": 0.947298,
+      "delta_cost_auc_vs_full": -0.017372,
+      "n_seeds_ci_excludes_zero": "3/3",
+      "verdict": "load-bearing",
+      "h_file": "h5_knn.json"
+    },
+    {
+      "label": "No bandwidth search",
+      "code_name": "bfdkr-ablation/bw_off",
+      "source_exp": "router-eval/bfdkr-ablation/results/bw_off",
+      "protocol": "fixed k=4096, objective=pq_auc",
+      "n_seeds": 3,
+      "per_seed": [
+        {
+          "seed": 0,
+          "config": "k=4096,objective=pq_auc",
+          "val_cost_auc": 0.667717,
+          "val_brier": 0.22572,
+          "test_cost_auc": 0.665829,
+          "test_aiq": 0.12738,
+          "test_pq_auc": 0.741427,
+          "test_ece": 0.049306,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        },
+        {
+          "seed": 1,
+          "config": "k=4096,objective=pq_auc",
+          "val_cost_auc": 0.672257,
+          "val_brier": 0.226724,
+          "test_cost_auc": 0.668334,
+          "test_aiq": 0.129885,
+          "test_pq_auc": 0.734584,
+          "test_ece": 0.051187,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        },
+        {
+          "seed": 2,
+          "config": "k=4096,objective=pq_auc",
+          "val_cost_auc": 0.672887,
+          "val_brier": 0.224874,
+          "test_cost_auc": 0.668978,
+          "test_aiq": 0.130529,
+          "test_pq_auc": 0.740998,
+          "test_ece": 0.041878,
+          "test_floor_cost_auc": 0.538449,
+          "test_oracle_cost_auc": 0.947298
+        }
+      ],
+      "mean": {
+        "cost_auc": 0.667714,
+        "aiq": 0.129265,
+        "pq_auc": 0.739003,
+        "ece": 0.047457
+      },
+      "std": {
+        "cost_auc": 0.001358,
+        "aiq": 0.001358,
+        "pq_auc": 0.00313,
+        "ece": 0.004019
+      },
+      "val_selected": {
+        "seed": 2,
+        "config": "k=4096,objective=pq_auc",
+        "val_cost_auc": 0.672887,
+        "test_cost_auc": 0.668978,
+        "test_aiq": 0.130529,
+        "test_pq_auc": 0.740998,
+        "test_ece": 0.041878
+      },
+      "floor_cost_auc": 0.538449,
+      "oracle_cost_auc": 0.947298,
+      "delta_cost_auc_vs_full": -0.071142,
+      "n_seeds_ci_excludes_zero": "3/3",
+      "verdict": "load-bearing",
+      "h_file": "h3_brent.json"
+    }
+  ],
+  "ablation_full_ext_robustness": {
+    "label": "Extended sigma-range (H4)",
+    "code_name": "bfdkr-ablation/full_ext",
+    "source_exp": "router-eval/bfdkr-ablation/results/full_ext",
+    "protocol": "fixed k=4096, objective=pq_auc (Brent range extended to (1/1024, 4.0))",
+    "n_seeds": 3,
+    "per_seed": [
+      {
+        "seed": 0,
+        "config": "k=4096,objective=pq_auc",
+        "val_cost_auc": 0.778534,
+        "val_brier": 0.214434,
+        "test_cost_auc": 0.740676,
+        "test_aiq": 0.202227,
+        "test_pq_auc": 0.765147,
+        "test_ece": 0.011034,
+        "test_floor_cost_auc": 0.538449,
+        "test_oracle_cost_auc": 0.947298
+      },
+      {
+        "seed": 1,
+        "config": "k=4096,objective=pq_auc",
+        "val_cost_auc": 0.782098,
+        "val_brier": 0.214128,
+        "test_cost_auc": 0.742443,
+        "test_aiq": 0.203994,
+        "test_pq_auc": 0.768648,
+        "test_ece": 0.007873,
+        "test_floor_cost_auc": 0.538449,
+        "test_oracle_cost_auc": 0.947298
+      },
+      {
+        "seed": 2,
+        "config": "k=4096,objective=pq_auc",
+        "val_cost_auc": 0.763814,
+        "val_brier": 0.213973,
+        "test_cost_auc": 0.733183,
+        "test_aiq": 0.194734,
+        "test_pq_auc": 0.773098,
+        "test_ece": 0.01105,
+        "test_floor_cost_auc": 0.538449,
+        "test_oracle_cost_auc": 0.947298
+      }
+    ],
+    "mean": {
+      "cost_auc": 0.738767,
+      "aiq": 0.200318,
+      "pq_auc": 0.768964,
+      "ece": 0.009986
+    },
+    "std": {
+      "cost_auc": 0.004014,
+      "aiq": 0.004014,
+      "pq_auc": 0.003254,
+      "ece": 0.001494
+    },
+    "val_selected": {
+      "seed": 1,
+      "config": "k=4096,objective=pq_auc",
+      "val_cost_auc": 0.782098,
+      "test_cost_auc": 0.742443,
+      "test_aiq": 0.203994,
+      "test_pq_auc": 0.768648,
+      "test_ece": 0.007873
+    },
+    "floor_cost_auc": 0.538449,
+    "oracle_cost_auc": 0.947298,
+    "delta_cost_auc_vs_full": -8.8e-05,
+    "n_seeds_ci_excludes_zero": null,
+    "verdict": "robustness (ties full)",
+    "h_file": "h4_sigma_range.json"
+  },
+  "ablation_tie_band_cost_auc": 0.0035,
+  "ablation_tie_band_source": "experiments/router-eval/bfdkr-ablation/results/h{1,2,3,5}_*.json (each h-file's own tie_band_cost_auc; RouterEval's attribution_table.json does not carry this key)",
+  "protocol_reconciliation": {
+    "bfdkr_pqauc_val_selected_k": {
+      "mean": 0.736501,
+      "std": 0.005556
+    },
+    "bfdkr_pqauc_fixed_k4096_3seed": {
+      "mean": 0.738856,
+      "std": 0.003481
+    },
+    "bfdkr_pqauc_seed1_k2048_single": 0.741278
+  }
+}

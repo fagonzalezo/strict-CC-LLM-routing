@@ -1,0 +1,46 @@
+{
+  "AGNN": {
+    "config_idx": 18,
+    "n_seeds": 3,
+    "cost_auc": {
+      "mean": 0.566243,
+      "std": 0.137155
+    },
+    "pq_auc": {
+      "mean": 0.593713,
+      "std": 0.065222
+    },
+    "ece": {
+      "mean": 0.058649,
+      "std": 0.052699
+    },
+    "aiq": {
+      "mean": 0.027794,
+      "std": 0.137155
+    },
+    "floor_cost_auc": 0.538449,
+    "oracle_cost_auc": 0.947298
+  },
+  "FSGNN": {
+    "config_idx": 2,
+    "n_seeds": 3,
+    "cost_auc": {
+      "mean": 0.614121,
+      "std": 0.0
+    },
+    "pq_auc": {
+      "mean": 0.606673,
+      "std": 0.00016
+    },
+    "ece": {
+      "mean": 0.057201,
+      "std": 0.000298
+    },
+    "aiq": {
+      "mean": 0.075672,
+      "std": 0.0
+    },
+    "floor_cost_auc": 0.538449,
+    "oracle_cost_auc": 0.947298
+  }
+}

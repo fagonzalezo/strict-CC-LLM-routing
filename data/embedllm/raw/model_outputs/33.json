@@ -1,0 +1,258 @@
+[
+  {
+    "prompt_id": 0,
+    "output": " Ray takes 16 minutes to swim a mile in cold water.\nSo, he takes 16 * 3 = <<16 * 3=48>> minutes to swim 3 miles in cold water.\nThe water is warm, so Ray takes 2 minutes more than twice as long to swim a mile.\nSo, he takes 2 minutes more than twice the time it took him to swim a mile in cold water.\nTherefore, he takes 48 + 2 = <<48 + 2=50>> minutes to swim 3 miles in warm water.\nThe difference between the time it took Ray to swim 3 miles in cold water and the time it took him to swim 3 miles in warm water is 50 - 48 = <<50 - 48=2>> minutes.\n#### 2"
+  },
+  {
+    "prompt_id": 1,
+    "output": " With 950 seats for graduates and 300 seats for faculty, there are 6000 - 950 - 300 = <<6000-950-300=5050>>5050 tickets left.\nIf the tickets are split equally among the graduates, each graduate will receive 5050/950 = 5 tickets.\n#### 5"
+  },
+  {
+    "prompt_id": 2,
+    "output": " There are a total of 100 hats and half of them are red, so there are 100 - 50 = <<100-50=50>>50 hats left.\nThe remaining hats are split into 3/5, which is 15 hats.\nTherefore, Skyler has 15 white hats.\n#### 15"
+  },
+  {
+    "prompt_id": 3,
+    "output": " John has 2 houses with 3 bedrooms and 2 windows per bedroom and 4 additional windows per house.\nThe number of windows in each house is 3 bedrooms * 2 windows per bedroom = 6 windows per house.\nThe number of additional windows in each house is 4 additional windows per house.\nThe total number of windows is 6 windows per house * 2 houses + 4 additional windows per house = 16 windows.\n#### 16"
+  },
+  {
+    "prompt_id": 4,
+    "output": " If Tyson runs 5000 meters every day and he runs 1/5 more meters each day, the total distance he covered in June is 5000 * 30 = <<5000*30=150000>>150000 meters."
+  },
+  {
+    "prompt_id": 5,
+    "output": "  The total number of hours worked is 20 hours.  The hourly wage for the first two months is $10.00.  The hourly wage after the first two months is $10.50.  The hourly wage after the first year is $11.00.  The total cost of working for the first two months is $10.00 * 20 hours = $200.00.  The total cost of working for the first year is $10.50 * 20 hours = $210.00.  The total cost of working for the first year and a salary increase of $1.00 is $11.00 * 20 hours = $220.00.  The total cost of working for Sally is $0.50 * 20 hours = $10.00.  The total amount of money earned by Billy is $200.00 + $210.00 + $220.00 = $630.00.  The total amount of money earned by Sally is $10.00.  The amount of money earned by Billy that is more than the amount of money earned by Sally is $630.00 - $10.00 = $620.00.\n#### 620"
+  },
+  {
+    "prompt_id": 6,
+    "output": " First find the total cost of the dental work: $2000*2 + $500 = <<2000*2+500=4500>>4500\nThen subtract the deposit and any income he has already made: $4500 - $600 = <<4500-600=3900>>3900\nThen divide the remaining cost by his hourly wage to find the number of hours he needs to work: 3900 hours / $15 per hour = <<3900/15=260>>260 hours\n#### 260"
+  },
+  {
+    "prompt_id": 7,
+    "output": " John picks 4 bananas on Wednesday and 6 bananas on Thursday, a total of 4 + 6 = 10 bananas. On Friday, he picks triple the number of bananas he did on Wednesday, which is 10 * 3 = 30 bananas. Therefore, John has a total of 10 + 30 = 40 bananas.\n#### 40"
+  },
+  {
+    "prompt_id": 8,
+    "output": " The total number of pounds of candy is 3+5+4 = <<3+5+4=12>>12 pounds.\nIf they share the candy equally, each person would have 12/3 = <<12/3=4>>4 pounds of candy.\n#### 4"
+  },
+  {
+    "prompt_id": 9,
+    "output": " Lee used to be able to run the 400-meter hurdles two seconds faster than Gerald would run the 400-meter hurdles, so if Lee runs the 400-meter hurdles in 38 seconds, Gerald would be able to run the 400-meter hurdles in 38+2= <<38+2=40>> seconds.\n#### 40"
+  },
+  {
+    "prompt_id": 10,
+    "output": " 10 people will have chicken salad for $6.50 per person = $6.50 x 10 = $65.00\n6 people will have pasta salad for $6 per person = $6 x 6 = $36.00\nTotal cost of catering = $65.00 + $36.00 = $101.00\n#### 101"
+  },
+  {
+    "prompt_id": 11,
+    "output": " The distance John drives is 60 * 3 = 180 miles.\nThe distance he drives in reverse is 30 * 0.5 = 15 miles.\nThe distance he drives in traffic is 2 hours * 0 = 0 miles.\nThe distance he drives going forward is 80 * 2 = 160 miles.\nThe total distance is 180 + 15 + 0 + 160 = 465 miles.\n#### 465"
+  },
+  {
+    "prompt_id": 12,
+    "output": " If a team played 22 games and won 8 more than they lost, then the number of games they won was 22 - 8 = 14 games.\n#### 14"
+  },
+  {
+    "prompt_id": 13,
+    "output": " If Quinn is 30, then Jane is 30 - 3 = <<30-3=27>>27 years old.\nTrent is 5 years older than Jane, so he is 27 + 5 = <<27+5=32>>32 years old.\nTherefore, Trent is 32 years old.\n#### 32"
+  },
+  {
+    "prompt_id": 14,
+    "output": " If Pierre, Paul and Jacques have a total of 12 kg of apples and Peter wants a quarter of that and Paul wants 1/3 of that, there will be 1/4 + 1/3 = <<1/4+1/3=1/12>>1/12 of the apples left for James.\nTherefore, James will have 12 * 1/12 = <<12*1/12=1>>1 kg of apples left.\n#### 1"
+  },
+  {
+    "prompt_id": 15,
+    "output": " The sloth can collect a maximum of 24 berries in 8 hours if he picks up 3 berries per trip down to the ground."
+  },
+  {
+    "prompt_id": 16,
+    "output": " The perimeter of a rectangle is given by the formula 2(length + width).\nThe perimeter of the park is 2(1.5 + 6) = 16 miles.\nIf Gary walks at 3 miles/hour, he will spend 16 hours walking.\n#### 16"
+  },
+  {
+    "prompt_id": 17,
+    "output": " The Affenpinscher weighs 10 pounds.\nThe Dachshund weighs 10 x 2 = <<10*2=20>>20 pounds.\nThe Papillon weighs 20 / 4 = <<20/4=5>>5 pounds.\nThe Mastiff weighs 5 x 44 = <<5*44=220>>220 pounds.\nTherefore, the Mastiff weighed a total of 220 pounds.\n#### 220"
+  },
+  {
+    "prompt_id": 18,
+    "output": " The remaining two pizzas cost 64 - 30 = $<<64-30=34>>34 dollars.\nIf the other two pizzas cost the same amount, then each pizza costs 34 / 2 = $<<34/2=17>>17 dollars.\n#### 17"
+  },
+  {
+    "prompt_id": 19,
+    "output": " The 2 families with 6 people and the 3 families with 4 people have a total of 2*6 + 3*4 = 12 + 12 = 24 people.\nThe 8 people that couldn't come and 1/4 of that number that had previous commitments are a total of 8 + 2 = 10 people.\nSo, the number of people that show up is 24 - 10 = 14 people.\n#### 14"
+  },
+  {
+    "prompt_id": 20,
+    "output": " The average height of heels at this party is \n(3 x 4) + (3 x 2)  / 6 =  <<3*4+3*2=12+6=18>>18 inches.\nTherefore, the average height of heels at this party is 18 inches."
+  },
+  {
+    "prompt_id": 21,
+    "output": " First find the total amount of money John makes from selling the lego sets: 13 lego sets * $15 = $195\nThen find the total cost of the video games: 8 video games * $20 = $160\nThen find the remaining money: $195 - $160 = $35\nIf there is $35 left, John can afford to buy 1 more lego set: $35 / $15 = 2 lego sets\nTherefore, John will have 11 lego sets left."
+  },
+  {
+    "prompt_id": 22,
+    "output": " Ava has 10 points for every enemy she jumps on, so she will have 8 more enemies = 8*10 = 80 points.\nShe also has 5 points for each berry she collects, so she will have 3 more berries = 3*5 = 15 points.\nHowever, she finished the level 4 seconds slower, so she will lose 30 points for that.\nThe total number of points Ava will have is 80 + 15 - 30 = 65 points.\nEmma's score is not included in this text therefore I cannot complete this question."
+  },
+  {
+    "prompt_id": 23,
+    "output": " On the first day, Sloane counted 100 customers. On the second day, she counted 50 more customers, which means the total number of customers by the second day was 100 + 50 = <<100+50=150>>150 customers.\nTherefore, the number of customers counted on the third day was 500 - 150 = <<500-150=350>>350 customers.\n#### 350"
+  },
+  {
+    "prompt_id": 24,
+    "output": " The fine for each book is $0.50, so the total fine for the books is 8 * $0.50 = $4.00.\nThe flat fee is $2.00, so the total cost is $4.00 + $2.00 = $6.00.\n#### $6.00"
+  },
+  {
+    "prompt_id": 25,
+    "output": " Ben's iPhone is 1 year old. So, Ben's iPhone is 2 years old. Brandon's iPhone is four times as old as Ben's iPhone, which is 2 years old. Therefore, Brandon's iPhone is 2 x 4 = <<2*4=8>>8 years old.\n#### 8"
+  },
+  {
+    "prompt_id": 26,
+    "output": " If there are four children and each one gets the same number of eggs, then each child will get 3 dozen eggs divided by 4 = <<3*Dozen/4=9>>9 eggs.\n#### 9"
+  },
+  {
+    "prompt_id": 27,
+    "output": " The number of female porcupines is 3/5 of the total population, which is 3/5 * 50 = 30 female porcupines.\nEach female porcupine gives birth to 4 babies every month, so the number of babies born in a year is 30 * 4 = 120 babies.\nThe total number of porcupines in the park after a year is 50 + 120 = 170 porcupines.\n#### 170"
+  },
+  {
+    "prompt_id": 28,
+    "output": " The information about the number of newspapers delivered to District B is not included in the text therefore I cannot answer this question."
+  },
+  {
+    "prompt_id": 29,
+    "output": " The cat can run 15 feet/second, and the turtle can crawl at a speed of 1/5 of that.\nTherefore, the turtle can crawl 15/5 * 40 = <<15/5*40=480>>480 feet in 40 seconds.\n#### 480"
+  },
+  {
+    "prompt_id": 30,
+    "output": " The value of John's home is $250,000.\nThe loan he gets is 40/100*250,000 = $100,000.\nThe amount he uses to pay off his debts is 60/100*100,000 = $60,000.\nThe money he has leftover is $100,000 - $60,000 = $40,000.\nTherefore, John has $40,000 leftover after paying off his debts.\n#### 40,000"
+  },
+  {
+    "prompt_id": 31,
+    "output": " The 80 spiders have 8 legs each, the 90 insects have 6 legs each and the 3 rare mutant invertebrates have 10 legs each. So, the total number of legs is 80*8+90*6+3*10=<<80*8+90*6+3*10=610>>610 legs.\n#### 610"
+  },
+  {
+    "prompt_id": 32,
+    "output": " The number of books sold in the first year is 250 * 2 = <<250*2=500>>500 books.\nThe number of books sold this year is 45 books.\nThe total number of books sold is 500 + 45 = <<500+45=545>>545 books.\nThe total amount of money earned in the second year is 545 books * 20$ = $<<545*20=10900>>10900.\n#### 10900"
+  },
+  {
+    "prompt_id": 33,
+    "output": " There are a total of 20 + 40 + 20 = 80 minutes of homework.\nThere are a total of 3 hours and 80 minutes = 180 minutes in total.\nJohn has 180 - 80 = 100 minutes to nap.\n#### 100"
+  },
+  {
+    "prompt_id": 34,
+    "output": " He delivers 66 messages to Ms. Thompson and 1/3 of 66 messages to Mr. Yu, which is 66/3 = 22 messages.\nThe total number of messages he delivers is 66 + 22 = <<66 + 22 = 88>>88 messages."
+  },
+  {
+    "prompt_id": 35,
+    "output": " If Eve had 20 pieces of pomelos and she gave away 1/4 of the pomelos, that would be 20*1/4 = 5 pieces of pomelos.\nTherefore, Eve gave away a total of 5 pieces of pomelos.\n#### 5"
+  },
+  {
+    "prompt_id": 36,
+    "output": " John earned 50*6 = $<<50*6=300>>300 dollars.\nAfter spending $50 on gas and depositing $100 in the bank, he has $300-50-100 = $150 left.\nThe cost of a pen is $25. He can buy 6 pens for $25 each = $25*6 = $150.\nTherefore, John can buy a total of 6 pens after he buys 5 pencils that cost 10 dollars each."
+  },
+  {
+    "prompt_id": 37,
+    "output": " The total distance traveled is 8 miles per hour * 4 hours = <<8*4=32>>32 miles.\nThe total distance traveled after the rest is 8 miles per hour * 6 hours = <<8*6=48>>48 miles.\nThe total distance traveled in total is 32 miles + 48 miles = <<32+48=80>>80 miles.\n#### 80"
+  },
+  {
+    "prompt_id": 38,
+    "output": " Steve's speed is 440 feet per minute and he lives 3 miles away. So, the time it takes for him to get home is 3 miles x 440 feet per minute = 1320 seconds.\nTim's speed is 264 feet per minute and he lives 2 miles away. So, the time it takes for him to get home is 2 miles x 264 feet per minute = 552 seconds.\nTherefore, the winner will be waiting at their house for 1320 - 552 = 768 seconds.\n#### 768"
+  },
+  {
+    "prompt_id": 39,
+    "output": " John eats 200 grams of mushrooms per day, which is equivalent to 200/100=2 grams of protein per day.\nIf he eats 2 grams of protein per day for 7 days a week, he will get a total of 2*7=14 grams of protein per week.\n#### 14"
+  },
+  {
+    "prompt_id": 40,
+    "output": " The salad cost $6 and the yogurt cost $6/2 = $3.\nThe total cost of her food is $6 + $3 = $9.\nThe remaining $2 is the cost of one carrot.\nTherefore, Ellen pays $2 for one carrot every day."
+  },
+  {
+    "prompt_id": 41,
+    "output": " The total length of each necklace is 25 inches and each gemstone is one inch long, so the number of gemstones is 25 - 1 = 24.\nThe number of beads used per necklace is 24 * 1/4 = <<24*1/4=6>>6 beads.\n#### 6"
+  },
+  {
+    "prompt_id": 42,
+    "output": " The average of their ages is (40 - 16) / 2 = 12 years."
+  },
+  {
+    "prompt_id": 43,
+    "output": " The cost of fixing the pothole is $450 and the fine for unauthorized road maintenance is $120. The cost of the buckets of asphalt is $25 x 3 = $75. So, the total cost of fixing the pothole is $450 + $120 + $75 = $645.\nIf Ron fixes the pothole himself, he will save $645."
+  },
+  {
+    "prompt_id": 44,
+    "output": " Let x be the number of sheep on Lee's farm.\nThe number of legs a sheep has is 4 and the number of legs a goose has is 2.\nTherefore, the number of legs a flock of sheep has is 4x.\nThe number of heads a sheep has is 1 and the number of heads a goose has is 1.\nTherefore, the number of heads a flock of sheep has is x.\nThe total number of legs and heads is 4x + x = 70 and the total number of legs and heads is also 20.\nSo we have 4x + x = 20 and 5x = 70\nTherefore, the answer is x = 14. Lee has 14 sheep on his farm."
+  },
+  {
+    "prompt_id": 45,
+    "output": " The original cost of the device is $20 and it is sold for $20*2 = $40\nThe total number of devices bought is 2 + 4 = 6\nThe total cost of the devices is $20*2 = $40\nThe total revenue from selling the devices is $40*6 = $240\nThe profit is $240 - $40 = $200\n#### 200"
+  },
+  {
+    "prompt_id": 46,
+    "output": " The average speed for the first 2 hours is 110/2 = 55 miles per hour.\nThe average speed for the additional 3 hours is 140/3 = 46.6 miles per hour.\nThe average speed for the entire trip is 55 + 46.6 = 101.6 miles per hour.\n#### 101.6"
+  },
+  {
+    "prompt_id": 47,
+    "output": " The number of toys in the bag of building blocks, the bin of stuffed animals, and the tower of stacking rings is 31 + 8 + 9 = <<31+8+9=49>>49 toys.\nThe total number of toys is 49 + 62 = <<49+62=111>>111 toys.\nTherefore, the number of bouncy balls that came in the tube is 111 - 49 = <<111-49=62>>62 bouncy balls.\n#### 62"
+  },
+  {
+    "prompt_id": 48,
+    "output": " The orchard sold a total of 2000 apples which is equivalent to 200 bags of 10 apples.\nSo, the total number of bags sold is 2000/10 = 200.\nThe orchard earned a total of 200 bags * $5 = $1000.\nTherefore, the orchard earned a total of $1000 for selling apples in bags of 10."
+  },
+  {
+    "prompt_id": 49,
+    "output": " The total commission earned is 30% + 10% = 40%.\nThe total value of the goods sold is $2500.\nThe total commission earned is 40% * $2500 = $1000.\nThe total amount of money earned is $1000.\n#### $1000"
+  },
+  {
+    "prompt_id": 50,
+    "output": " Let's call Brooke's age \"b.\"\nSo, Seth's age is \"s\" and the sum of their ages is \"s\" + \"b\" = 28.\nSince \"s\" = \"b\" * 2, we can substitute that into the equation:\nb * 2 + b = 28\nb = 28 - b * 2\nb * 2 + b = 28\nb = 28 - 2b\n2b = 28\nb = 14\nTherefore, Brooke's age is 14 and Seth's age is 14 * 2 = 28.\n#### 28"
+  },
+  {
+    "prompt_id": 51,
+    "output": " The first 20 minutes he scored 4 points.\nThe second 20 minutes he scored 25% more points which is 4 points * 0.25 = 1 point.\nThe total number of points he scored is 4 + 1 = 5 points.\n#### 5"
+  },
+  {
+    "prompt_id": 52,
+    "output": " If Jordan plays video games for 2 hours every day, that means he has 2 hours per day to work. He earns $10 an hour, so he would earn 2*10=$<<2*10=20>>20 dollars per day.\nIf he spends 7 days a week playing video games, that means he would earn a total of 20*7=$<<20*7=140>>140 dollars in one week.\n#### 140"
+  },
+  {
+    "prompt_id": 53,
+    "output": " There are a total of 2*4 + 3*6 = <<2*4+3*6=24>>24 eyeshadow colors.\nIf Amy uses up half of the colors from one makeup set, which is 6/2 = 3 colors, she has 24 - 3 = <<24-3=21>>21 eyeshadow colors left.\n#### 21"
+  },
+  {
+    "prompt_id": 54,
+    "output": " Candice had 80 post-it notes in her purse and used 220 post-it notes to place on the cups of coffee, so she had a total of 80 - 220 = <<80-220= -140>>-140 post-it notes remaining.\nSince she had a total of -140 post-it notes remaining, the package must have contained an additional 140 post-it notes.\nTherefore, the package contained a total of 80 + 140 = <<80+140=220>>220 post-it notes.\n#### 220"
+  },
+  {
+    "prompt_id": 55,
+    "output": " Sure, here is the solution:\n\n**The first stop:**\n- 8 passengers get off\n- 8*5 passengers get on\n- Total number of passengers remaining = 48-8+8*5 = 56 passengers\n\n**The second stop:**\n- 21 passengers get off\n- 3 times fewer passengers get on = 21/3 = 7 passengers\n- Total number of passengers remaining = 56 - 21 + 7 = 42 passengers\n\nTherefore, there are a total of 42 passengers riding the bus after the second stop."
+  },
+  {
+    "prompt_id": 56,
+    "output": " The number of pieces that Kalinda and her mom can add per minute is combined to be 4 + 2 = 6 pieces per minute.\nThe number of pieces that need to be added to complete the puzzle is 360 pieces.\nTherefore, the time it will take to complete the puzzle is 360 pieces / 6 pieces per minute = 60 minutes\n#### 60"
+  },
+  {
+    "prompt_id": 57,
+    "output": " The total amount of money that Bailey will receive from her weekly allowance is 5*8=<<5*8=40>>40 dollars.\nTherefore, if she has a total of $100 and has received $40, then she must have started with $100-40=<<100-40=60>>60 dollars.\n#### 60"
+  },
+  {
+    "prompt_id": 58,
+    "output": " 3 customers were kicked out for refusing to wear masks.\nFour times that number minus 5 was 3 * 4 - 5 = <<3*4-5=11>>11 people kicked out for shoplifting.\nThree times the number of shoplifters was 3 * 11 = <<3*11=33>>33 people kicked out for physical violence over goods on sale.\nTherefore, a total of 3 + 11 + 33 = <<3+11+33=47>>47 people were kicked out of the Walmart for other reasons."
+  },
+  {
+    "prompt_id": 59,
+    "output": " Leila bought 3 cucumbers for $2 each, so she spent 3*2= $<<3*2=6>>6 dollars.\nJack bought 5 tomatoes for $1 each, so he spent 5*1= $<<5*1=5>>5 dollars.\nChase bought 1 head of lettuce for $3 each, so he spent 1*3= $<<1*3=3>>3 dollars.\nTotal cost of the salad = $6 + $5 + $3 = $<<6+5+3=14>>14 dollars\n#### 14"
+  },
+  {
+    "prompt_id": 60,
+    "output": " The time it takes to walk on the beach is 40 minutes.\nThe time it takes to walk on the sidewalk is 40 minutes/2=20 minutes.\nThe total time it takes to complete the entire walk is 40 minutes+20 minutes=60 minutes.\nTherefore, it takes a total of 60 minutes to complete the entire walk.\n#### 60"
+  },
+  {
+    "prompt_id": 61,
+    "output": " If there are a total of M minutes per episode, the number of episodes is M/2.\nThe time spent watching the show is M/2 * 20 minutes per episode = M minutes.\nTherefore, the total time spent watching the show is M minutes."
+  },
+  {
+    "prompt_id": 62,
+    "output": " If Jean eats 2 lollipops, there are 30 - 2 = 28 lollipops left.\nIf she packages 2 lollipops in one bag, she can fill 28 / 2 = 14 bags.\nTherefore, Jean can fill a total of 14 bags with the remaining lollipops."
+  },
+  {
+    "prompt_id": 63,
+    "output": " The number of fruits produced in each year is doubling the previous year except for the ninth year where the tree does not produce any fruit. So, the total number of fruits produced is 50 + 150 + 210 + 270 + 200 = <<50+150+210+270+200=1080>>1080 fruits.\n#### 1080"
+  }
+]

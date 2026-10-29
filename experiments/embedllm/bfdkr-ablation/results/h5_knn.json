@@ -1,0 +1,56 @@
+{
+  "arm": "knn_enc",
+  "per_seed": [
+    {
+      "seed": 0,
+      "test_cost_auc": 0.50803,
+      "full_test_cost_auc": 0.502698,
+      "delta_cost_auc": 0.005332,
+      "delta_pq_auc": 7.4e-05,
+      "delta_ece": -0.000759,
+      "delta_aiq_deploy": 0.000211,
+      "cost_auc_gap_ci95": [
+        0.002217,
+        0.008654
+      ],
+      "cost_auc_gap_excludes_zero": true
+    },
+    {
+      "seed": 1,
+      "test_cost_auc": 0.459575,
+      "full_test_cost_auc": 0.513981,
+      "delta_cost_auc": -0.054406,
+      "delta_pq_auc": -0.038839,
+      "delta_ece": 0.009702,
+      "delta_aiq_deploy": -0.072194,
+      "cost_auc_gap_ci95": [
+        -0.060662,
+        -0.048618
+      ],
+      "cost_auc_gap_excludes_zero": true
+    },
+    {
+      "seed": 2,
+      "test_cost_auc": 0.474752,
+      "full_test_cost_auc": 0.478969,
+      "delta_cost_auc": -0.004217,
+      "delta_pq_auc": -0.001352,
+      "delta_ece": 0.011134,
+      "delta_aiq_deploy": -0.000179,
+      "cost_auc_gap_ci95": [
+        -0.009912,
+        0.00146
+      ],
+      "cost_auc_gap_excludes_zero": false
+    }
+  ],
+  "mean_delta_cost_auc": -0.017764,
+  "mean_delta_pq_auc": -0.013372,
+  "mean_delta_ece": 0.006692,
+  "mean_delta_aiq_deploy": -0.024054,
+  "tie_band_cost_auc": 0.00598,
+  "n_seeds_ci_excludes_zero": 2,
+  "verdict_inert": false,
+  "verdict_load_bearing": true,
+  "verdict_inconclusive": false
+}

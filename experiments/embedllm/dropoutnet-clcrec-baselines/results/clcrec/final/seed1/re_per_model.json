@@ -1,0 +1,282 @@
+{
+  "Qwen__Qwen1.5-7B-Chat": {
+    "re_loss": 0.022353585809469223,
+    "train_accuracy": 0.7009437488319941
+  },
+  "ConvexAI__Luminex-34B-v0.1": {
+    "re_loss": 0.02411067858338356,
+    "train_accuracy": 0.6775836292281816
+  },
+  "lmsys__vicuna-13b-v1.5": {
+    "re_loss": 0.02243949845433235,
+    "train_accuracy": 0.7177630349467389
+  },
+  "deepseek-ai__deepseek-math-7b-instruct": {
+    "re_loss": 0.017851868644356728,
+    "train_accuracy": 0.6984208559147823
+  },
+  "TigerResearch__tigerbot-13b-base": {
+    "re_loss": 0.02169157564640045,
+    "train_accuracy": 0.7042608858157354
+  },
+  "ConvexAI__Luminex-34B-v0.2": {
+    "re_loss": 0.02780601941049099,
+    "train_accuracy": 0.6771164268361054
+  },
+  "EleutherAI__llemma_7b": {
+    "re_loss": 0.019936535507440567,
+    "train_accuracy": 0.6739394505699869
+  },
+  "TheBloke__tulu-30B-fp16": {
+    "re_loss": 0.01797294244170189,
+    "train_accuracy": 0.6930480284059054
+  },
+  "01-ai__Yi-34B-Chat": {
+    "re_loss": 0.018717799335718155,
+    "train_accuracy": 0.694589796299757
+  },
+  "eren23__ogno-monarch-jaskier-merge-7b-OH-PREF-DPO": {
+    "re_loss": 0.02390945516526699,
+    "train_accuracy": 0.7013175107456551
+  },
+  "ibivibiv__alpaca-dragon-72b-v1": {
+    "re_loss": 0.011371796019375324,
+    "train_accuracy": 0.6737525696131564
+  },
+  "codellama__CodeLlama-34b-Instruct-hf": {
+    "re_loss": 0.01921047829091549,
+    "train_accuracy": 0.7013642309848627
+  },
+  "OpenBuddy__openbuddy-codellama2-34b-v11.1-bf16": {
+    "re_loss": 0.017981255427002907,
+    "train_accuracy": 0.7029994393571295
+  },
+  "Neko-Institute-of-Science__pygmalion-7b": {
+    "re_loss": 0.019751768559217453,
+    "train_accuracy": 0.6816015698000374
+  },
+  "cognitivecomputations__yayi2-30b-llama": {
+    "re_loss": 0.01519861165434122,
+    "train_accuracy": 0.6940758736684732
+  },
+  "meta-llama__LlamaGuard-7b": {
+    "re_loss": 0.017977509647607803,
+    "train_accuracy": 0.7048682489254345
+  },
+  "NousResearch__Nous-Hermes-13b": {
+    "re_loss": 0.020509550347924232,
+    "train_accuracy": 0.712156606241824
+  },
+  "tiiuae__falcon-40b-instruct": {
+    "re_loss": 0.016956355422735214,
+    "train_accuracy": 0.7109886002616334
+  },
+  "meta-llama__Llama-2-7b-chat-hf": {
+    "re_loss": 0.017804207280278206,
+    "train_accuracy": 0.7122967669594469
+  },
+  "Qwen__Qwen1.5-32B-Chat": {
+    "re_loss": 0.024114985018968582,
+    "train_accuracy": 0.6885161652027658
+  },
+  "google__gemma-7b-it": {
+    "re_loss": 0.013273212127387524,
+    "train_accuracy": 0.6692674266492245
+  },
+  "EleutherAI__llemma_34b": {
+    "re_loss": 0.018127484247088432,
+    "train_accuracy": 0.6893104092692954
+  },
+  "fblgit__UNA-SimpleSmaug-34b-v1beta": {
+    "re_loss": 0.02080976963043213,
+    "train_accuracy": 0.6725845636329658
+  },
+  "FelixChao__vicuna-7B-physics": {
+    "re_loss": 0.019284147769212723,
+    "train_accuracy": 0.7133713324612222
+  },
+  "TheBloke__koala-13B-HF": {
+    "re_loss": 0.017196480184793472,
+    "train_accuracy": 0.7029994393571295
+  },
+  "meta-llama__Meta-Llama-3-70B": {
+    "re_loss": 0.019913865253329277,
+    "train_accuracy": 0.6542235096243693
+  },
+  "meta-math__MetaMath-Mistral-7B": {
+    "re_loss": 0.027465445920825005,
+    "train_accuracy": 0.7122500467202392
+  },
+  "BioMistral__BioMistral-7B": {
+    "re_loss": 0.022387858480215073,
+    "train_accuracy": 0.7259857970472808
+  },
+  "SciPhi__SciPhi-Self-RAG-Mistral-7B-32k": {
+    "re_loss": 0.018333034589886665,
+    "train_accuracy": 0.7111754812184639
+  },
+  "microsoft__phi-2": {
+    "re_loss": 0.022218234837055206,
+    "train_accuracy": 0.7045879274901887
+  },
+  "meta-llama__Meta-Llama-3-70B-Instruct": {
+    "re_loss": 0.026840467005968094,
+    "train_accuracy": 0.6315641936086713
+  },
+  "lmsys__vicuna-7b-v1.5-16k": {
+    "re_loss": 0.016346469521522522,
+    "train_accuracy": 0.7169220706410017
+  },
+  "cloudyu__Mixtral_11Bx2_MoE_19B": {
+    "re_loss": 0.022980092093348503,
+    "train_accuracy": 0.6873481592225752
+  },
+  "Qwen__Qwen1.5-4B-Chat": {
+    "re_loss": 0.017417334020137787,
+    "train_accuracy": 0.7210334516912726
+  },
+  "OpenAssistant__oasst-sft-4-pythia-12b-epoch-3.5": {
+    "re_loss": 0.012324604205787182,
+    "train_accuracy": 0.6621192300504578
+  },
+  "BioMistral__BioMistral-7B-DARE": {
+    "re_loss": 0.016282668337225914,
+    "train_accuracy": 0.70692393945057
+  },
+  "Biomimicry-AI__ANIMA-Nectar-v2": {
+    "re_loss": 0.01546016987413168,
+    "train_accuracy": 0.6971594094561764
+  },
+  "meta-llama__Meta-Llama-Guard-2-8B": {
+    "re_loss": 0.02458314411342144,
+    "train_accuracy": 0.700336385722295
+  },
+  "kyujinpy__Sakura-SOLRCA-Math-Instruct-DPO-v1": {
+    "re_loss": 0.03224373981356621,
+    "train_accuracy": 0.689357129508503
+  },
+  "google__gemma-2b-it": {
+    "re_loss": 0.018446560949087143,
+    "train_accuracy": 0.6564193608671276
+  },
+  "bardsai__jaskier-7b-dpo-v5.6": {
+    "re_loss": 0.022790176793932915,
+    "train_accuracy": 0.7044477667725659
+  },
+  "allenai__tulu-2-dpo-70b": {
+    "re_loss": 0.024813884869217873,
+    "train_accuracy": 0.6915529807512615
+  },
+  "Harshvir__Llama-2-7B-physics": {
+    "re_loss": 0.021311454474925995,
+    "train_accuracy": 0.7152401420295272
+  },
+  "lmsys__vicuna-13b-v1.5-16k": {
+    "re_loss": 0.0204811692237854,
+    "train_accuracy": 0.720612969538404
+  },
+  "shleeeee__mistral-ko-tech-science-v1": {
+    "re_loss": 0.0209864042699337,
+    "train_accuracy": 0.7242104279573911
+  },
+  "codellama__CodeLlama-7b-hf": {
+    "re_loss": 0.017024917528033257,
+    "train_accuracy": 0.6880956830498972
+  },
+  "microsoft__Orca-2-13b": {
+    "re_loss": 0.021918321028351784,
+    "train_accuracy": 0.7045879274901887
+  },
+  "Neko-Institute-of-Science__metharme-7b": {
+    "re_loss": 0.022920791059732437,
+    "train_accuracy": 0.6815081293216221
+  },
+  "SUSTech__SUS-Chat-34B": {
+    "re_loss": 0.022108634933829308,
+    "train_accuracy": 0.6745935339188937
+  },
+  "kevin009__llamaRAGdrama": {
+    "re_loss": 0.025944259017705917,
+    "train_accuracy": 0.7137450943748832
+  },
+  "meta-llama__Llama-2-70b-chat-hf": {
+    "re_loss": 0.018195848912000656,
+    "train_accuracy": 0.7134180527004298
+  },
+  "TheBloke__CodeLlama-70B-Instruct-AWQ": {
+    "re_loss": 0.02283981628715992,
+    "train_accuracy": 0.6894038497477107
+  },
+  "openchat__openchat_3.5": {
+    "re_loss": 0.022339479997754097,
+    "train_accuracy": 0.7071108204074005
+  },
+  "dfurman__HermesBagel-34B-v0.1": {
+    "re_loss": 0.023689333349466324,
+    "train_accuracy": 0.6704821528686227
+  },
+  "project-baize__baize-v2-13b": {
+    "re_loss": 0.017409250140190125,
+    "train_accuracy": 0.708418987105214
+  },
+  "augmxnt__shisa-base-7b-v1": {
+    "re_loss": 0.01083349622786045,
+    "train_accuracy": 0.6605774621566063
+  },
+  "lmsys__vicuna-7b-v1.5": {
+    "re_loss": 0.017085272818803787,
+    "train_accuracy": 0.7201924873855354
+  },
+  "AdaptLLM__medicine-LLM-13B": {
+    "re_loss": 0.018697090446949005,
+    "train_accuracy": 0.720239207624743
+  },
+  "openchat__openchat-3.5-0106": {
+    "re_loss": 0.022576451301574707,
+    "train_accuracy": 0.6966454868248926
+  },
+  "FelixChao__llama2-13b-math1.2": {
+    "re_loss": 0.019811023026704788,
+    "train_accuracy": 0.7208932909736497
+  },
+  "MaziyarPanahi__WizardLM-Math-70B-v0.1": {
+    "re_loss": 0.017956199124455452,
+    "train_accuracy": 0.699074939263689
+  },
+  "WizardLM__WizardLM-70B-V1.0": {
+    "re_loss": 0.0173428226262331,
+    "train_accuracy": 0.7061296953840404
+  },
+  "codellama__CodeLlama-13b-Instruct-hf": {
+    "re_loss": 0.018528830260038376,
+    "train_accuracy": 0.6977667725658755
+  },
+  "Writer__palmyra-med-20b": {
+    "re_loss": 0.019223691895604134,
+    "train_accuracy": 0.7005232666791253
+  },
+  "Qwen__Qwen1.5-0.5B-Chat": {
+    "re_loss": 0.014949317090213299,
+    "train_accuracy": 0.6885628854419734
+  },
+  "nomic-ai__gpt4all-13b-snoozy": {
+    "re_loss": 0.021636048331856728,
+    "train_accuracy": 0.6954307606054942
+  },
+  "stabilityai__stablelm-tuned-alpha-7b": {
+    "re_loss": 0.014035212807357311,
+    "train_accuracy": 0.6728181648290039
+  },
+  "AdaptLLM__medicine-chat": {
+    "re_loss": 0.02025468274950981,
+    "train_accuracy": 0.7121098860026164
+  },
+  "AdaptLLM__medicine-LLM": {
+    "re_loss": 0.014548412524163723,
+    "train_accuracy": 0.7195851242758363
+  },
+  "Q-bert__Optimus-7B": {
+    "re_loss": 0.02727162465453148,
+    "train_accuracy": 0.7085124275836292
+  }
+}

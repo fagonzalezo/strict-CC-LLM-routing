@@ -1,0 +1,21 @@
+{
+  "arm": "S3",
+  "dataset": "router-eval",
+  "group": "pooled",
+  "n_queries": 2894,
+  "n_llms_test": 376,
+  "test_cost_auc": 0.714236,
+  "test_floor_cost_auc": 0.538449,
+  "test_oracle_cost_auc": 0.947298,
+  "test_aiq": 0.175787,
+  "uses_test_labels": true,
+  "test_quality_at_cap_1B": 0.35349,
+  "test_quality_at_cap_3B": 0.577056,
+  "test_quality_at_cap_7B": 0.690739,
+  "test_quality_at_cap_30B": 0.690739,
+  "test_quality_at_cap_86B": 0.7868,
+  "policy": "best static policy in hindsight (w = S_test.mean(0))",
+  "role": "anchor over all query-independent policies -- alongside floor and oracle, never a Table III baseline row",
+  "test_brier": null,
+  "test_ece": null
+}

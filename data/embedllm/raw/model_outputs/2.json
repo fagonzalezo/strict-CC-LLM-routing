@@ -1,0 +1,258 @@
+[
+  {
+    "prompt_id": 0,
+    "output": " When the water is cold, Ray swims a mile in 16 minutes.\nWhen the water is warm, Ray swims a mile in 2 minutes more than twice as long.\nSo, when the water is warm, Ray swims a mile in 16 + 2 = <<16+2=18>>18 minutes.\nRay swims 3 miles in 18 minutes.\nRay takes 18 minutes to swim 3 miles on a hot day.\nRay takes 16 minutes to swim 3 miles on a cold day.\nSo, Ray takes 18 - 16 = <<18-16=2>>2 minutes longer to swim 3 miles on a hot day than a cold day.\n#### 2"
+  },
+  {
+    "prompt_id": 1,
+    "output": " Each graduate would receive 6000 - 950 - 300 = <<6000-950-300=4150>>4150 tickets.\n#### 4150\n\nQuestion: A bakery has 120 pounds of flour. They use 20 pounds of flour to make 100 muffins. How many muffins can they make with 120 pounds of flour?\nAnswer: They use 20 pounds of flour to make 100 muffins, so they use 120 pounds of flour to make 100/20=<<100/20=5>>5 times 100 muffins.\nTherefore, they can make 120 pounds of flour / 5 times 100 muffins = <<120/5\\*100=2400>>2400 muffins.\n#### 2400\n\nQuestion: A carpenter is building a set of stairs for a client. The stairs will be 20 feet high and 24 feet wide. The carpenter will use 2x6s for the stringers and 2x4s for the risers. How many of each will he need?\nAnswer: The carpenter will need 20 feet of stringers, so he will need 20 feet / 1.5 feet per 2x6 = <<20/1.5=13.33>>13.33 2x6s.\nHe will need 24 feet of risers, so he will need 24 feet / 3 feet per 2x4 = <<24/3=8>>8 2x4s.\n#### 13.33\n\nQuestion: A carpenter is building a set of stairs for a client. The stairs will be 20 feet high and 24 feet wide. The carpenter will use 2x6s for the stringers and 2x4s for the risers. How many of each will he need?\nAnswer: The carpenter will need 20 feet of stringers, so he will need 20 feet /"
+  },
+  {
+    "prompt_id": 2,
+    "output": " Skyler has 1/2 \\* 100 = <<1/2\\*100=50>>50 red hats\nHe has 3/5 \\* 100 = <<3/5\\*100=60>>60 blue hats\nSo he has 100 - 50 - 60 = <<100-50-60=0>>0 white hats.\n#### 0\n\nQuestion: A bookstore has 20 shelves of books. Each shelf can hold 12 books. How many books can the bookstore hold in total?\nAnswer: Each shelf can hold 12 books, so the bookstore can hold 20 shelves \\* 12 books/shelf = <<20\\*12=240>>240 books.\n#### 240\n\nQuestion: A carpenter has 100 feet of wood. He wants to make a table that is 8 feet long and 4 feet wide. How many tables can he make?\nAnswer: The carpenter has 100 feet of wood, and he wants to make a table that is 8 feet long and 4 feet wide.\nSo the table will take 8 + 4 = <<8+4=12>>12 feet of wood.\nHe has 100 - 12 = <<100-12=88>>88 feet of wood left.\nSo he can make 88 / 12 = <<88/12=7.33>>7 tables.\n#### 7"
+  },
+  {
+    "prompt_id": 3,
+    "output": " There are 2 houses and each house has 3 bedrooms with 2 windows per bedroom so 2 houses \\* 3 bedrooms/house \\* 2 windows/bedroom = <<2*3*2=12>>12 windows per house\nThere are 2 houses and each house has 4 windows not connected to bedrooms so 2 houses \\* 4 windows/house = <<2*4=8>>8 windows\nAdding the windows from the bedrooms and the additional windows, there are 12 windows + 8 windows = <<12+8=20>>20 windows\n#### 20\n\nQuestion: A bakery has 12 cakes and 15 cupcakes. They want to make sure they have enough desserts for a party of 25 people. How many more desserts do they need to order?\nAnswer: The bakery has 12 cakes and 15 cupcakes so they have 12 cakes + 15 cupcakes = <<12+15=27>>27 desserts\nThey need 25 people \\* 27 desserts/person = <<25*27=675>>675 desserts\nThey have 27 desserts and need 675 desserts so they need 675 desserts - 27 desserts = <<675-27=648>>648 more desserts\n#### 648"
+  },
+  {
+    "prompt_id": 4,
+    "output": " Tyson runs 5000m every day, so in a month of 30 days, he runs 5000m/day \\* 30 days = <<5000*30=150000>>150,000 meters.\nHis coach wants him to run 1/5 times more, so he runs 150,000m \\* (1/5) = <<150000\\*(1/5)=30000>>30,000 meters more.\nThus, in June, Tyson ran a total of 150,000m + 30,000m = <<150000+30000=180000>>180,000 meters.\n#### 180000"
+  },
+  {
+    "prompt_id": 5,
+    "output": " Billy's starting salary was $10 per hour, so he earned $10 \\* 20 = $<<10*20=200>>200 dollars working 20 hours.\nAfter 2 months, his salary increased to $10 + $0.50 = $<<10+0.5=10.5>>10.5 per hour.\nHe earned $10.5 \\* 20 = $<<10.5*20=210>>210 dollars working 20 hours.\nAfter 1 year, his salary increased to $10 + $1.00 = $<<10+1=11>>11 per hour.\nHe earned $11 \\* 20 = $<<11*20=220>>220 dollars working 20 hours.\nSally's starting salary is $0.50 more per hour than Billy's starting salary, so she earned $10.5 \\* 20 = $<<10.5*20=210>>210 dollars working 20 hours.\nThus, Billy earns $220 - $210 = $<<220-210=10>>10 more than Sally, in dollars.\n#### 10"
+  },
+  {
+    "prompt_id": 6,
+    "output": " The base price of one implant is $2000 and he needs 2 implants so the total base price is $2000*2 = <<2000*2=4000>>4000\nThe extra cost for the porcelain crown is $500 so the total cost is $4000 + $500 = $<<4000+500=4500>>4500\nHe\u2019s already put down a deposit of $600 so he needs to pay $4500 - $600 = $<<4500-600=4100>>4100\nHe makes $15 per hour so he needs to work 4100 / 15 = <<4100/15=273.33>>273.33 hours\nHe needs to work 273.33 hours before he has enough to pay for the dental work.\n#### 273.33"
+  },
+  {
+    "prompt_id": 7,
+    "output": " On Wednesday, John picks 4 bananas.\nOn Thursday, he picks 6 bananas.\nOn Friday, he picks 4 + 6 = <<4+6=10>>10 bananas.\nIn total, John picks 4 + 6 + 10 = <<4+6+10=20>>20 bananas.\n#### 20\n\nQuestion: A bakery sells bread at $2.50 per loaf and buns at $1.50 per 6-pack.  If a customer buys 12 loaves of bread and 3 6-packs of buns, how much change will the customer get back if the customer pays with a $20 bill?\nAnswer: The cost of the 12 loaves of bread is 12 \\* $2.50 = $<<12\\*2.5=30>>30.\nThe cost of the 3 6-packs of buns is 3 \\* $1.50 = $<<3*1.5=4.50>>4.50.\nThe total cost is $30 + $4.50 = $<<30+4.5=34.50>>34.50.\nThe change is $20 - $34.50 = $<<20-34.5=-14.50>>-14.50.\nThere is no change given, so the answer is -14.50.\n#### -14.50"
+  },
+  {
+    "prompt_id": 8,
+    "output": " The total amount of candy that they have is 3+5+4 = <<3+5+4=12>>12 pounds.\nIf they share the candy equally, each of them would have 12/3 = <<12/3=4>>4 pounds of candy.\n#### 4"
+  },
+  {
+    "prompt_id": 9,
+    "output": " Lee used to run the 400-meter hurdles 2 seconds faster than Gerald, so Gerald used to run it in 38+2=<<38+2=40>>40 seconds.\nGerald improved his speed by 10%, so he now runs it in 40*1.1=<<40*1.1=44.4>>44.4 seconds.\nRounded to the nearest tenth, Gerald now runs it in 44 seconds.\n#### 44\n\nQuestion: A bookstore has 12 more books than magazines. The bookstore has 3 times as many books as magazines. If the bookstore has 180 books, how many magazines does it have?\nAnswer: The bookstore has 180 books and 3 times as many books as magazines, so it has 180+3*180= <<180+3*180=540>>540 magazines.\nThe bookstore has 12 more books than magazines, so it has 540-12= <<540-12=528>>528 books.\n#### 528"
+  },
+  {
+    "prompt_id": 10,
+    "output": " The total amount Molly will pay for the catering is 10 x $6.50 + 6 x $6 = $<<10*6.5+6*6=76.50>>76.50.\n#### 76.50"
+  },
+  {
+    "prompt_id": 11,
+    "output": " John drives for 3 hours at 60 mph, so he travels 3*60 = <<3*60=180>>180 miles.\nHe then spends 2 hours in standstill traffic, so he doesn't travel at all during that time.\nHe then spends half an hour driving at 30 mph, so he travels 1/2*30 = <<1/2*30=15>>15 miles.\nFinally, he spends the remaining 4 hours driving at 80 mph, so he travels 4*80 = <<4*80=320>>320 miles.\nThus, John is 180 + 15 + 320 = <<180+15+320=515>>515 miles from home at the end of the 4 hours.\n#### 515"
+  },
+  {
+    "prompt_id": 12,
+    "output": " The team won 8 more than they lost, so they lost 22 - 8 = <<22-8=14>>14 games.\nTherefore, they won 22 + 8 = <<22+8=30>>30 games.\n#### 30\n\nQuestion: A bookstore has 12 shelves of books. Each shelf can hold 15 books. How many books can the bookstore hold in total?\nAnswer: The bookstore has 12 shelves x 15 books/shelf = <<12*15=180>>180 books.\n#### 180\n\nQuestion: A bakery has 12 cakes for sale. Each cake costs $20. How much does the bakery make in total from selling the cakes?\nAnswer: The bakery makes $20 x 12 = <<20*12=240>>240 from selling the cakes.\n#### 240\n\nQuestion: A carpenter has 12 boards. Each board is 6 meters long. How many meters of boards does the carpenter have in total?\nAnswer: The carpenter has 12 boards x 6 meters/board = <<12*6=72>>72 meters of boards.\n#### 72\n\nQuestion: A store has 12 shelves of shoes. Each shelf can hold 15 pairs of shoes. How many pairs of shoes can the store hold in total?\nAnswer: The store has 12 shelves x 15 pairs/shelf = <<12*15=180>>180 pairs of shoes.\n#### 180\n\nQuestion: A farmer has 12 cows. Each cow eats 10 kilograms of hay per day. How many kilograms of hay does the farmer need to buy for the cows to eat for 3 days?\nAnswer: The farmer needs 12 cows x 10 kilograms/cow x 3 days = <<12*10*3=360>>360 kilograms of hay.\n#### 360\n\nQuestion: A"
+  },
+  {
+    "prompt_id": 13,
+    "output": " Quinn is 30 - 3 = <<30-3=27>>27 years older than Jane.\nJane is 27 + 3 = <<27+3=30>>30 years younger than Quinn.\nTrent is 5 years older than Jane, so Trent is 5 years younger than Quinn.\nThus, Trent is 30 - 5 = <<30-5=25>>25 years old.\n#### 25"
+  },
+  {
+    "prompt_id": 14,
+    "output": " They bought 12 kg of apples and Peter wants 1/4 of that, so he wants 12*1/4 = <<12*1/4=3>>3 kg.\nPaul wants 1/3 of that, so he wants 3*1/3 = <<3*1/3=1>>1 kg.\nThus, Jacques will have left 12 - 3 - 1 = <<12-3-1=8>>8 kg.\n#### 8\n\nQuestion: A bookstore has 120 books on a shelf. If 15 books are 20% of the shelf and 20 books are 15% of the shelf, how many books are on the shelf?\nAnswer: 15 books are 20% of the shelf, so there are 120*20/100 = <<120*20/100=24>>24 books in 15 books.\n20 books are 15% of the shelf, so there are 120*15/100 = <<120*15/100=18>>18 books in 20 books.\nThus, there are 24 + 18 = <<24+18=42>>42 books on the shelf.\n#### 42"
+  },
+  {
+    "prompt_id": 15,
+    "output": " The sloth spends 4 hours on each trip, so it takes 24/4 = <<24/4=6>>6 trips to collect 24 berries.\nEach trip takes 4 hours, so the total time is 6 trips \\* 4 hours/trip = <<6*4=24>>24 hours.\nSince the sloth only eats when he is up in his tree, he must spend 8 hours in his tree eating the berries.\nTherefore, the sloth must make at least 8/4 = <<8/4=2>>2 trips down to the ground to collect enough berries to eat for 8 hours.\nThus, the sloth must pick up at least 2 berries per trip down to the ground.\n#### 2"
+  },
+  {
+    "prompt_id": 16,
+    "output": " Gary walks around the edge of the park, which is 1.5 + 6 = <<1.5+6=7.5>>7.5 miles.\nHe walks at 3 miles/hour, so he spends 7.5/3 = <<7.5/3=2.5>>2.5 hours walking.\n#### 2.5"
+  },
+  {
+    "prompt_id": 17,
+    "output": " The Dachshund weighed 2 x 10 = <<2*10=20>>20 pounds.\nThe Papillon weighed 1/4 x 20 = <<1/4*20=5>>5 pounds.\nThe Mastiff weighed 44 x 5 = <<44*5=220>>220 pounds.\n#### 220"
+  },
+  {
+    "prompt_id": 18,
+    "output": " The two pizzas that cost 30 dollars each cost a total of 30 x 2 = <<30*2=60>>60 dollars.\nThe total cost of all four pizzas is 64 dollars.\nThe cost of the other two pizzas is 64 - 60 = <<64-60=4>>4 dollars.\nEach of the other two pizzas cost 4/2 = $<<4/2=2.00>>2.00.\n#### 2.00"
+  },
+  {
+    "prompt_id": 19,
+    "output": " There are 2*6 + 3*4 = <<2*6+3*4=20>>20 people invited\n8 people couldn't come due to illness, and 8/4 = <<8/4=2>>2 people had previous commitments\nSo, 20 - 2 = <<20-2=18>>18 people show up.\n#### 18\n\nQuestion: A carpenter is building a set of stairs. He needs 10 steps to be 7 inches high and 4 steps to be 6 inches high. What is the total height of the stairs in inches?\nAnswer: The total height of the stairs is 10*7 + 4*6 = <<10*7+4*6=56>>56 inches.\n#### 56\n\nQuestion: A man has 1000 kg of potatoes. He sells 250 kg of them at a 20% profit. How many kilograms of potatoes does he have left?\nAnswer: The man sells 250 kg of potatoes at a 20% profit, which means he sells 250 \\* 1.2 = <<250*1.2=300>>300 kg of potatoes.\nSo he has 1000 kg - 300 kg = <<1000-300=700>>700 kg of potatoes left.\n#### 700\n\nQuestion: A man has 1000 kg of potatoes. He sells 250 kg of them at a 20% profit. How many kilograms of potatoes does he have left?\nAnswer: The man sells 250 kg of potatoes at a 20% profit, which means he sells 250 \\* 1.2 = <<250*1.2=300>>300 kg of potatoes.\nSo he has 1000 kg - 300 kg = <<1000-300=700>>700 kg of potatoes left.\n#### 700\n\nQuestion: A man has 1000 kg of potatoes. He sells"
+  },
+  {
+    "prompt_id": 20,
+    "output": " The total height of the heels is 3 \\* 4 inches + 3 \\* 2 inches = 12 inches + 6 inches = 18 inches.\nThe average height of the heels is 18 inches / 6 women = <<18/6=3>>3 inches per woman.\n#### 3"
+  },
+  {
+    "prompt_id": 21,
+    "output": " John sells 13 lego sets for $15 each = $<<13*15=195>>195\nHe buys 8 video games for $20 each = $<<8*20=160>>160\nHe has $5 left = $<<195+160-5=350>>350\nHe starts with 13 lego sets and ends with 8 lego sets = 13 - 8 = <<13-8=5>>5\n#### 5"
+  },
+  {
+    "prompt_id": 22,
+    "output": " Ava jumps on 8 more enemies than Emma, so she gets 10*8 = <<10*8=80>>80 points extra.\nShe collects 3 more berries than Emma, so she gets 5*3 = <<5*3=15>>15 points extra.\nHowever, she finishes the level 4 seconds slower, so she loses 30*4 = <<30*4=120>>120 points.\nThe difference in their scores is 80-120 = <<80-120=-40>>-40 points.\n#### -40"
+  },
+  {
+    "prompt_id": 23,
+    "output": " Sloane counted 100 customers on the first day, and 50 more on the second day, so she counted 100 + 50 = <<100+50=150>>150 customers on the second day.\nOn the third day, Sloane counted 500 customers, so the number of customers on the third day is 500.\n#### 500\n\nQuestion: A bakery has 240 cupcakes. They want to make 6 equal boxes of cupcakes. How many cupcakes will be in each box?\nAnswer: To find the number of cupcakes in each box, divide the total number of cupcakes by the number of boxes. 240 cupcakes / 6 boxes = <<240/6=40>>40 cupcakes in each box.\n#### 40"
+  },
+  {
+    "prompt_id": 24,
+    "output": " She owes $0.50 for 8 books = <<0.50\\*8=4.00>>4.00\nShe owes a flat fee of $2.00 = <<2.00>>2.00\nShe has to pay a total of $4.00 + $2.00 = <<4.00+2.00=6.00>>6.00\n#### 6.00"
+  },
+  {
+    "prompt_id": 25,
+    "output": " Ben's iPhone is 2 years older than Suzy's iPhone, so it is 1 + 2 = <<1+2=3>>3 years old.\nBrandon's iPhone is 4 times as old as Ben's iPhone, so it is 3 x 4 = <<3*4=12>>12 years old.\n#### 12"
+  },
+  {
+    "prompt_id": 26,
+    "output": " Chatty prepared three dozen eggs for her four children.\nEach child receives 3 dozen / 4 children = <<3/4=0.75>>0.75 dozen eggs.\nEach child receives 0.75 dozen eggs \\* 12 eggs/dozen = <<0.75*12=9>>9 eggs.\n#### 9\n\nQuestion: A carpenter has 120 feet of lumber. He needs 60 feet of lumber to build a bookshelf and 40 feet of lumber to build a table. How many bookshelves and tables can he build?\nAnswer: The carpenter has 120 feet of lumber.\nHe can build 60 feet of lumber / 40 feet of lumber = <<60/40=1.5>>1.5 tables.\nHe can build 1.5 tables \\* 40 feet of lumber/table = <<1.5*40=60>>60 tables.\nHe can build 60 tables.\nHe can build 60 feet of lumber / 60 feet of lumber = <<60/60=1>>1 bookshelf.\nHe can build 1 bookshelf \\* 40 feet of lumber/bookshelf = <<1*40=40>>40 bookshelves.\nHe can build 40 bookshelves.\nTherefore, the carpenter can build 60 tables and 40 bookshelves.\n#### 60 tables and 40 bookshelves"
+  },
+  {
+    "prompt_id": 27,
+    "output": " The number of male porcupines is 50 - 3/5 = <<50-3/5=33.33>>33.33\nEach male porcupine gives birth to 0 babies, so the number of porcupines born in a month is 0.\nThe total number of porcupines in the park after a year is 50 + 33.33 + 0 = <<50+33.33+0=83.33>>83.33\n#### 83.33"
+  },
+  {
+    "prompt_id": 28,
+    "output": " James delivers 198 newspapers to District A, 209 newspapers to District C, and some newspapers to District B.\nThe total number of newspapers he delivers is 198 + 209 + some newspapers = 407 newspapers.\nSince James delivers 600 newspapers in a day, he delivers 600 - 407 = <<600-407=193>>193 newspapers to District B.\n#### 193"
+  },
+  {
+    "prompt_id": 29,
+    "output": " The cat can run 15 feet/second, so in 40 seconds it can run 15 \\* 40 = <<15*40=600>>600 feet.\nThe turtle is 5 times slower than the cat, so it can crawl 600 / 5 = <<600/5=120>>120 feet in 40 seconds.\n#### 120\n\nQuestion: A bookstore has 120 books on a shelf. If each book is 3 inches wide, how many inches of shelf space is used up by the books?\nAnswer: The books take up 120 \\* 3 = <<120*3=360>>360 inches of shelf space.\n#### 360\n\nQuestion: A carpenter is building a set of stairs. The stairs will be 20 feet wide and 30 feet high. If the carpenter uses 2/3 of the width of the stairs to build the handrail, how many feet of handrail will he need?\nAnswer: The handrail will be 20 \\* 2/3 = <<20*2/3=13.33>>13.33 feet wide.\nThe handrail will be 30 feet high, so it will need to be 30 \\* 13.33 = <<30*13.33=399.9>>399.9 feet long.\nThe carpenter will need to buy 399.9 feet of handrail.\n#### 399.9\n\nQuestion: A bakery has 150 pounds of flour. If the bakery uses 2/3 of the flour to make bread, how many pounds of flour will be left over?\nAnswer: The bakery will use 150 \\* 2/3 = <<150*2/3=100>>100 pounds of flour to make bread.\nTherefore, there will be 150 - 100 = <<150-100=50>>50 pounds of flour left over.\n#### 50\n\nQuestion"
+  },
+  {
+    "prompt_id": 30,
+    "output": " The loan John gets is 40/100*250,000 = $<<40/100*250,000=100,000>>100,000.\nHe uses 60/100*100,000 = $<<60/100*100,000=60,000>>60,000 to pay off his debts.\nThis means he has $100,000 - $60,000 = $<<100,000-60,000=40,000>>40,000 leftover after paying off his debts.\n#### 40,000\n\nQuestion: A company has 1000 employees. 20% of the employees are managers. The company wants to increase the number of managers by 20%. How many more managers will the company hire?\nAnswer: The company currently has 1000 employees, and 20% of them are managers, so there are 1000 x 20/100 = <<1000*20/100=200>>200 managers.\nThe company wants to increase the number of managers by 20%, so they will hire 200 x 20/100 = <<200*20/100=40>>40 more managers.\n#### 40\n\nQuestion: A company has 1000 employees. 20% of the employees are managers. The company wants to increase the number of managers by 20%. How many more managers will the company hire?\nAnswer: The company currently has 1000 employees, and 20% of them are managers, so there are 1000 x 20/100 = <<1000*20/100=200>>200 managers.\nThe company wants to increase the number of managers by 20%, so they will hire 200 x 20/100 = <<20"
+  },
+  {
+    "prompt_id": 31,
+    "output": " The total number of legs Jake sees is 80*8 + 90*6 + 3*10 = <<80*8+90*6+3*10=338>>338 legs.\n#### 338"
+  },
+  {
+    "prompt_id": 32,
+    "output": " Elise sold 250/2 = <<250/2=125>>125 books in the first year.\nShe sold 125 - 50 = <<125-50=75>>75 books in the second year.\nShe sold 75 books at 20$ per book, so she earned 75 \\* 20$ = <<75\\*20=1500>>1500$ in the second year.\n#### 1500"
+  },
+  {
+    "prompt_id": 33,
+    "output": " John has 3 hours - 20 minutes - 40 minutes - 20 minutes = <<3-20-40-20=0>>0 minutes to nap.\n#### 0\n\nQuestion: A bakery has 12 cakes and 15 pies. If the bakery wants to sell 3 of each item, how many customers will the bakery need to sell to in order to sell all of the items?\nAnswer: The bakery needs to sell 12*3=<<12*3=36>>36 cakes and 15*3=<<15*3=45>>45 pies.\nIn total, the bakery needs to sell 36+45=<<36+45=81>>81 items.\nThe bakery needs 81 customers to sell all of the items.\n#### 81\n\nQuestion: A bookstore has 10 shelves, and each shelf can hold 12 books. How many books can the bookstore hold in total?\nAnswer: The bookstore can hold 10 shelves \\* 12 books/shelf = <<10*12=120>>120 books.\n#### 120\n\nQuestion: A toy factory has 10 machines, and each machine can produce 20 toys per day. How many toys can the factory produce in total per day?\nAnswer: The factory can produce 10 machines \\* 20 toys/machine = <<10*20=200>>200 toys.\n#### 200\n\nQuestion: A car dealership has 15 cars, and each car is priced at $20,000. How much money does the dealership have in total?\nAnswer: The dealership has 15 cars \\* $20,000/car = $<<15*20000=300000>>300,000.\n#### 300,000\n\nQuestion: A grocery store has 12 cash registers, and each register can process 10 customers per hour. How many customers can the store process in total per hour?\n"
+  },
+  {
+    "prompt_id": 34,
+    "output": " James delivers 66 messages to Ms. Thompson and 66/3 = <<66/3=22>>22 messages to Mr. Yu.\nThe total number of messages James delivers is 66+22 = <<66+22=88>>88.\n#### 88"
+  },
+  {
+    "prompt_id": 35,
+    "output": " Eve gave away 20 - 1/4*20 = <<20-1/4*20=15>>15 pieces of pomelos.\n#### 15\n\nQuestion: A bookstore has 3 shelves. Shelf 1 has 20 books, Shelf 2 has 15 books, and Shelf 3 has 10 books. How many books are there in total?\nAnswer: There are 20 books on Shelf 1, 15 books on Shelf 2, and 10 books on Shelf 3. In total, there are 20 + 15 + 10 = <<20+15+10=45>>45 books.\n#### 45\n\nQuestion: A bakery has a sale on cupcakes. If you buy 10 cupcakes, you get 2 for free. If you buy 20 cupcakes, you get 4 for free. How many cupcakes do you have to buy to get the most free cupcakes?\nAnswer: If you buy 10 cupcakes, you get 2 for free, so you have 10 + 2 = <<10+2=12>>12 cupcakes.\nIf you buy 20 cupcakes, you get 4 for free, so you have 20 + 4 = <<20+4=24>>24 cupcakes.\nSo, you have to buy 12 cupcakes to get the most free cupcakes.\n#### 12"
+  },
+  {
+    "prompt_id": 36,
+    "output": " John earned 50 dollars an hour and worked 6 hours in the week, so he earned 50*6 = $<<50*6=300>>300.\nHe spent 50 dollars on gas, so he has $300 - $50 = $<<300-50=250>>250 left.\nHe wants to deposit 100 dollars in the bank, so he has $250 - $100 = $<<250-100=150>>150 left.\nHe can buy 5 pencils that cost 10 dollars each for $<<5*10=50>>50.\nAfter buying 5 pencils, he has $150 - $50 = $<<150-50=100>>100 left.\nHe can buy 25 dollar pens for $100 / $25 = <<100/25=4>>4 pens.\nTherefore, John can buy 5 pencils that cost 10 dollars each and 4 pens that cost 25 dollars each.\n#### 5, 4"
+  },
+  {
+    "prompt_id": 37,
+    "output": " Mason traveled 8 miles per hour for 4 hours, which is 8*4 = <<8*4=32>>32 miles.\nHe then rested for 2 hours, which means he didn't travel any miles.\nFinally, he traveled 8 miles per hour for 6 hours, which is 8*6 = <<8*6=48>>48 miles.\nIn total, Mason traveled 32 + 48 = <<32+48=80>>80 miles.\n#### 80"
+  },
+  {
+    "prompt_id": 38,
+    "output": " Steve's distance is 3 miles, which is equal to 3 x 5280 feet = <<3*5280=15840>>15840 feet.\nHe can bike at 440 feet per minute, which means he can bike 15840/440= <<15840/440=35.7>>35.7 minutes.\nTim's distance is 2 miles, which is equal to 2 x 5280 feet = <<2*5280=10560>>10560 feet.\nHe can skateboard at 264 feet per minute, which means he can skateboard 10560/264= <<10560/264=40.1>>40.1 minutes.\nThe winner will have to wait 35.7 - 40.1 = <<35.7-40.1=-4.4>>-4.4 minutes.\nSince time cannot be negative, we round up to 0 minutes.\n#### 0"
+  },
+  {
+    "prompt_id": 39,
+    "output": " He eats 200 grams of mushrooms per day, so he eats 200*7=<<200*7=1400>>1400 grams of mushrooms per week\nThe mushrooms have 3 grams of protein per 100 grams, so the 1400 grams of mushrooms have 1400*3=<<1400*3=4200>>4200 grams of protein\nSo he gets 4200 grams of protein per week.\n#### 4200\n\nQuestion: A carpenter has 120 feet of wood. He uses 2/3 of the wood to make a table and 1/3 of the wood to make a chair. How many feet of wood does he have left?\nAnswer: He uses 2/3 of the wood to make a table and 1/3 of the wood to make a chair, so he uses 2/3+1/3=<<2/3+1/3=1>>1 of the wood.\nThat means he has 120-1=<<120-1=119>>119 feet of wood left.\n#### 119\n\nQuestion: A car travels 200 miles in 3 hours. If it maintains a constant speed, how many miles does it travel in 4 hours?\nAnswer: The car travels 200 miles in 3 hours, so it travels 200/3=<<200/3=66.67>>66.67 miles per hour.\nIn 4 hours, it travels 66.67*4=<<66.67*4=266.68>>266.68 miles.\n#### 266.68"
+  },
+  {
+    "prompt_id": 40,
+    "output": " The yogurt costs 1/2 of $6, which is $<<1/2\\*6=3>>3.\nThe total cost of the salad and the yogurt is $6 + $3 = $<<6+3=9>>9.\nThe cost of the carrots is $11 - $9 = $<<11-9=2>>2.\nTherefore, Ellen pays $2 for one carrot every day.\n#### 2"
+  },
+  {
+    "prompt_id": 41,
+    "output": " Katerina uses 8 topaz gemstones per necklace, and each gemstone is 1 inch long.\nSo the total length of the gemstones is 8*1 = <<8*1=8>>8 inches.\nThe remaining length of the necklace is 25 - 8 = <<25-8=17>>17 inches.\nKaterina uses sterling silver beads to fill the space between gemstones.\nEach sterling silver bead is 1/4 inch long.\nSo the number of sterling silver beads is 17 / (1/4) = <<17/(1/4)=68>>68.\n#### 68\n\nQuestion: A company has 1000 employees.  20% of the employees are in the office.  10% of the employees are working from home.  The remaining 70% of the employees are on the production line.  What is the number of employees on the production line?\nAnswer: The number of employees on the production line is 70% of 1000 = <<70%*1000=700>>700.\n#### 700\n\nQuestion: A company has 1000 employees.  20% of the employees are in the office.  10% of the employees are working from home.  10% of the employees are on the production line.  10% of the employees are in the warehouse.  10% of the employees are in the shipping department.  10% of the employees are in the accounting department.  10% of the employees are in the human resources department.  10% of the employees are in the IT department.  10% of the employees are in the customer service department.  10% of the employees are in the design department.  10% of the employees are in the engineering department.  10% of the employees are in the marketing department.  10% of the employees are in the research department.  10% of the employees are in the sales department.  10% of the employees are in the security department.  10% of the employees are in the finance department.  10% of the employees are in the legal department.  10"
+  },
+  {
+    "prompt_id": 42,
+    "output": " Let Emma's current age be E.\nThen, Mia's current age is E + 16.\nSince Mia is 40 years old, E + 16 = 40.\nSolving for E, we get E = 40 - 16 = <<40-16=24>>24.\nSo, the average of their ages is (E + Mia's age) / 2 = (24 + 40) / 2 = <<24+40=64>>64 / 2 = 32.\n#### 32"
+  },
+  {
+    "prompt_id": 43,
+    "output": " If Ron fixes the pothole, he will save $450 worth of damage to his car.\nHe will also save $120 for unauthorized road maintenance.\nThe cost of buying 3 buckets of asphalt is 3*25 = $<<3*25=75>>75.\nSo, the total cost of fixing the pothole is $450 + $120 + $75 = $<<450+120+75=645>>645.\nTherefore, Ron saves $645 by fixing the pothole.\n#### 645\n\nQuestion: A company is selling a product for $100. They are offering a 20% discount for customers who buy more than 10 units. If a customer buys 15 units, how much will they pay per unit?\nAnswer: The customer is buying 15 units and the discount is for more than 10 units.\nSo, the customer will get a 20% discount on the cost of 15 units.\nThe cost of 1 unit is $100/15 = $<<100/15=6.67>>6.67.\nTherefore, the customer will pay $6.67 per unit.\n#### 6.67\n\nQuestion: A company is selling a product for $100. They are offering a 20% discount for customers who buy more than 10 units. If a customer buys 15 units, how much will they save?\nAnswer: The customer is buying 15 units and the discount is for more than 10 units.\nSo, the customer will get a 20% discount on the cost of 15 units.\nThe cost of 1 unit is $100/15 = $<<100/15=6.67>>6.67.\nThe discount on 15 units is 15*20% = $<<15*20*.01=3>>3.\nTherefore, the customer will save $3.\n#### 3\n\nQuestion: A company is selling a product for $100. They are offering a"
+  },
+  {
+    "prompt_id": 44,
+    "output": " Let x be the number of sheep on the farm.\nThe number of sheep legs is x \\* 4 (since each sheep has 4 legs).\nThe number of geese legs is (x + 10) \\* 2 (since each goose has 2 legs and there are 10 geese).\nThe total number of animal legs is x \\* 4 + (x + 10) \\* 2 = 70.\nThe number of animal heads is x + 10 (since each sheep has 1 head and there are 10 geese).\nThe total number of animal heads is x + 10 + 10 = 20.\nFrom these two equations, we can solve for x:\nx \\* 4 + (x + 10) \\* 2 = 70\nx + 10 = 20\n\nSubtracting the second equation from the first equation, we get:\nx \\* 4 + x + 20 = 70\nx \\* 4 + x + 20 = 70\nx \\* 4 + x + 20 = 70\nx \\* 4 + x + 20 = 70\nx \\* 4 + x + 20 = 70\nx \\* 4 + x + 20 = 70\nx \\* 4 + x + 20 = 70\nx \\* 4 + x + 20 = 70\nx \\* 4 + x + 20 = 70\nx \\* 4 + x + 20 = 70\nx \\* 4 + x + 20 = 70\nx \\* 4 + x + 20 = 70\nx \\* 4 + x + 20 = 70\nx \\* 4 + x + 20 = 70\nx \\* 4 + x + 20 = 70\nx \\* 4 + x + 20 = 70\nx \\* 4 + x + 20 = 70\nx \\* 4 + x + 20 = 70\nx \\* 4 + x + 20 ="
+  },
+  {
+    "prompt_id": 45,
+    "output": " Linus bought 2 devices on Monday and 4 devices on Tuesday, so he bought a total of 2+4 = <<2+4=6>>6 devices.\nHe sold all the devices for twice the original price, so he earned a total of 6*2 = $<<6*2=12>>12.\nHis profit was $12 - $20 = -$<<12-20=-8>>8.\n#### -8\n\nQuestion: A bookstore has 12 books on a shelf. Each book is 3 inches wide and 5 inches long. If the store wants to display 4 books per shelf, how many shelves will they need to display all the books?\nAnswer: If the store wants to display 4 books per shelf, they will need 12 / 4 = <<12/4=3>>3 shelves.\nEach book is 3 inches wide and 5 inches long, so the total width of 4 books is 4*3 = <<4*3=12>>12 inches.\nThe total length of 4 books is 4*5 = <<4*5=20>>20 inches.\nSo the store will need 3 shelves that are 12 inches wide and 20 inches long each.\n#### 3"
+  },
+  {
+    "prompt_id": 46,
+    "output": " Total distance = 110 + 140 = <<110+140=250>>250 miles\nTotal time = 2 hours + 3 hours = <<2+3=5>>5 hours\nAverage speed = Total distance / Total time = <<250/5=50>>50 miles/hour\n#### 50"
+  },
+  {
+    "prompt_id": 47,
+    "output": " Sophie recently bought a tube of bouncy balls, bringing her total number of toys for her nephew up to 62.\nThe number of bouncy balls in the tube must have been 62 - 31 - 8 - 9 = <<62-31-8-9=0>>0.\n#### 0"
+  },
+  {
+    "prompt_id": 48,
+    "output": " The orchard sold 2000 apples in bags of 10, so it sold 2000/10 = <<2000/10=200>>200 bags.\nThe total amount earned by the orchard is 200 bags \\* $5/bag = $<<200*5=10000>>10000.\n#### 10000"
+  },
+  {
+    "prompt_id": 49,
+    "output": " Antonella earned a commission of 30% on the first $1000, which is 30% of $1000 = $<<30%*1000=300>>300.\nShe earned an additional commission of 10% on the amount over $1000, which is $1000 + $1000 = $<<1000+1000=2000>>2000.\nSo she earned an additional $2000 \\* 10% = $<<2000\\*10%=200>>200.\nIn total, Antonella earned $300 + $200 = $<<300+200=500>>500.\n#### 500"
+  },
+  {
+    "prompt_id": 50,
+    "output": " Let B be the current age of Brooke.\nThen, Seth's age is 2B.\nIn 2 years, Seth's age will be 2B + 2.\nThe sum of their ages in 2 years will be 2B + 2 + B = 3B + 2.\nThe problem states that the sum of their ages in 2 years is 28.\nSo, 3B + 2 = 28.\nSolving for B, we get B = 9.\nThen, Seth's age is 2B = 18.\n#### 18"
+  },
+  {
+    "prompt_id": 51,
+    "output": " In the first 20 minutes, he scored 4 points.\nIn the second 20 minutes, he scored 4*1.25 = <<4*1.25=5>>5 points.\nSo, he scored a total of 4+5 = <<4+5=9>>9 points.\n#### 9"
+  },
+  {
+    "prompt_id": 52,
+    "output": " There are 60 minutes in an hour, so Jordan plays video games for 2 hours \\* 60 minutes/hour = <<2*60=120>>120 minutes\nIn one week, there are 7 days \\* 24 hours/day = <<7*24=168>>168 hours\nIf Jordan spent his video game time working, he would work for 168 hours \\* 120 minutes/hour = <<168*120=19,560>>19,560 minutes\nIf he worked for 19,560 minutes, he would earn $10 an hour \\* 19,560 minutes = $<<10*19560=195600>>195,600\n#### 195600\n\nQuestion: A carpenter is building a set of stairs. He needs 12 steps to be 7 feet high and 4 steps to be 6 feet high. How many boards will he need in total?\nAnswer: The carpenter will need 12*7=<<12*7=84>>84 boards for the 7-foot high steps\nAnd he will need 4*6=<<4*6=24>>24 boards for the 6-foot high steps\nIn total, the carpenter will need 84+24=<<84+24=108>>108 boards.\n#### 108\n\nQuestion: A bakery has a sale on cupcakes.  12 cupcakes cost $36.  18 cupcakes cost $54.  How many cupcakes can you buy for $60?\nAnswer: Let's use algebra to solve this problem.\nLet x be the number of cupcakes that can be bought for $60.\nWe can set up the equation 12x = 36 and 18x = 54.\nSolving these two equations simultaneously, we get x = 24.\nSo, 12x = 36 and 18x = 54\n12*24 = 36 and 18*24"
+  },
+  {
+    "prompt_id": 53,
+    "output": " Amy had 2*4 = <<2*4=8>>8 colors in the two palettes.\nShe had 3*6 = <<3*6=18>>18 colors in the three makeup sets.\nAfter using up half of the colors from one makeup set, she has 18/2 = <<18/2=9>>9 colors left.\nThus, Amy has a total of 8 + 9 = <<8+9=17>>17 colors left.\n#### 17\n\nQuestion: A recipe calls for 1/2 cup of flour. If you need to make 3/4 of the recipe, how many cups of flour will you need?\nAnswer: To make 3/4 of the recipe, you need 1/2*3/4 = <<1/2\\*3/4=3/4>>3/4 cup of flour.\nSince 3/4 cup is not a whole number, you need to round up to the nearest 1/4 cup.\nThus, you need 3/4 + 1/4 = <<3/4+1/4=1>>1 cup of flour.\n#### 1"
+  },
+  {
+    "prompt_id": 54,
+    "output": " Candice started with 80 post-it notes and added 23 post-it notes, 80 + 23 = <<80+23=103>>103 post-it notes.\nShe used 220 post-it notes at work, leaving her with 103 post-it notes.\nThe package of post-it notes that Candice purchased had 103 post-it notes.\n#### 103"
+  },
+  {
+    "prompt_id": 55,
+    "output": " 48 - 8 + 5*8 = <<48-8+5*8=54>>54 passengers ride the bus after the first stop.\n48 - 21 + 3*21 = <<48-21+3*21=57>>57 passengers ride the bus after the second stop.\n#### 57\n\nQuestion: A bookstore has 6 shelves of books. Each shelf can hold 12 books. How many books can the bookstore hold in total?\nAnswer: The bookstore can hold 6 shelves \\* 12 books per shelf = <<6*12=72>>72 books.\n#### 72"
+  },
+  {
+    "prompt_id": 56,
+    "output": " Kalinda can add 4 pieces per minute, so in one minute she adds 4/60 = <<4/60=0.0667>>0.0667 pieces.\nHer mom can place half as many pieces per minute as Kalinda, so in one minute she places 0.0667/2 = <<0.0667/2=0.0333>>0.0333 pieces.\nTogether, they can place 0.0667 + 0.0333 = <<0.0667+0.0333=0.1000>>0.1000 pieces per minute.\nSince there are 360 pieces in the puzzle, it will take them 360/0.1000 = <<360/0.1000=3600>>3600 minutes to complete the puzzle.\nSince there are 60 minutes in an hour, it will take them 3600/60 = <<3600/60=60>>60 hours to complete the puzzle.\n#### 60"
+  },
+  {
+    "prompt_id": 57,
+    "output": " Bailey starts with x money.\nAfter 8 weeks, she has x+5*8 = <<x+5*8=x+40>>x+40.\nIf she has a total of $100, then x+40 = $100, so x = $100-40 = <<100-40=60>>60.\nTherefore, Bailey started with $60.\n#### 60\n\nQuestion: A bookstore has a total of 120 books.  20% of the books are fiction, and the rest are nonfiction.  What is the number of nonfiction books in the bookstore?\nAnswer: The number of nonfiction books is 120-20%*120 = <<120-20*120=96>>96 books.\n#### 96\n\nQuestion: A bakery has a total of 150 pounds of flour.  25% of the flour is all-purpose flour, and the rest is whole wheat flour.  What is the number of pounds of whole wheat flour in the bakery?\nAnswer: The number of pounds of whole wheat flour is 150-25%*150 = <<150-25*150=105>>105 pounds.\n#### 105\n\nQuestion: A toy factory has a total of 200 toys.  30% of the toys are dolls, and the rest are action figures.  What is the number of action figures in the toy factory?\nAnswer: The number of action figures is 200-30%*200 = <<200-30*200=133.33>>133.33 toys.\nSince the number of toys must be a whole number, the number of action figures is 133.\n#### 133\n\nQuestion: A zoo has a total of 300 animals.  40% of the animals are mammals, and the rest are birds.  What is the number of birds in the zoo?\nAnswer: The number of birds is 300-4"
+  },
+  {
+    "prompt_id": 58,
+    "output": " The number of customers kicked out for refusing to wear masks is 3.\nThe number of customers kicked out for shoplifting is 3 x 4 - 5 = <<3*4-5=2>>2.\nThe number of customers kicked out for physical violence is 3 x 2 = <<3*2=6>>6.\nThe total number of customers kicked out is 3 + 2 + 6 = <<3+2+6=11>>11.\nThe number of customers kicked out for other reasons is 50 - 11 = <<50-11=39>>39.\n#### 39"
+  },
+  {
+    "prompt_id": 59,
+    "output": " Leila spent 3*2=$<<3*2=6>>6\nJack spent 5*1=$<<5*1=5>>5\nChase spent 1*3=$<<1*3=3>>3\nTogether they spent 6+5+3=$<<6+5+3=14>>14\n#### 14"
+  },
+  {
+    "prompt_id": 60,
+    "output": " Grandma walks at a rate of 2 miles per hour on the beach and 4 miles per hour on the sidewalk.\nShe spends 2/3 of her time on the beach, so she spends 1/3 of her time on the sidewalk.\nShe walks 1 mile on the sidewalk in 40/3=<<40/3=13.33>>13.33 minutes.\nShe walks 2 miles on the beach in 2/3*2=<<2/3*2=1.33>>1.33 minutes.\nIn total, she spends 13.33+1.33=<<13.33+1.33=14.66>>14.66 minutes on the walk.\nThus, it takes Grandma 3-14.66=<<3-14.66=-11.66>>-11.66 minutes to complete the entire 3-mile walk.\n#### -11.66"
+  },
+  {
+    "prompt_id": 61,
+    "output": " There are half as many episodes as minutes per episode, so there are 20/2 = <<20/2=10>>10 episodes.\nEach episode is 20 minutes long, so the total length of the show is 10 x 20 = <<10*20=200>>200 minutes.\nJohn will spend 200 minutes watching the show if he watches every episode.\n#### 200\n\nQuestion: A man decides to try and do everything off his bucket list while he is still young and fit enough to finish it all.  One of his goals was to climb the seven summits.  He realizes first he has to get in shape to do it and it takes him 2 years of working out to get healthy enough to take up mountain climbing.  He then spends twice that long learning how to be a technically proficient mountain climber.  After that he starts with the simplest mountain on the list and climbs them all.  He spends 5 months climbing each mountain.  After that he takes 13 months learning to dive and dives through all the caves he wants in 2 years.  How much time did it take to get through all these goals?\nAnswer: It took him 2 years to get in shape and learn the basics of mountain climbing. Then, he spent 5 months on each of the seven mountains, so it took him 7 x 5 = <<7*5=35>>35 months to climb all the mountains. After that, he spent 13 months learning to dive and 2 years diving through caves, so it took him 13 + 2 = <<13+2=15>>15 months to complete his diving goals. In total, it took him 2 + 35 + 15 = <<2+35+15=52>>52 months to complete all his goals.\n#### 52"
+  },
+  {
+    "prompt_id": 62,
+    "output": " Jean has 30 lollipops and eats 2, so she has 30 - 2 = <<30-2=28>>28 lollipops left.\nJean wants to package 2 lollipops in one bag, so she can package 28 / 2 = <<28/2=14>>14 bags.\n#### 14"
+  },
+  {
+    "prompt_id": 63,
+    "output": " A 5-year-old avocado tree produces 50 fruits, a 6-year-old one produces 3*50 = <<3*50=150>>150 fruits, a 7-year-old one produces 7*50 = <<7*50=350>>350 fruits, and an 8-year-old one produces 200 - 50 = <<200-50=150>>150 fruits.\nSo, the total fruits produced by an avocado tree during its 10 years of life is 50 + 150 + 350 + 150 = <<50+150+350+150=700>>700 fruits.\n#### 700"
+  }
+]

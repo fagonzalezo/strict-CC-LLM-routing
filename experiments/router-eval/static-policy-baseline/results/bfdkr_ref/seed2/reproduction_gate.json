@@ -1,0 +1,20 @@
+{
+  "source": "experiments/router-eval/all-methods-comparison/results/seed_summary.json -> methods[label=='BF-DKR (pq_auc)'] (protocol 'per-seed val-selected k') -> per_seed[seed=2]",
+  "expected_config": "k=128",
+  "expected_test_cost_auc": 0.728709,
+  "expected_test_pq_auc": 0.770252,
+  "expected_test_ece": 0.020468,
+  "floor_cost_auc": 0.538449,
+  "oracle_cost_auc": 0.947298,
+  "three_seed_mean_cost_auc": 0.736501,
+  "three_seed_std_cost_auc": 0.005556,
+  "seed": 2,
+  "derived_k": 128,
+  "objective": "pq_auc",
+  "observed_test_cost_auc": 0.728709,
+  "observed_test_pq_auc": 0.770252,
+  "observed_test_ece": 0.020468,
+  "drift_cost_auc": 0.0,
+  "tie_band_cost_auc": 0.0035,
+  "passed": true
+}

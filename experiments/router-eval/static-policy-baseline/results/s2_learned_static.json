@@ -1,0 +1,98 @@
+{
+  "arm": "S2",
+  "dataset": "router-eval",
+  "group": "pooled",
+  "n_queries": 2894,
+  "n_llms_test": 376,
+  "test_cost_auc": 0.667796,
+  "test_floor_cost_auc": 0.538449,
+  "test_oracle_cost_auc": 0.947298,
+  "test_aiq": 0.129347,
+  "uses_test_labels": false,
+  "test_quality_at_cap_1B": 0.337941,
+  "test_quality_at_cap_3B": 0.577056,
+  "test_quality_at_cap_7B": 0.68141,
+  "test_quality_at_cap_30B": 0.68141,
+  "test_quality_at_cap_86B": 0.68141,
+  "policy": "ridge from raw fingerprint to train-mean accuracy, fit on train LLMs only",
+  "representation": "raw fingerprint (seed-free by construction)",
+  "selected": {
+    "family": "ridge",
+    "alpha": 10.0,
+    "val_cost_auc": 0.715598
+  },
+  "selection_rule": "val_cost_auc",
+  "n_val_llms": 374,
+  "val_winner_across_families": {
+    "family": "knn",
+    "hp": 25.0,
+    "val_cost_auc": 0.725909197734406
+  },
+  "robustness_knn_regression": {
+    "k": 25,
+    "val_cost_auc": 0.725909,
+    "test_cost_auc": 0.685085
+  },
+  "grid_audit": [
+    {
+      "family": "ridge",
+      "hp": 0.01,
+      "val_cost_auc": 0.594328
+    },
+    {
+      "family": "ridge",
+      "hp": 0.1,
+      "val_cost_auc": 0.702378
+    },
+    {
+      "family": "ridge",
+      "hp": 1.0,
+      "val_cost_auc": 0.713601
+    },
+    {
+      "family": "ridge",
+      "hp": 10.0,
+      "val_cost_auc": 0.715598
+    },
+    {
+      "family": "ridge",
+      "hp": 100.0,
+      "val_cost_auc": 0.674099
+    },
+    {
+      "family": "ridge",
+      "hp": 1000.0,
+      "val_cost_auc": 0.672754
+    },
+    {
+      "family": "knn",
+      "hp": 1.0,
+      "val_cost_auc": 0.6608
+    },
+    {
+      "family": "knn",
+      "hp": 3.0,
+      "val_cost_auc": 0.721964
+    },
+    {
+      "family": "knn",
+      "hp": 5.0,
+      "val_cost_auc": 0.660464
+    },
+    {
+      "family": "knn",
+      "hp": 10.0,
+      "val_cost_auc": 0.721577
+    },
+    {
+      "family": "knn",
+      "hp": 25.0,
+      "val_cost_auc": 0.725909
+    },
+    {
+      "family": "knn",
+      "hp": 50.0,
+      "val_cost_auc": 0.718644
+    }
+  ]
+}

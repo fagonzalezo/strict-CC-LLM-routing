@@ -1,0 +1,39 @@
+{
+  "statement": "BF-DKR > its own query-marginalised self outside the tie-band, CI excluding 0. A tie means the row-to-row variation in BF-DKR's predictions is noise.",
+  "arm": "S2b",
+  "per_seed": [
+    {
+      "cost_auc_gap_point": 0.002228,
+      "cost_auc_gap_ci95": [
+        -0.001883,
+        0.006106
+      ],
+      "cost_auc_gap_excludes_zero": false,
+      "outside_tie_band": false
+    },
+    {
+      "cost_auc_gap_point": 0.001489,
+      "cost_auc_gap_ci95": [
+        -0.003049,
+        0.00637
+      ],
+      "cost_auc_gap_excludes_zero": false,
+      "outside_tie_band": false
+    },
+    {
+      "cost_auc_gap_point": 0.023833,
+      "cost_auc_gap_ci95": [
+        0.018118,
+        0.029798
+      ],
+      "cost_auc_gap_excludes_zero": true,
+      "outside_tie_band": true
+    }
+  ],
+  "n_seeds": 3,
+  "bfdkr_wins": 1,
+  "arm_wins": 0,
+  "ties_within_band": 2,
+  "mean_gap": 0.009183,
+  "tie_band_cost_auc": 0.0035
+}

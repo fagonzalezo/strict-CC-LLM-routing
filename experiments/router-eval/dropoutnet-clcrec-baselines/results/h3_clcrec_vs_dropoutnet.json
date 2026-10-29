@@ -1,0 +1,12 @@
+{
+  "baseline": "dropoutnet",
+  "delta_cost_auc": -0.062252,
+  "delta_pq_auc": -0.033178,
+  "delta_ece": 0.012199,
+  "new_cost_auc": 0.66414,
+  "baseline_cost_auc": 0.726392,
+  "new_pq_auc": 0.730656,
+  "baseline_pq_auc": 0.763834,
+  "direction": "CLCRec - DropoutNet",
+  "H3_verdict": "DropoutNet ahead on cost_auc (point estimate)"
+}

@@ -1,0 +1,14 @@
+{
+  "source": "seed_summary.json -> methods['BF-DKR (pq_auc)'] -> per_seed[0]",
+  "expected_config": "k=512",
+  "expected_test_cost_auc": 0.739515,
+  "floor_cost_auc": 0.538449,
+  "oracle_cost_auc": 0.947298,
+  "seed": 0,
+  "observed_test_cost_auc": 0.739515,
+  "derived_k": 512,
+  "reused_stage1_fit": true,
+  "drift_cost_auc": 0.0,
+  "tie_band_cost_auc": 0.0035,
+  "passed": true
+}

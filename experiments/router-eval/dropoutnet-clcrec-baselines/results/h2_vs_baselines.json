@@ -1,0 +1,66 @@
+{
+  "dropoutnet": {
+    "knn": {
+      "baseline": "knn",
+      "delta_cost_auc": 0.026427,
+      "delta_pq_auc": 0.021052,
+      "delta_ece": -0.009364,
+      "new_cost_auc": 0.726392,
+      "baseline_cost_auc": 0.699965,
+      "new_pq_auc": 0.763834,
+      "baseline_pq_auc": 0.742782
+    },
+    "mlpdot": {
+      "baseline": "mlpdot",
+      "delta_cost_auc": 0.006521,
+      "delta_pq_auc": -0.000998,
+      "delta_ece": -0.003703,
+      "new_cost_auc": 0.726392,
+      "baseline_cost_auc": 0.719871,
+      "new_pq_auc": 0.763834,
+      "baseline_pq_auc": 0.764832
+    },
+    "dmkdmr_encoded": {
+      "baseline": "dmkdmr_encoded",
+      "delta_cost_auc": -0.01318,
+      "delta_pq_auc": -0.003647,
+      "delta_ece": 0.007206,
+      "new_cost_auc": 0.726392,
+      "baseline_cost_auc": 0.739572,
+      "new_pq_auc": 0.763834,
+      "baseline_pq_auc": 0.767481
+    }
+  },
+  "clcrec": {
+    "knn": {
+      "baseline": "knn",
+      "delta_cost_auc": -0.035825,
+      "delta_pq_auc": -0.012126,
+      "delta_ece": 0.002835,
+      "new_cost_auc": 0.66414,
+      "baseline_cost_auc": 0.699965,
+      "new_pq_auc": 0.730656,
+      "baseline_pq_auc": 0.742782
+    },
+    "mlpdot": {
+      "baseline": "mlpdot",
+      "delta_cost_auc": -0.055731,
+      "delta_pq_auc": -0.034176,
+      "delta_ece": 0.008496,
+      "new_cost_auc": 0.66414,
+      "baseline_cost_auc": 0.719871,
+      "new_pq_auc": 0.730656,
+      "baseline_pq_auc": 0.764832
+    },
+    "dmkdmr_encoded": {
+      "baseline": "dmkdmr_encoded",
+      "delta_cost_auc": -0.075432,
+      "delta_pq_auc": -0.036825,
+      "delta_ece": 0.019405,
+      "new_cost_auc": 0.66414,
+      "baseline_cost_auc": 0.739572,
+      "new_pq_auc": 0.730656,
+      "baseline_pq_auc": 0.767481
+    }
+  }
+}

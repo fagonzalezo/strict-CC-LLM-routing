@@ -1,0 +1,21 @@
+{
+  "arm": "S3",
+  "dataset": "embedllm",
+  "group": "pooled",
+  "n_queries": 10702,
+  "n_llms_test": 21,
+  "test_cost_auc": 0.513573,
+  "test_floor_cost_auc": 0.394225,
+  "test_oracle_cost_auc": 0.868398,
+  "test_aiq": 0.119347,
+  "uses_test_labels": true,
+  "test_quality_at_cap_1B": 0.24117,
+  "test_quality_at_cap_3B": 0.310624,
+  "test_quality_at_cap_7B": 0.46552,
+  "test_quality_at_cap_30B": 0.475519,
+  "test_quality_at_cap_67B": 0.570828,
+  "policy": "best static policy in hindsight (w = S_test.mean(0))",
+  "role": "anchor over all query-independent policies -- alongside floor and oracle, never a Table III baseline row",
+  "test_brier": null,
+  "test_ece": null
+}

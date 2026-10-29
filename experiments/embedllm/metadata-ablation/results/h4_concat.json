@@ -1,0 +1,40 @@
+{
+  "statement": "concat ties fp -- metadata adds nothing on top of behavior",
+  "arm": "concat",
+  "reference": "fp",
+  "tie_band_cost_auc": 0.0035,
+  "per_seed": [
+    {
+      "cost_auc_gap_point": 0.004659,
+      "cost_auc_gap_ci95": [
+        -0.001011,
+        0.009824
+      ],
+      "cost_auc_gap_excludes_zero": false,
+      "outside_tie_band": true
+    },
+    {
+      "cost_auc_gap_point": 0.058123,
+      "cost_auc_gap_ci95": [
+        0.051859,
+        0.064484
+      ],
+      "cost_auc_gap_excludes_zero": true,
+      "outside_tie_band": true
+    },
+    {
+      "cost_auc_gap_point": -0.035063,
+      "cost_auc_gap_ci95": [
+        -0.04097,
+        -0.029327
+      ],
+      "cost_auc_gap_excludes_zero": true,
+      "outside_tie_band": true
+    }
+  ],
+  "n_seeds": 3,
+  "reference_wins": 1,
+  "arm_wins": 1,
+  "ties_within_band": 1,
+  "mean_gap": 0.00924
+}

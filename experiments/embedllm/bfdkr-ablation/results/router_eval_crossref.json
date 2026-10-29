@@ -1,0 +1,20 @@
+{
+  "note": "Directional only -- router-eval/bfdkr-ablation used a different absolute cost_auc scale (~0.74 vs. EmbedLLM's ~0.51), a different (hardcoded) tie-band, and a different arm set (router-eval also fit full_ext). Not a matched numeric comparison.",
+  "source": "experiments/router-eval/bfdkr-ablation/results/attribution_table.json",
+  "qk_off": {
+    "embedllm_mean_delta_cost_auc": -0.011796,
+    "router_eval_mean_delta_cost_auc": -0.011063
+  },
+  "lk_off": {
+    "embedllm_mean_delta_cost_auc": -0.020868,
+    "router_eval_mean_delta_cost_auc": -0.01462
+  },
+  "bw_off": {
+    "embedllm_mean_delta_cost_auc": -0.008854,
+    "router_eval_mean_delta_cost_auc": -0.071142
+  },
+  "knn_enc": {
+    "embedllm_mean_delta_cost_auc": -0.017764,
+    "router_eval_mean_delta_cost_auc": -0.017372
+  }
+}

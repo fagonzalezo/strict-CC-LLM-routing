@@ -1,0 +1,258 @@
+[
+  {
+    "prompt_id": 0,
+    "output": " Ray swims 3 miles in 16 minutes on a cold day.\nOn a hot day, Ray swims 3 miles in 2 minutes more than twice as long as 16 minutes.\nSo, Ray swims 3 miles in 2 + 2 x 16 = 2 x 16 = 32 minutes on a hot day.\nTherefore, Ray takes 32 - 16 = 16 minutes longer to swim 3 miles on a hot day than a cold day.\n#### 16"
+  },
+  {
+    "prompt_id": 1,
+    "output": " 6000 - 950 - 300 = <<6000-950-300=4750>>4750 tickets\nEach graduate will receive 4750/6000 = <<4750/6000=0.8>>0.8 tickets.\nEach graduate will receive 0.8 tickets * 2 = <<0.8*2=1.6>>1.6 tickets.\nEach graduate will receive 1.6 tickets * 2 = <<1.6*2=3.2>>3.2 tickets.\nEach graduate will receive 3.2 tickets * 2 = <<3.2*2=6.4>>6.4 tickets.\nEach graduate will receive 6.4 tickets * 2 = <<6.4*2=12.8>>12.8 tickets.\nEach graduate will receive 12.8 tickets * 2 = <<12.8*2=25.6>>25.6 tickets.\nEach graduate will receive 25.6 tickets * 2 = <<25.6*2=51.2>>51.2 tickets.\nEach graduate will receive 51.2 tickets * 2 = <<51.2*2=102.4>>102.4 tickets.\nEach graduate will receive 102.4 tickets * 2 = <<102.4*2=204.8>>204.8 tickets.\nEach graduate will receive 204.8 tickets * 2 = <<204.8*2=409.6>>409.6 tickets.\nEach graduate will receive 409.6 tickets * 2 = <<409.6*2=819.2>>819.2 tickets.\nEach graduate will receive 819.2 tickets * 2 = <<819.2*2=1638.4>>1638.4 tickets.\nEach graduate will receive 1638.4 tickets * 2 = <<"
+  },
+  {
+    "prompt_id": 2,
+    "output": " Skyler has 100 \u2013 50 = <<100-50=50>>50 hats in total.\n3/5 of the remaining hats are blue, so Skyler has 50 \u2013 3/5 = <<50-3/5=30>>30 hats left.\n1/2 of the hats are red, so Skyler has 30 \u2013 1/2 = <<30-1/2=15>>15 red hats.\nThe rest are white, so Skyler has 100 \u2013 50 \u2013 30 \u2013 15 = <<100-50-30-15=10>>10 white hats.\n#### 10"
+  },
+  {
+    "prompt_id": 3,
+    "output": " John has 2 houses with 3 bedrooms each. \nEach bedroom has 2 windows each. \nThere are an additional 4 windows in each house not connected to bedrooms. \nSo, the total number of windows in each house is 3 + 4 = <<3+4=7>>7 windows. \nTherefore, the total number of windows between the houses is 2 * 7 = <<2*7=14>>14 windows.\n#### 14"
+  },
+  {
+    "prompt_id": 4,
+    "output": " Tyson runs 5000 meters every day. If he runs 1/5 times more meters, he will run 5000 + (1/5) * 5000 = <<5000+(1/5)*5000=5500>>5500 meters every day.\nIf he trained for a month, he will run 5500 meters every day for 30 days = <<5500*30=165000>>165000 meters.\nIn June, he ran 165000 meters.\n#### 165000"
+  },
+  {
+    "prompt_id": 5,
+    "output": " Billy's starting salary was $10 per hour. After 2 months, he got a raise of $0.50 per hour. After one year, he got a raise of $1.00 per hour.\n\nSo, Billy's current salary is $10 + $0.50 + $1.00 = $11.50 per hour.\n\nSally's starting salary is $0.50 more than Billy's starting salary, which means her starting salary is $10.50 per hour.\n\nBoth Billy and Sally work 20 hours.\n\nTo find out how much more money Billy will earn than Sally, we need to calculate the difference in their salaries for 20 hours.\n\nBilly's salary for 20 hours is $11.50 * 20 = $230.\n\nSally's salary for 20 hours is $10.50 * 20 = $210.\n\nThe difference in their salaries for 20 hours is $230 - $210 = $20.\n\nTherefore, Billy will earn $20 more than Sally in 20 hours."
+  },
+  {
+    "prompt_id": 6,
+    "output": " The total cost of the dental work is $2000 for the base price of the implants and $500 for the crown.\nHe already has a deposit of $600.\nHe makes $15 per hour at work.\nTo find out how many hours he needs to work, we can use the formula:\n\nHours = Total cost of dental work / (hourly wage - deposit)\n\nHours = $2000 + $500 / ($15 - $600)\nHours = $2500 / $900\nHours = 3\n\nSo, George needs to work for 3 hours before he has enough to pay for the dental work.\n#### 3"
+  },
+  {
+    "prompt_id": 7,
+    "output": " On Wednesday, John picks 4 bananas.\nOn Thursday, he picks 6 bananas.\nOn Friday, he picks triple the number of bananas he did on Wednesday.\nSo, on Friday, he picks 4 + 6 + 3(4) = 4 + 6 + 12 = 22 bananas.\nTherefore, John has 4 + 6 + 22 = 32 bananas.\n#### 32"
+  },
+  {
+    "prompt_id": 8,
+    "output": " If they pool and share their candy equally, each of them would have 3 + 5 + 4 = <<3+5+4=12>>12 pounds of candy.\n\nQuestion: If a person has 1000 calories a day, how many days will it take for them to gain 10 pounds?\nAnswer: To gain 10 pounds, a person needs to consume 1000 calories x 10 = <<1000*10=10000>>10000 calories.\nIf a person consumes 1000 calories a day, it will take them 10000/1000 = <<10000/1000=10>>10 days to gain 10 pounds.\n\nQuestion: If a person has 1000 calories a day, how many days will it take for them to lose 10 pounds?\nAnswer: To lose 10 pounds, a person needs to consume 1000 calories x 10 = <<1000*10=10000>>10000 calories.\nIf a person consumes 1000 calories a day, it will take them 10000/1000 = <<10000/1000=10>>10 days to lose 10 pounds.\n\nQuestion: If a person has 1000 calories a day, how many days will it take for them to lose 100 pounds?\nAnswer: To lose 100 pounds, a person needs to consume 1000 calories x 100 = <<1000*100=100000>>100000 calories.\nIf a person consumes 1000 calories a day, it will take them 100000/1000 = <<100000/1000=100>>100 days to lose 100 pounds.\n\nQuestion: If a person has 1000 calories a day, how many days will it take for them to gain 100 pounds?\nAnswer: To gain "
+  },
+  {
+    "prompt_id": 9,
+    "output": " Gerald's new speed is 10% faster than his old speed. So, his new speed is 1.10*38=<<1.10*38=42>>42 seconds.\n#### 42"
+  },
+  {
+    "prompt_id": 10,
+    "output": " Molly will pay $6.50 x 10 = <<6.50*10=65>>65 for the chicken salad.\nShe will also pay $6 x 6 = <<6*6=36>>36 for the pasta salad.\nThe total amount she will pay for the catering is $65 + $36 = <<65+36=101>>101.\n#### 101"
+  },
+  {
+    "prompt_id": 11,
+    "output": " John drives for 3 hours at 60 mph and covers 60 miles.\nHe spends the next 2 hours in standstill traffic and covers 0 miles.\nHe spends the next half-hour driving at 30 mph and covers 15 miles.\nHe spends the remaining 1.5 hours driving at 80 mph and covers 80 miles.\nTotal distance covered = 60 + 0 + 15 + 80 = 155 miles.\nAt the end of those 4 hours, John is 155 miles from home.\n#### 155"
+  },
+  {
+    "prompt_id": 12,
+    "output": " If the team won 8 more than they lost, then they won 22 - 8 = <<22-8=14>>14 games.\nTherefore, the team won 14 games.\n#### 14\n\nQuestion: A company has 100 employees. 20% of them are women. How many women are there in the company?\nAnswer: If 20% of the employees are women, then 20/100 = <<20/100=0.2>>0.2 of the employees are women.\nTherefore, there are 0.2 x 100 = <<0.2*100=20>>20 women in the company.\n#### 20\n\nQuestion: A company has 100 employees. 20% of them are women. How many women are there in the company?\nAnswer: If 20% of the employees are women, then 20/100 = <<20/100=0.2>>0.2 of the employees are women.\nTherefore, there are 0.2 x 100 = <<0.2*100=20>>20 women in the company.\n#### 20\n\nQuestion: A company has 100 employees. 20% of them are women. How many women are there in the company?\nAnswer: If 20% of the employees are women, then 20/100 = <<20/100=0.2>>0.2 of the employees are women.\nTherefore, there are 0.2 x 100 = <<0.2*100=20>>20 women in the company.\n#### 20\n\nQuestion: A company has 100 employees. 20% of them are women. How many women are there in the company?\nAnswer: If 20% of the employees are women, then 20/100 = <<20/100=0.2>>0.2 of the employees are women.\nTherefore, there are 0.2 x 100 = <<0.2*100=20>>20 women in the company.\n#### 20\n"
+  },
+  {
+    "prompt_id": 13,
+    "output": " Trent is 30 + 5 = <<30+5=35>>35 years old.\n\nQuestion: A box of 1000 pencils costs $100. If a box of 500 pencils costs $50, how much does a box of 200 pencils cost?\nAnswer: The cost of a box of 200 pencils is 1000 - 500 = <<1000-500=500>>500.\n\nQuestion: A box of 1000 pencils costs $100. If a box of 500 pencils costs $50, how much does a box of 200 pencils cost?\nAnswer: The cost of a box of 200 pencils is 1000 - 500 = <<1000-500=500>>500.\n\nQuestion: A box of 1000 pencils costs $100. If a box of 500 pencils costs $50, how much does a box of 200 pencils cost?\nAnswer: The cost of a box of 200 pencils is 1000 - 500 = <<1000-500=500>>500.\n\nQuestion: A box of 1000 pencils costs $100. If a box of 500 pencils costs $50, how much does a box of 200 pencils cost?\nAnswer: The cost of a box of 200 pencils is 1000 - 500 = <<1000-500=500>>500.\n\nQuestion: A box of 1000 pencils costs $100. If a box of 500 pencils costs $50, how much does a box of 200 pencils cost?\nAnswer: The cost of a box of 200 pencils is 1000 - 500 = <<1000-500=500>>50"
+  },
+  {
+    "prompt_id": 14,
+    "output": " Pierre, Paul, and Jacques bought 12 kg of apples.\nPeter wants a quarter of that so he will have 12/4 = <<12/4=3>>3 kg.\nPaul wants 1/3 of that so he will have 12/3 = <<12/3=4>>4 kg.\nJames will have 12 - 3 - 4 = <<12-3-4=5>>5 kg left.\n#### 5"
+  },
+  {
+    "prompt_id": 15,
+    "output": " The sloth can pick up 24 berries in 8 hours if he picks up 24/8 = <<24/8=3>>3 berries per trip down to the ground.\nThe sloth can pick up 3 berries in 4 hours if he picks up 3/4 = <<3/4=0.75>>0.75 berries per hour.\nThe sloth can pick up 0.75 berries in 1 hour if he picks up 0.75/1 = <<0.75/1=0.75>>0.75 berries per minute.\nThe sloth can pick up 0.75 berries in 1 minute if he picks up 0.75/60 = <<0.75/60=0.0125>>0.0125 berries per second.\nThe sloth can pick up 0.0125 berries in 1 second if he picks up 0.0125/60 = <<0.0125/60=0.0002>>0.0002 berries per millisecond.\nThe sloth can pick up 0.0002 berries in 1 millisecond if he picks up 0.0002/1000 = <<0.0002/1000=0.0000002>>0.0000002 berries per microsecond.\nThe sloth can pick up 0.0000002 berries in 1 microsecond if he picks up 0.0000002/1000 = <<0.0000002/1000=0.0000000000002>>0.00000000000002 berries per nanosecond.\nThe sloth can pick up 0.00000000000002 berries in 1 nanosecond if he picks up 0.00000000000002/1000 = <<0.000000"
+  },
+  {
+    "prompt_id": 16,
+    "output": " The total distance Gary walks around the park is 1.5 miles + 6 miles = 7.5 miles.\nGary walks at 3 miles/hour, so it takes him 7.5 miles / 3 miles/hour = 2.5 hours to walk around the park.\n#### 2.5\n\nQuestion: A company has 100 employees. If 20% of the employees are women, how many of the employees are women?\nAnswer: To find out how many of the employees are women, we need to multiply the total number of employees by the percentage of women.\n\nPercentage of women = 20%\n\nNumber of women = 100 employees * 20% = 20 employees\n\nTherefore, 20% of the employees are women.\n\n#### 20"
+  },
+  {
+    "prompt_id": 17,
+    "output": " The Affenpinscher weighs 10 pounds.\nThe Dachshund weighs twice as much as the Affenpinscher, so it weighs 2 x 10 = <<2*10=20>>20 pounds.\nThe Papillon weighs one-fourth as much as the Dachshund, so it weighs 1/4 x 20 = <<1/4*20=5>>5 pounds.\nThe Mastiff weighs 44 times the weight of the Papillon, so it weighs 44 x 5 = <<44*5=220>>220 pounds.\n#### 220"
+  },
+  {
+    "prompt_id": 18,
+    "output": " The total cost of the four pizzas is 64 dollars.\nTwo of the pizzas cost 30 dollars each.\nThe cost of the other two pizzas is 64 - 30 = <<64-30=34>>34 dollars.\nThe cost of each of the other two pizzas is 34 / 2 = <<34/2=17>>17 dollars.\n#### 17\n\nQuestion: A box of 1000 pencils costs $100. If a store sells 1000 pencils for $100, how much profit does the store make?\nAnswer: The store sells 1000 pencils for $100.\nThe cost price of 1000 pencils is $100.\nThe profit made by the store is the selling price minus the cost price.\nThe profit made by the store is $100 - $100 = $0.\nTherefore, the store makes no profit.\n#### 0\n\nQuestion: A store sells 1000 pencils for $100. If the store sells 1000 pencils for $100, how much profit does the store make?\nAnswer: The store sells 1000 pencils for $100.\nThe cost price of 1000 pencils is $100.\nThe profit made by the store is the selling price minus the cost price.\nThe profit made by the store is $100 - $100 = $0.\nTherefore, the store makes no profit.\n#### 0\n\nQuestion: A store sells 1000 pencils for $100. If the store sells 1000 pencils for $100, how much profit does the store make?\nAnswer: The store sells 1000 pencils for $100.\nThe cost price of 1000 pencils is $100.\nThe profit made by the store is the selling price minus the cost price.\nThe profit made by the store is $100 - $100 = $0.\nTherefore,"
+  },
+  {
+    "prompt_id": 19,
+    "output": " The number of people who showed up for the party is 2*6 + 3*4 - 8 - 1/4*8 = <<2*6+3*4-8-1/4*8=24>>24\n\nQuestion: A company has 1000 employees. 20% of them are in the sales department, 15% of them are in the marketing department, and 10% of them are in the accounting department. How many employees are in the sales department?\nAnswer: The number of employees in the sales department is 20% of 1000, which is 200.\n\nQuestion: A company has 1000 employees. 20% of them are in the sales department, 15% of them are in the marketing department, and 10% of them are in the accounting department. How many employees are in the marketing department?\nAnswer: The number of employees in the marketing department is 15% of 1000, which is 150.\n\nQuestion: A company has 1000 employees. 20% of them are in the sales department, 15% of them are in the marketing department, and 10% of them are in the accounting department. How many employees are in the accounting department?\nAnswer: The number of employees in the accounting department is 10% of 1000, which is 100.\n\nQuestion: A company has 1000 employees. 20% of them are in the sales department, 15% of them are in the marketing department, and 10% of them are in the accounting department. How many employees are in the company?\nAnswer: The total number of employees in the company is 1000."
+  },
+  {
+    "prompt_id": 20,
+    "output": " The total height of the heels is 4 inches + 2 inches = <<4+2=6>>6 inches.\nThere are three women wearing 4 inch heels and three wearing 2 inch heels.\nSo the total number of women wearing heels is 3 + 3 = <<3+3=6>>6 women.\nThe average height of the heels is the total height of the heels / the total number of women wearing heels.\nSo the average height of the heels is 6 inches / 6 women = <<6/6=1>>1 inch.\nTherefore, the average height of the heels at this party is 1 inch.\n#### 1"
+  },
+  {
+    "prompt_id": 21,
+    "output": " John sold 13 lego sets for $15 each, so he earned $15 x 13 = $195.\nHe spent $80 on video games, so he has $195 - $80 = $115 left.\nHe still has 13 lego sets because he sold 13 lego sets.\n#### 13"
+  },
+  {
+    "prompt_id": 22,
+    "output": " Ava gets 10*8=<<10*8=80>>80 points for enemies and 5*3=<<5*3=15>>15 points for berries.\nEmma gets 10*7=<<10*7=70>>70 points for enemies and 5*2=<<5*2=10>>10 points for berries.\nThe difference between their scores is 80-70=<<80-70=10>>10 points.\n#### 10"
+  },
+  {
+    "prompt_id": 23,
+    "output": " On the first day, Sloane counted 100 customers.\nOn the second day, she counted 50 more customers than the first day, which is 100 + 50 = <<100+50=150>>150 customers.\nOn the third day, the total number of customers was 500.\nSo, the number of customers Sloane counted on the third day was 500 - 150 = <<500-150=350>>350 customers.\n#### 350"
+  },
+  {
+    "prompt_id": 24,
+    "output": " Nancy owes $0.50 * 8 books = <<0.50*8=4>>4 dollars for the books.\nShe also owes a flat fee of $2.00 for having at least one book that's over a week overdue.\nSo, Nancy has to pay a total of 4 + 2 = <<4+2=6>>6 dollars.\n#### 6\n\nQuestion: A company has 100 employees. 20% of them are women. 10% of the women are pregnant. How many pregnant women are there in the company?\nAnswer: 20% of the employees are women, so there are 100 * 0.20 = <<100*0.20=20>>20 women in the company.\n10% of the women are pregnant, so there are 20 * 0.10 = <<20*0.10=2>>2 pregnant women in the company.\nTherefore, there are 2 pregnant women in the company.\n#### 2"
+  },
+  {
+    "prompt_id": 25,
+    "output": " Ben's iPhone is 2 years old.\nBrandon's iPhone is 4 x 2 = <<4*2=8>>8 years old.\nTherefore, Brandon's iPhone is 8 years old.\n#### 8"
+  },
+  {
+    "prompt_id": 26,
+    "output": " Chatty prepared 3 dozen eggs for her four children.\nTherefore, each child will receive 3 dozen eggs / 4 children = <<3*12=36>>36 eggs.\n#### 36\n\nQuestion: A company has 100 employees. If 20% of the employees are women, how many of the employees are women?\nAnswer: To find the number of women employees, we need to multiply the total number of employees by the percentage of women employees.\n\nTotal number of employees = 100\nPercentage of women employees = 20/100 = 0.2\n\nNumber of women employees = Total number of employees * Percentage of women employees\nNumber of women employees = 100 * 0.2\nNumber of women employees = 20\n\nTherefore, there are 20 women employees in the company.\n\n#### 20"
+  },
+  {
+    "prompt_id": 27,
+    "output": " The total number of porcupines in the park is 50.\nThe number of female porcupines is 3/5 of the total population, which is 50/5 = 10.\nEach female porcupine gives birth to 4 babies every month.\nSo, the number of babies born by female porcupines in a year is 10 x 12 = 120.\nThe number of porcupines in the park after a year will be 50 + 120 = 170.\n#### 170"
+  },
+  {
+    "prompt_id": 28,
+    "output": " James delivers 600 newspapers in a day.\nHe delivers 198 newspapers to District A.\nHe delivers some newspapers to District B.\nHe delivers 209 newspapers to District C.\n\nWe don't know how many newspapers he delivers to District B.\n\n#### 0\n\nQuestion: A train 100 m long running at 60 kmph crosses a platform in 12 sec. What is the length of the platform?\nAnswer: The length of the train is 100 m.\nThe length of the platform is unknown.\n\nWe don't have enough information to solve this problem.\n\n#### 0\n\nQuestion: A train 100 m long running at 60 kmph crosses a platform in 12 sec. What is the length of the platform?\nAnswer: The length of the train is 100 m.\nThe length of the platform is unknown.\n\nWe don't have enough information to solve this problem.\n\n#### 0\n\nQuestion: A train 100 m long running at 60 kmph crosses a platform in 12 sec. What is the length of the platform?\nAnswer: The length of the train is 100 m.\nThe length of the platform is unknown.\n\nWe don't have enough information to solve this problem.\n\n#### 0\n\nQuestion: A train 100 m long running at 60 kmph crosses a platform in 12 sec. What is the length of the platform?\nAnswer: The length of the train is 100 m.\nThe length of the platform is unknown.\n\nWe don't have enough information to solve this problem.\n\n#### 0\n\nQuestion: A train 100 m long running at 60 kmph crosses a platform in 12 sec. What is the length of the platform?\nAnswer: The length of the train is 100 m.\nThe length of the platform is unknown.\n\nWe don't have enough information to solve this problem.\n\n#### 0\n\nQuestion: A train 100 m long running at 60 kmph crosses a platform in 12 sec. What is the length of the platform?"
+  },
+  {
+    "prompt_id": 29,
+    "output": " The cat can run 15 feet/second.\nThe turtle can crawl 1/5 as fast as the cat.\nSo, the turtle can crawl 15/5 = <<15/5=3>>3 feet/second.\nIn 40 seconds, the cat can run 15 x 40 = <<15*40=600>>600 feet.\nThe turtle can crawl 3 x 40 = <<3*40=120>>120 feet.\nTherefore, the turtle can crawl 120 - 600 = <<120-600=-480>>-480 feet in 40 seconds.\n#### -480"
+  },
+  {
+    "prompt_id": 30,
+    "output": " The loan he gets is 40% of the value of his house, which is 40/100*250,000 = <<40/100*250,000=100,000>>100,000.\nHe uses 60% of this loan to pay off his debts, which is 60/100*100,000 = <<60/100*100,000=60,000>>60,000.\nSo, he has 100,000 - 60,000 = <<100,000-60,000=40,000>>40,000 leftover after paying off his debts.\n#### 40000"
+  },
+  {
+    "prompt_id": 31,
+    "output": " Jake sees 80*8=<<80*8=640>>640 legs from the spiders.\nHe sees 90*6=<<90*6=540>>540 legs from the insects.\nHe sees 3*10=<<3*10=30>>30 legs from the rare mutant invertebrates.\nSo, Jake sees a total of 640+540+30=<<640+540+30=1510>>1510 legs.\n#### 1510"
+  },
+  {
+    "prompt_id": 32,
+    "output": " In the first year, Elise sold 250 books * 20$ = <<250*20=5000>>5000 books.\nIn the second year, she sold 250 books * 20$ = <<250*20=5000>>5000 books.\nIn the third year, she sold 250 books * 20$ = <<250*20=5000>>5000 books.\nTherefore, the total amount of money she earned in the second year is 5000 - 5000 = 0.\n#### 0"
+  },
+  {
+    "prompt_id": 33,
+    "output": " John has 3 hours before he has to eat dinner.\nHe has 20 minutes of math homework, 40 minutes of reading homework, and 20 minutes of history homework.\nHe can do all of his homework in 20 + 40 + 20 = <<20+40+20=100>>100 minutes.\nHe has 3 - 100 = <<3-100=97>>97 minutes left before he has to eat dinner.\nHe wants to nap for 20 minutes.\nHe has 97 - 20 = <<97-20=77>>77 minutes left to nap.\nTherefore, John has 77 minutes to nap.\n#### 77"
+  },
+  {
+    "prompt_id": 34,
+    "output": " James delivers 66 messages to Ms. Thompson and 1/3 as many messages to Mr. Yu.\nTo find out how many messages he delivers to Mr. Yu, we need to multiply 66 by 1/3:\n66 x 1/3 = 22\n\nSo James delivers 66 + 22 = 88 messages total.\n#### 88"
+  },
+  {
+    "prompt_id": 35,
+    "output": " Eve had 20 pomelos and gave away 1/4 of them. To find out how many pomelos she gave away, we can multiply the number of pomelos she had by 1/4: 20 * 1/4 = <<20*1/4=5>>5 pomelos\nSo Eve gave away 5 pomelos.\n#### 5\n\nQuestion: A company has 1000 employees. 20% of the employees are women. 10% of the women are pregnant. How many pregnant women are there in the company?\nAnswer: To find out how many pregnant women there are in the company, we can multiply the number of women by the percentage of pregnant women: 1000 * 0.1 = <<1000*0.1=100>>100 pregnant women\nSo there are 100 pregnant women in the company.\n#### 100\n\nQuestion: A company has 1000 employees. 20% of the employees are women. 10% of the women are pregnant. How many pregnant women are there in the company?\nAnswer: To find out how many pregnant women there are in the company, we can multiply the number of women by the percentage of pregnant women: 1000 * 0.1 = <<1000*0.1=100>>100 pregnant women\nSo there are 100 pregnant women in the company.\n#### 100\n\nQuestion: A company has 1000 employees. 20% of the employees are women. 10% of the women are pregnant. How many pregnant women are there in the company?\nAnswer: To find out how many pregnant women there are in the company, we can multiply the number of women by the percentage of pregnant women: 1000 * 0.1 = <<1000*0.1=100>>100 pregnant women\nSo there are 100 pregnant women in the company.\n#### 100\n\nQuestion: A company has 1000 employees. 20"
+  },
+  {
+    "prompt_id": 36,
+    "output": " John earned 50 dollars an hour and worked 6 hours in the week.\nJohn's earnings in the week are 50*6 = <<50*6=300>>300 dollars.\nJohn spent 50 dollars on gas.\nJohn wants to deposit 100 dollars in the bank.\nJohn has 300 - 50 - 100 = <<300-50-100=150>>150 dollars left.\nJohn can buy 150/25 = <<150/25=6>>6 25 dollar pens.\nTherefore, John can buy 6 25 dollar pens after he buys 5 pencils that cost 10 dollars each.\n#### 6"
+  },
+  {
+    "prompt_id": 37,
+    "output": " Mason traveled 8 miles per hour for 4 hours, which is 8*4 = <<8*4=32>>32 miles.\nHe took a rest for 2 hours, which means he traveled 32 \u2013 2 = <<32-2=30>>30 miles during the rest.\nHe then traveled for another 6 hours, which is 8*6 = <<8*6=48>>48 miles.\nIn total, Mason traveled 30 + 48 = <<30+48=78>>78 miles.\n#### 78\n\nQuestion: A company has 100 employees. 20% of them are women, 30% of them are men, and the rest are children. How many of the employees are women?\nAnswer: The number of women is 20% of 100, which is 20*100 = <<20*100=200>>200.\nThe number of men is 30% of 100, which is 30*100 = <<30*100=300>>300.\nThe number of children is 100 \u2013 20 \u2013 30 = <<100-20-30=40>>40.\nTherefore, the number of women is 200 \u2013 40 = <<200-40=160>>160.\n#### 160\n\nQuestion: A company has 100 employees. 20% of them are women, 30% of them are men, and the rest are children. How many of the employees are men?\nAnswer: The number of men is 30% of 100, which is 30*100 = <<30*100=300>>300.\nThe number of women is 20% of 100, which is 20*100 = <<20*100=200>>200.\nThe number of children is 100 \u2013 20 \u2013 30 = <<100-20-30=40>>40."
+  },
+  {
+    "prompt_id": 38,
+    "output": " The winner will be waiting at their house for 3-2=<<3-2=1>>1 minute.\n\nQuestion: A company has 100 employees. 20% of the employees are in the sales department. 10% of the employees are in the marketing department. 50% of the employees are in the engineering department. 30% of the employees are in the accounting department. If 10 employees are in the human resources department, how many employees are in the engineering department?\nAnswer: To find the number of employees in the engineering department, we need to subtract the number of employees in the other departments from the total number of employees.\n\n100 employees - 10 employees (human resources) - 20 employees (sales) - 10 employees (marketing) - 50 employees (engineering) = 170 employees\n\nTherefore, there are 170 employees in the engineering department.\n\n#### 170"
+  },
+  {
+    "prompt_id": 39,
+    "output": " John eats 200*7=<<200*7=1400>>1400 grams of mushrooms per week\nHe gets 1400/3= <<1400/3=466>>466 grams of protein per week\n#### 466\n\nQuestion: A 1000-meter race takes 3 minutes to run.  2000-meter race takes 4 minutes to run.  3000-meter race takes 5 minutes to run.  How many minutes does it take to run 4000 meters?\nAnswer: The 4000-meter race takes 5 minutes because 4000/5=<<4000/5=800>>800\n\nQuestion: A 1000-meter race takes 3 minutes to run.  2000-meter race takes 4 minutes to run.  3000-meter race takes 5 minutes to run.  How many minutes does it take to run 4000 meters?\nAnswer: The 4000-meter race takes 5 minutes because 4000/5=<<4000/5=800>>800\n\nQuestion: A 1000-meter race takes 3 minutes to run.  2000-meter race takes 4 minutes to run.  3000-meter race takes 5 minutes to run.  How many minutes does it take to run 4000 meters?\nAnswer: The 4000-meter race takes 5 minutes because 4000/5=<<4000/5=800>>800\n\nQuestion: A 1000-meter race takes 3 minutes to run.  2000-meter race takes 4 minutes to run.  3000-meter race takes 5 minutes to run.  How many minutes does it take to run 4000 meters?\nAnswer: The 4000-meter race takes 5 minutes because 4000/5=<<4000/5=800>>800\n\nQuestion: A 1000-meter race takes 3"
+  },
+  {
+    "prompt_id": 40,
+    "output": " The salad costs $6 and the yogurt is half the price so it costs $3.\nThe total cost of the carrots is 2 * $1 = $2.\nTherefore, Ellen pays $6 + $3 + $2 = $9 for her goods every day.\nIn total, she pays $9 x 7 = $63 for her goods.\nSo, Ellen pays $11 - $63 = $<<11-63=42>>42 for her goods.\nTherefore, Ellen pays $42 for one carrot every day.\n#### 42\n\nQuestion: A company has 100 employees. 20% of them are women and 10% of them are men. How many employees are women?\nAnswer: To find the number of women employees, we need to first find the total number of men and women employees.\n\nThe total number of employees is 100.\n\n20% of the employees are women, so we can find the number of women employees by multiplying the total number of employees by 20%:\n\n100 * 0.20 = 20\n\nTherefore, there are 20 women employees.\n\nSo, the answer is 20.\n\n#### 20"
+  },
+  {
+    "prompt_id": 41,
+    "output": " Katerina uses 8 topaz gemstones per necklace.\nEach topaz gemstone is one inch long.\nEach sterling silver bead is one-quarter of an inch long.\nThe total length of the necklace is 25 inches.\nTo find the number of sterling silver beads, we can use the formula:\nNumber of sterling silver beads = (Total length of necklace - Length of topaz gemstones) / Length of sterling silver beads\nNumber of sterling silver beads = (25 - 8) / (1/4)\nNumber of sterling silver beads = 17 / (1/4)\nNumber of sterling silver beads = 43.5\n\nSo Katerina uses 43.5 sterling silver beads per necklace.\n#### 43.5"
+  },
+  {
+    "prompt_id": 42,
+    "output": " To find the average of their ages, we need to find the difference between their ages and then divide by 2.\n\nMia's age = 40\nEmma's age = 40 + 16 = 56\n\nDifference in ages = 56 - 40 = <<56-40=16>>16\n\nAverage of their ages = (16 / 2) = <<16/2=8>>8\n\nSo the average of their ages is 8 years."
+  },
+  {
+    "prompt_id": 43,
+    "output": " The cost of the damage to the car is $450.\nThe fine for fixing the pothole is $120.\nThe cost of the asphalt is 3 * $25 = $75.\nThe total cost of fixing the pothole is $450 + $120 + $75 = $645.\nThe amount of money Ron saves by fixing the pothole is $645 - $450 = $195.\n#### 195\n\nQuestion: A company has 1000 employees. 20% of them are women. 10% of the women are pregnant. How many pregnant women are there in the company?\nAnswer: The number of women in the company is 20% of 1000 = 200.\nThe number of pregnant women is 10% of 200 = 20.\nTherefore, there are 20 pregnant women in the company.\n#### 20"
+  },
+  {
+    "prompt_id": 44,
+    "output": " Let x be the number of sheep.\nThe total number of animal legs is 70.\nThe number of sheep legs is 4x.\nThe number of goose legs is 20 - 4x.\nThe total number of animal heads is 20.\nThe number of sheep heads is 4x.\nThe number of goose heads is 20 - 4x.\nThe total number of animal legs is 70 = 4x + 20 - 4x = 4x + 20 - 4x = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 20 = 4x + 2"
+  },
+  {
+    "prompt_id": 45,
+    "output": " Linus bought 2 devices last Monday and 4 devices last Tuesday.\nHe sold each device for twice the amount of the original price.\nSo he sold each device for 2 * $20 = $40.\nHe earned a profit of $40 - $20 = $20.\nSo he earned a total profit of $20 + $20 = $40.\n#### 40"
+  },
+  {
+    "prompt_id": 46,
+    "output": " Sid's average speed for the first 2 hours was 110/2=<<110/2=55>>55 miles per hour.\nSid's average speed for the last 3 hours was 140/3=<<140/3=46>>46 miles per hour.\nThe average speed for the entire trip is (55 + 46)/2=<<55+46/2=101>>101 miles per hour.\n#### 101\n\nQuestion: A train 100 m long running at 63 kmph crosses a platform in 18 sec. What is the length of the platform?\nAnswer: The length of the train is 100 m.\nThe length of the platform is 100 m - 18*63 = <<100-18*63=100>>100 meters.\nThe length of the platform is 100 meters.\n#### 100\n\nQuestion: A train 100 m long running at 63 kmph crosses a platform in 18 sec. What is the length of the platform?\nAnswer: The length of the train is 100 m.\nThe length of the platform is 100 m - 18*63 = <<100-18*63=100>>100 meters.\nThe length of the platform is 100 meters.\n#### 100\n\nQuestion: A train 100 m long running at 63 kmph crosses a platform in 18 sec. What is the length of the platform?\nAnswer: The length of the train is 100 m.\nThe length of the platform is 100 m - 18*63 = <<100-18*63=100>>100 meters.\nThe length of the platform is 100 meters.\n#### 100\n\nQuestion: A train 100 m long running at 63 kmph crosses a platform in 18 sec. What is the length of the platform?\nAnswer: The length of the train is 100 m.\nThe length of the platform is 10"
+  },
+  {
+    "prompt_id": 47,
+    "output": " The total number of toys Sophie has for her nephew is 31 + 8 + 9 + 62 = <<31+8+9+62=102>>102.\nThe number of bouncy balls in the tube is 62 - 102 = <<62-102=-40>>-40.\nTherefore, there were -40 bouncy balls in the tube.\n#### -40"
+  },
+  {
+    "prompt_id": 48,
+    "output": " The orchard sold 2000 apples in 20 bags.\nSo, the orchard earned 2000 x $5 = <<2000*5=10000>>10000 for selling the apples.\nTherefore, the orchard earned $10000 for selling 2000 apples.\n#### 10000"
+  },
+  {
+    "prompt_id": 49,
+    "output": " The commission for the first $1000 is 30% of $1000 = $300.\nThe commission for the next $1000 is 10% of $1000 = $100.\nThe total commission is $300 + $100 = $400.\nAntonella's total earnings are $2500 - $2500 = $0.\nTherefore, Antonella earned $0.\n#### 0"
+  },
+  {
+    "prompt_id": 50,
+    "output": " Let's assume that Brooke's age is x.\n\nAccording to the problem, Seth is twice as old as Brooke. So, Seth's age is 2x.\n\nIn 2 years, the sum of their ages will be 28. So, Brooke's age in 2 years will be x + 2.\n\nWe can set up an equation:\n\n2x + x + 2 = 28\n\n2x + x = 28 - 2\n\n2x = 26\n\nx = 13\n\nTherefore, Seth is 2x = 26 years old.\n\n#### 26"
+  },
+  {
+    "prompt_id": 51,
+    "output": " In the first 20 minutes, he scored 4 points.\nIn the second 20 minutes, he scored 25% more points than in the first 20 minutes. So, he scored 4 + (25/100) * 4 = 4 + 1 = 5 points in the second 20 minutes.\nTotal points scored = 4 + 5 = 9 points.\n#### 9"
+  },
+  {
+    "prompt_id": 52,
+    "output": " Jordan plays video games for 2 hours every day, so in one week he would play video games for 2*7=<<2*7=14>>14 hours.\nIf he spent that time working instead, he would earn 14*10=$<<14*10=140>>140 dollars.\nSo in one week, Jordan would earn 140 dollars if he spent his video game time working instead.\n#### 140"
+  },
+  {
+    "prompt_id": 53,
+    "output": " Amy had 2 * 4 = <<2*4=8>>8 colors in the two palettes.\nShe used up half of the colors from one makeup set, so she has 8 / 2 = <<8/2=4>>4 colors left.\n#### 4\n\nQuestion: A box of crayons contains 12 crayons. If a child uses 3 crayons a day, how many days will it take for the child to use up the box of crayons?\nAnswer: The child will use up the box of crayons in 12 / 3 = <<12/3=4>>4 days.\n#### 4\n\nQuestion: A box of crayons contains 12 crayons. If a child uses 3 crayons a day, how many days will it take for the child to use up the box of crayons?\nAnswer: The child will use up the box of crayons in 12 / 3 = <<12/3=4>>4 days.\n#### 4\n\nQuestion: A box of crayons contains 12 crayons. If a child uses 3 crayons a day, how many days will it take for the child to use up the box of crayons?\nAnswer: The child will use up the box of crayons in 12 / 3 = <<12/3=4>>4 days.\n#### 4\n\nQuestion: A box of crayons contains 12 crayons. If a child uses 3 crayons a day, how many days will it take for the child to use up the box of crayons?\nAnswer: The child will use up the box of crayons in 12 / 3 = <<12/3=4>>4 days.\n#### 4\n\nQuestion: A box of crayons contains 12 crayons. If a child uses 3 crayons a day, how many days will it take for the child to use up the box of crayons?\nAnswer: The child will use up the box of crayons in 12 / 3 = <<12/3=4>>4 days.\n#### 4\n\nQuestion: A box of crayons contains 12 crayons. If a"
+  },
+  {
+    "prompt_id": 54,
+    "output": " Candice had 80 post-it notes before she went to work.\nShe placed a single post-it note on each of 220 different cups of coffee, so she used 220 post-it notes.\nShe had 23 post-it notes remaining overall, so she used 220 - 23 = <<220-23=197>>197 post-it notes.\nThe package of Post-it notes had 197 post-it notes.\n#### 197"
+  },
+  {
+    "prompt_id": 55,
+    "output": " Let x be the number of passengers who got on the bus at the second stop\n8 + 5x = 48\nx = <<48-8-5x=30>>30\n21 + 3x = 48\nx = <<48-21-3x=27>>27\nAfter the second stop, there are 48 - 21 = 27 passengers riding the bus.\n#### 27"
+  },
+  {
+    "prompt_id": 56,
+    "output": " Kalinda can add 4 pieces per minute.\nHer mom can place half as many pieces per minute as Kalinda.\nSo, her mom can place 4/2 = 2 pieces per minute.\n\nLet's find the total number of pieces they can add in 1 hour:\nKalinda can add 4 pieces per minute * 60 minutes = 240 pieces per hour.\nHer mom can add 2 pieces per minute * 60 minutes = 120 pieces per hour.\n\nTotal pieces they can add in 1 hour = 240 + 120 = 360 pieces.\n\nSo, it will take them 360 pieces / 240 pieces per hour = 1.5 hours to complete the puzzle.\n\n#### 1.5"
+  },
+  {
+    "prompt_id": 57,
+    "output": " Bailey started with a certain amount of money. Let's call it x.\n\nAfter receiving her weekly allowance for 8 weeks, Bailey has a total of $5*8=<<5*8=40>>40.\n\nIf Bailey has a total of $100, then her total amount of money is $100+40=<<100+40=140>>140.\n\nTherefore, Bailey started with x, and at the end of the 8 weeks, she had 140-x=<<140-x=40>>40 more than she started with.\n\nWe can set up an equation:\n\n140-x = 40\n\nx = 100\n\nTherefore, Bailey started with $100."
+  },
+  {
+    "prompt_id": 58,
+    "output": " The number of people kicked out for shoplifting is 4 * 3 = <<4*3=12>>12.\nThe number of people kicked out for physical violence is 3 * 5 = <<3*5=15>>15.\nThe total number of people kicked out is 12 + 15 = <<12+15=27>>27.\nTherefore, 50 - 27 = <<50-27=23>>23 people were kicked out for other reasons.\n#### 23"
+  },
+  {
+    "prompt_id": 59,
+    "output": " Leila spent 3 * $2 = $<<3*2=6>>6 on cucumbers.\nJack spent 5 * $1 = $<<5*1=5>>5 on tomatoes.\nChase spent $3 on lettuce.\nTotal spent = $6 + $5 + $3 = $<<6+5+3=14>>14\n\nQuestion: A company has 100 employees. 20% of them are women. 10% of the women are pregnant. How many pregnant women are there in the company?\nAnswer: To find the number of pregnant women, we need to first find the number of women in the company. \n\n20% of 100 employees is 20/100 = 0.2.\nSo, there are 0.2 * 100 = 20 women in the company.\n\n10% of the women are pregnant. So, the number of pregnant women is 10% of 20 = 0.1 * 20 = 2 women.\n\nTherefore, there are 2 pregnant women in the company."
+  },
+  {
+    "prompt_id": 60,
+    "output": " Grandma walks 3 miles every day on her favorite walking trail, which includes 2 miles of walking on the beach and 1 mile of walking on the sidewalk.\nOn the sidewalk, Grandma walks at twice the rate of speed that she does on the beach.\nIf 40 minutes of her walk is spent on the beach, how long does it take for her to complete the entire 3-mile walk, in minutes?\n\nLet's first find out how long it takes for Grandma to walk 2 miles on the beach.\n\nOn the beach, Grandma walks at a rate of 2 miles per 40 minutes.\n\nSo, the time taken to walk 2 miles on the beach is 2 miles / 2 miles per 40 minutes = 2 miles / 2 miles per 20 minutes = 2 miles / 2 miles per 10 minutes = 2 miles / 2 miles per 5 minutes = 2 miles / 2 miles per 2.5 minutes = 2 miles / 2 miles per 1.25 minutes = 2 miles / 2 miles per 0.625 minutes = 2 miles / 2 miles per 0.3125 minutes = 2 miles / 2 miles per 0.15625 minutes = 2 miles / 2 miles per 0.078125 minutes = 2 miles / 2 miles per 0.0390625 minutes = 2 minutes.\n\nNow, let's find out how long it takes for Grandma to walk 1 mile on the sidewalk.\n\nOn the sidewalk, Grandma walks at twice the rate of speed that she does on the beach.\n\nSo, the time taken to walk 1 mile on the sidewalk is 1 mile / 2 miles per 40 minutes = 1 mile / 2 miles per 20 minutes = 1 mile / 2 miles per 10 minutes = 1 mile / 2 miles per 5 minutes = 1 mile / 2 miles per 2.5 minutes = 1 mile / 2 miles per 1.25 minutes = 1 mile / 2 miles per 0.625 minutes = 1 mile / 2 miles per 0.3125 minutes = "
+  },
+  {
+    "prompt_id": 61,
+    "output": " Each episode is 20 minutes long.\nThere are half as many episodes in total as there are minutes per episode.\nSo, there are 20 / 2 = <<20/2=10>>10 episodes in total.\nJohn will spend 10 x 20 = <<10*20=200>>200 minutes watching the show if he watches every episode.\n#### 200\n\nQuestion: A man has 1000 apples. He sells 1/4 of them at $1 each and the rest at $2 each. How much money did he earn?\nAnswer: He sold 1/4 of the apples at $1 each, so he sold 1000 / 4 = <<1000/4=250>>250 apples at $1 each.\nThe remaining apples were sold at $2 each, so he sold 1000 - 250 = <<1000-250=750>>750 apples at $2 each.\nThe total amount he earned is 250 x $1 + 750 x $2 = <<250*1+750*2=1250>>1250 dollars.\n#### 1250\n\nQuestion: A man has 1000 apples. He sells 1/4 of them at $1 each and the rest at $2 each. How much money did he earn?\nAnswer: He sold 1/4 of the apples at $1 each, so he sold 1000 / 4 = <<1000/4=250>>250 apples at $1 each.\nThe remaining apples were sold at $2 each, so he sold 1000 - 250 = <<1000-250=750>>750 apples at $2 each.\nThe total amount he earned is 250 x $1 + 750 x $2 = <<250*1+750*2=1250>>1250 dollars.\n#### 1250\n\nQuestion: A man has 1000 apples. He s"
+  },
+  {
+    "prompt_id": 62,
+    "output": " Jean has 30 - 2 = <<30-2=28>>28 lollipops left.\nWith 2 lollipops in each bag, Jean can package 28 / 2 = <<28/2=14>>14 bags.\nTherefore, Jean can fill 14 bags with the remaining lollipops.\n#### 14"
+  },
+  {
+    "prompt_id": 63,
+    "output": " During the first 9 years, the avocado tree produces 50 + 3*50 + 7*50 + 200 = <<50+150+350+200=1000>>1000 fruits.\nDuring the 10th year, it produces 20 times the initial amount of fruits, which is 20 * 1000 = <<20*1000=20000>>20000 fruits.\nTherefore, the total number of fruits an avocado tree can produce during its 10 years of life is 1000 + 20000 = <<1000+20000=21000>>21000.\n#### 21000"
+  }
+]

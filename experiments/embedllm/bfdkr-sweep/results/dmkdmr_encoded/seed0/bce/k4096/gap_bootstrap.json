@@ -1,0 +1,21 @@
+{
+  "cost_auc_gap_point": 0.018047,
+  "cost_auc_gap_ci95": [
+    0.012731,
+    0.023356
+  ],
+  "cost_auc_gap_excludes_zero": true,
+  "pq_auc_gap_point": -0.009673,
+  "pq_auc_gap_ci95": [
+    -0.013411,
+    -0.005872
+  ],
+  "pq_auc_gap_excludes_zero": true,
+  "n_boot": 1000,
+  "n_queries": 10702,
+  "single_seed": true,
+  "reference": "mlpdot_precomputed_at_encode_time",
+  "seed": 0,
+  "objective": "bce",
+  "k": 4096
+}

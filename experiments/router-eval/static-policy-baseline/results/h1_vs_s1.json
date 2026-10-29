@@ -1,0 +1,39 @@
+{
+  "statement": "BF-DKR > S1 by a wide margin, CI excluding 0. Refuted if S1 ties BF-DKR -- which would mean the cost proxy alone explains the headline.",
+  "arm": "S1",
+  "per_seed": [
+    {
+      "cost_auc_gap_point": 0.107834,
+      "cost_auc_gap_ci95": [
+        0.09955,
+        0.116648
+      ],
+      "cost_auc_gap_excludes_zero": true,
+      "outside_tie_band": true
+    },
+    {
+      "cost_auc_gap_point": 0.109597,
+      "cost_auc_gap_ci95": [
+        0.101786,
+        0.118177
+      ],
+      "cost_auc_gap_excludes_zero": true,
+      "outside_tie_band": true
+    },
+    {
+      "cost_auc_gap_point": 0.097028,
+      "cost_auc_gap_ci95": [
+        0.089571,
+        0.104998
+      ],
+      "cost_auc_gap_excludes_zero": true,
+      "outside_tie_band": true
+    }
+  ],
+  "n_seeds": 3,
+  "bfdkr_wins": 3,
+  "arm_wins": 0,
+  "ties_within_band": 0,
+  "mean_gap": 0.10482,
+  "tie_band_cost_auc": 0.0035
+}

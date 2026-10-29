@@ -1,0 +1,17 @@
+{
+  "cost_auc_gap_point": -0.029937,
+  "cost_auc_gap_ci95": [
+    -0.034371,
+    -0.025814
+  ],
+  "cost_auc_gap_excludes_zero": true,
+  "pq_auc_gap_point": -0.011465,
+  "pq_auc_gap_ci95": [
+    -0.014192,
+    -0.008618
+  ],
+  "pq_auc_gap_excludes_zero": true,
+  "n_boot": 1000,
+  "n_queries": 10702,
+  "reference": "full_in_task"
+}

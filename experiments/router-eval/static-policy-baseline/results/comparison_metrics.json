@@ -1,0 +1,189 @@
+[
+  {
+    "arm": "S1",
+    "dataset": "router-eval",
+    "group": "pooled",
+    "n_queries": 2894,
+    "n_llms_test": 376,
+    "test_cost_auc": 0.631681,
+    "test_floor_cost_auc": 0.538449,
+    "test_oracle_cost_auc": 0.947298,
+    "test_aiq": 0.093232,
+    "uses_test_labels": false,
+    "test_quality_at_cap_1B": 0.342605,
+    "test_quality_at_cap_3B": 0.408662,
+    "test_quality_at_cap_7B": 0.604011,
+    "test_quality_at_cap_30B": 0.573485,
+    "test_quality_at_cap_86B": 0.680373,
+    "policy": "largest affordable (w = c), averaged over the tied-largest stratum",
+    "s1_order_independence": true,
+    "max_tied_stratum_size": 146,
+    "test_brier": null,
+    "test_ece": null,
+    "calibration_note": "n/a -- w = c is a parameter count, not a probability (emitting an ECE from a cost vector would be meaningless)",
+    "router": "Static: largest affordable (S1)",
+    "source_exp": "router-eval/static-policy-baseline",
+    "n_seeds": 1
+  },
+  {
+    "arm": "S2",
+    "dataset": "router-eval",
+    "group": "pooled",
+    "n_queries": 2894,
+    "n_llms_test": 376,
+    "test_cost_auc": 0.667796,
+    "test_floor_cost_auc": 0.538449,
+    "test_oracle_cost_auc": 0.947298,
+    "test_aiq": 0.129347,
+    "uses_test_labels": false,
+    "test_quality_at_cap_1B": 0.337941,
+    "test_quality_at_cap_3B": 0.577056,
+    "test_quality_at_cap_7B": 0.68141,
+    "test_quality_at_cap_30B": 0.68141,
+    "test_quality_at_cap_86B": 0.68141,
+    "policy": "ridge from raw fingerprint to train-mean accuracy, fit on train LLMs only",
+    "representation": "raw fingerprint (seed-free by construction)",
+    "selected": {
+      "family": "ridge",
+      "alpha": 10.0,
+      "val_cost_auc": 0.715598
+    },
+    "selection_rule": "val_cost_auc",
+    "n_val_llms": 374,
+    "val_winner_across_families": {
+      "family": "knn",
+      "hp": 25.0,
+      "val_cost_auc": 0.725909197734406
+    },
+    "robustness_knn_regression": {
+      "k": 25,
+      "val_cost_auc": 0.725909,
+      "test_cost_auc": 0.685085
+    },
+    "grid_audit": [
+      {
+        "family": "ridge",
+        "hp": 0.01,
+        "val_cost_auc": 0.594328
+      },
+      {
+        "family": "ridge",
+        "hp": 0.1,
+        "val_cost_auc": 0.702378
+      },
+      {
+        "family": "ridge",
+        "hp": 1.0,
+        "val_cost_auc": 0.713601
+      },
+      {
+        "family": "ridge",
+        "hp": 10.0,
+        "val_cost_auc": 0.715598
+      },
+      {
+        "family": "ridge",
+        "hp": 100.0,
+        "val_cost_auc": 0.674099
+      },
+      {
+        "family": "ridge",
+        "hp": 1000.0,
+        "val_cost_auc": 0.672754
+      },
+      {
+        "family": "knn",
+        "hp": 1.0,
+        "val_cost_auc": 0.6608
+      },
+      {
+        "family": "knn",
+        "hp": 3.0,
+        "val_cost_auc": 0.721964
+      },
+      {
+        "family": "knn",
+        "hp": 5.0,
+        "val_cost_auc": 0.660464
+      },
+      {
+        "family": "knn",
+        "hp": 10.0,
+        "val_cost_auc": 0.721577
+      },
+      {
+        "family": "knn",
+        "hp": 25.0,
+        "val_cost_auc": 0.725909
+      },
+      {
+        "family": "knn",
+        "hp": 50.0,
+        "val_cost_auc": 0.718644
+      }
+    ],
+    "router": "Static: learned quality ranking (S2)",
+    "source_exp": "router-eval/static-policy-baseline",
+    "n_seeds": 1
+  },
+  {
+    "router": "Static: BF-DKR query-marginalised (S2b)",
+    "arm": "S2b",
+    "group": "pooled",
+    "source_exp": "router-eval/static-policy-baseline",
+    "n_seeds": 3,
+    "test_cost_auc": 0.699369,
+    "test_cost_auc_std": 0.003584,
+    "test_floor_cost_auc": 0.538449,
+    "test_oracle_cost_auc": 0.947298,
+    "test_aiq": 0.16092,
+    "per_seed_cost_auc": [
+      0.694381,
+      0.701083,
+      0.702643
+    ],
+    "uses_test_labels": false
+  },
+  {
+    "router": "BF-DKR (pq_auc, per-seed val-selected k)",
+    "arm": "BFDKR",
+    "group": "pooled",
+    "source_exp": "router-eval/static-policy-baseline",
+    "n_seeds": 3,
+    "test_cost_auc": 0.736501,
+    "test_cost_auc_std": 0.005556,
+    "test_floor_cost_auc": 0.538449,
+    "test_oracle_cost_auc": 0.947298,
+    "test_aiq": 0.198052,
+    "per_seed_cost_auc": [
+      0.739515,
+      0.741278,
+      0.728709
+    ],
+    "uses_test_labels": false
+  },
+  {
+    "arm": "S3",
+    "dataset": "router-eval",
+    "group": "pooled",
+    "n_queries": 2894,
+    "n_llms_test": 376,
+    "test_cost_auc": 0.714236,
+    "test_floor_cost_auc": 0.538449,
+    "test_oracle_cost_auc": 0.947298,
+    "test_aiq": 0.175787,
+    "uses_test_labels": true,
+    "test_quality_at_cap_1B": 0.35349,
+    "test_quality_at_cap_3B": 0.577056,
+    "test_quality_at_cap_7B": 0.690739,
+    "test_quality_at_cap_30B": 0.690739,
+    "test_quality_at_cap_86B": 0.7868,
+    "policy": "best static policy in hindsight (w = S_test.mean(0))",
+    "role": "anchor over all query-independent policies -- alongside floor and oracle, never a Table III baseline row",
+    "test_brier": null,
+    "test_ece": null,
+    "router": "Anchor: hindsight-best static policy (S3)",
+    "source_exp": "router-eval/static-policy-baseline",
+    "n_seeds": 1
+  }
+]

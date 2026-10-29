@@ -1,0 +1,37 @@
+{
+  "condition": "dmkdmr_encoded",
+  "config_label": "seed1/pq_auc/k512",
+  "mlpdot_warm_start_arch": {
+    "target_dim": 32,
+    "hidden_dim": 128,
+    "n_layers": 2
+  },
+  "mlpdot_warm_start_val_objective": "bce",
+  "encoded_bundle": "data/embedllm/processed/mlpdot_encoded_seed1/llm_perf_dataset_mlpdot_encoded.pkl",
+  "sigma_mult_range": [
+    0.015625,
+    4.0
+  ],
+  "config": {
+    "seed": 1,
+    "objective": "pq_auc",
+    "k": 512,
+    "sigma_x": 0.126114,
+    "sigma_y": 0.158851,
+    "sigma_x_med": 0.573521,
+    "sigma_y_med": 0.637756,
+    "val_pq_auc": 0.652353,
+    "val_brier": 0.197958,
+    "val_top1": 0.554808,
+    "val_cost_auc": 0.46935,
+    "val_bce": 0.578363,
+    "val_obj": -0.652353,
+    "test_top1": 0.568679,
+    "test_pq_auc": 0.622877,
+    "test_brier": 0.196467,
+    "test_ece": 0.012129,
+    "test_cost_auc": 0.511461,
+    "test_aiq": 0.117236,
+    "fit_elapsed_s": 390.27
+  }
+}

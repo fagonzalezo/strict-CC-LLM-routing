@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or the RouterEval-CC / EmbedLLM-CC datasets, please cite the paper."
+title: "Strict Cold-Start Open-Pool LLM Routing with Behavioral Fingerprints and Dual-Kernel Memory"
+authors:
+  - family-names: Moreno
+    given-names: Jose G.
+    affiliation: "IRIT, University of Toulouse"
+  - family-names: González
+    given-names: Fabio A.
+    affiliation: "Universidad Nacional de Colombia"
+license: MIT
+repository-code: "https://github.com/fagonzalezo/strict-CC-LLM-routing"
+type: software

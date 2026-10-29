@@ -1,0 +1,9 @@
+{
+  "n_models": 2999,
+  "quartile_size": 749,
+  "mean_train_accuracy_lowest_re_loss_quartile": 0.623404,
+  "mean_train_accuracy_highest_re_loss_quartile": 0.650185,
+  "gap_high_minus_low": 0.026781,
+  "H4_confirmed": false,
+  "note": "gap < 0 means worst-discriminating models (highest re_loss) route worse on their own train set, confirming re_loss_per_model_ as a usable per-model Assumption-1 diagnostic. Descriptive only, no significance test."
+}

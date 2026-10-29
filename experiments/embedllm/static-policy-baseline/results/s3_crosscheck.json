@@ -1,0 +1,8 @@
+{
+  "rank1_cost_auc": 0.513572702,
+  "single_llm_running_max_cost_auc": 0.513572702,
+  "max_abs_curve_diff": 0.0,
+  "agree": true,
+  "n_caps": 10,
+  "note": "Two independent derivations of the hindsight-best static policy. If these disagree, the rank-1 construction is wrong and every static arm is suspect."
+}

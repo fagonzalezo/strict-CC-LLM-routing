@@ -1,0 +1,159 @@
+[
+  {
+    "arm": "S1",
+    "dataset": "embedllm",
+    "group": "pooled",
+    "n_queries": 10702,
+    "n_llms_test": 21,
+    "test_cost_auc": 0.463183,
+    "test_floor_cost_auc": 0.394225,
+    "test_oracle_cost_auc": 0.868398,
+    "test_aiq": 0.068957,
+    "uses_test_labels": false,
+    "test_quality_at_cap_1B": 0.24117,
+    "test_quality_at_cap_3B": 0.310624,
+    "test_quality_at_cap_7B": 0.400852,
+    "test_quality_at_cap_30B": 0.434181,
+    "test_quality_at_cap_67B": 0.518314,
+    "policy": "largest affordable (w = c), averaged over the tied-largest stratum",
+    "s1_order_independence": true,
+    "max_tied_stratum_size": 12,
+    "test_brier": null,
+    "test_ece": null,
+    "calibration_note": "n/a -- w = c is a parameter count, not a probability (emitting an ECE from a cost vector would be meaningless)",
+    "router": "Static: largest affordable (S1)",
+    "source_exp": "embedllm/static-policy-baseline",
+    "n_seeds": 1
+  },
+  {
+    "arm": "S2",
+    "dataset": "embedllm",
+    "group": "pooled",
+    "n_queries": 10702,
+    "n_llms_test": 21,
+    "test_cost_auc": 0.456184,
+    "test_floor_cost_auc": 0.394225,
+    "test_oracle_cost_auc": 0.868398,
+    "test_aiq": 0.061959,
+    "uses_test_labels": false,
+    "test_quality_at_cap_1B": 0.24117,
+    "test_quality_at_cap_3B": 0.24117,
+    "test_quality_at_cap_7B": 0.458139,
+    "test_quality_at_cap_30B": 0.475519,
+    "test_quality_at_cap_67B": 0.475519,
+    "policy": "ridge from raw fingerprint to train-mean accuracy, fit on train LLMs only",
+    "representation": "raw fingerprint (seed-free by construction)",
+    "selected": {
+      "family": "ridge",
+      "alpha": 0.1,
+      "val_cost_auc": 0.462045
+    },
+    "selection_rule": "val_cost_auc (tiny grid; see section VII caveat)",
+    "n_val_llms": 16,
+    "val_winner_across_families": {
+      "family": "ridge",
+      "hp": 0.1,
+      "val_cost_auc": 0.4620451860803117
+    },
+    "robustness_knn_regression": {
+      "k": 1,
+      "val_cost_auc": 0.462045,
+      "test_cost_auc": 0.460221
+    },
+    "grid_audit": [
+      {
+        "family": "ridge",
+        "hp": 0.1,
+        "val_cost_auc": 0.462045
+      },
+      {
+        "family": "ridge",
+        "hp": 1.0,
+        "val_cost_auc": 0.462045
+      },
+      {
+        "family": "ridge",
+        "hp": 10.0,
+        "val_cost_auc": 0.462045
+      },
+      {
+        "family": "knn",
+        "hp": 1.0,
+        "val_cost_auc": 0.462045
+      },
+      {
+        "family": "knn",
+        "hp": 5.0,
+        "val_cost_auc": 0.423764
+      },
+      {
+        "family": "knn",
+        "hp": 10.0,
+        "val_cost_auc": 0.455908
+      }
+    ],
+    "router": "Static: learned quality ranking (S2)",
+    "source_exp": "embedllm/static-policy-baseline",
+    "n_seeds": 1
+  },
+  {
+    "router": "Static: BF-DKR query-marginalised (S2b)",
+    "arm": "S2b",
+    "group": "pooled",
+    "source_exp": "embedllm/static-policy-baseline",
+    "n_seeds": 3,
+    "test_cost_auc": 0.48926,
+    "test_cost_auc_std": 0.024084,
+    "test_floor_cost_auc": 0.394225,
+    "test_oracle_cost_auc": 0.868398,
+    "test_aiq": 0.095035,
+    "per_seed_cost_auc": [
+      0.498395,
+      0.513108,
+      0.456277
+    ],
+    "uses_test_labels": false
+  },
+  {
+    "router": "BF-DKR (pq_auc, per-seed val-selected k)",
+    "arm": "BFDKR",
+    "group": "pooled",
+    "source_exp": "embedllm/static-policy-baseline",
+    "n_seeds": 3,
+    "test_cost_auc": 0.498443,
+    "test_cost_auc_std": 0.014163,
+    "test_floor_cost_auc": 0.394225,
+    "test_oracle_cost_auc": 0.868398,
+    "test_aiq": 0.104218,
+    "per_seed_cost_auc": [
+      0.500623,
+      0.514597,
+      0.48011
+    ],
+    "uses_test_labels": false
+  },
+  {
+    "arm": "S3",
+    "dataset": "embedllm",
+    "group": "pooled",
+    "n_queries": 10702,
+    "n_llms_test": 21,
+    "test_cost_auc": 0.513573,
+    "test_floor_cost_auc": 0.394225,
+    "test_oracle_cost_auc": 0.868398,
+    "test_aiq": 0.119347,
+    "uses_test_labels": true,
+    "test_quality_at_cap_1B": 0.24117,
+    "test_quality_at_cap_3B": 0.310624,
+    "test_quality_at_cap_7B": 0.46552,
+    "test_quality_at_cap_30B": 0.475519,
+    "test_quality_at_cap_67B": 0.570828,
+    "policy": "best static policy in hindsight (w = S_test.mean(0))",
+    "role": "anchor over all query-independent policies -- alongside floor and oracle, never a Table III baseline row",
+    "test_brier": null,
+    "test_ece": null,
+    "router": "Anchor: hindsight-best static policy (S3)",
+    "source_exp": "embedllm/static-policy-baseline",
+    "n_seeds": 1
+  }
+]

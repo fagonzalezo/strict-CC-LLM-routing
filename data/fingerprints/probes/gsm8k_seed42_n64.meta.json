@@ -1,0 +1,15 @@
+{
+  "n": 64,
+  "name": "gsm8k_seed42_n64",
+  "sample_seed": 42,
+  "sha256": "1b71d3ee5d345327b0a5d59a3cb062d6144b849c471d4eacdafffd92aea47421",
+  "source": "64 questions sampled (numpy default_rng(42)) from the GSM8K questions every RouterEval leaderboard model was evaluated on (lighteval 'harness|gsm8k|5')",
+  "task": "harness|gsm8k|5",
+  "verified_against": [
+    "linggm/RouterEval@0ee4de2661854b588474c211bebe97dc1e434237:full_data/gsm8k/details_Locutusque__Hyperion-1.5-Mistral-7B.zip",
+    "linggm/RouterEval@0ee4de2661854b588474c211bebe97dc1e434237:full_data/gsm8k/details_MaziyarPanahi__Calme-4x7B-MoE-v0.2.zip",
+    "linggm/RouterEval@0ee4de2661854b588474c211bebe97dc1e434237:full_data/gsm8k/details_allknowingroger__Platapus-Orca-13B.zip",
+    "linggm/RouterEval@0ee4de2661854b588474c211bebe97dc1e434237:full_data/gsm8k/details_bardsai__jaskier-7b-dpo-v7.1.zip",
+    "linggm/RouterEval@0ee4de2661854b588474c211bebe97dc1e434237:full_data/gsm8k/details_rhaymison__Mistral-portuguese-luana-7b-chat.zip"
+  ]
+}

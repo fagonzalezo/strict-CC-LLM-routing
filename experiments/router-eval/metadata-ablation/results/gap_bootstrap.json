@@ -1,0 +1,131 @@
+{
+  "dataset": "router-eval",
+  "per_seed": {
+    "seed0": {
+      "reference": "fp",
+      "n_boot": 1000,
+      "n_queries": 2894,
+      "boot_seed": 42,
+      "tie_band_cost_auc": 0.0035,
+      "point_cost_auc": {
+        "fp": 0.739515,
+        "meta_struct": 0.680246,
+        "meta_name": 0.677637,
+        "concat": 0.741089
+      },
+      "gaps": {
+        "meta_struct": {
+          "cost_auc_gap_point": 0.05927,
+          "cost_auc_gap_ci95": [
+            0.049856,
+            0.069319
+          ],
+          "cost_auc_gap_excludes_zero": true,
+          "outside_tie_band": true
+        },
+        "meta_name": {
+          "cost_auc_gap_point": 0.061878,
+          "cost_auc_gap_ci95": [
+            0.05316,
+            0.070359
+          ],
+          "cost_auc_gap_excludes_zero": true,
+          "outside_tie_band": true
+        },
+        "concat": {
+          "cost_auc_gap_point": -0.001574,
+          "cost_auc_gap_ci95": [
+            -0.006052,
+            0.002834
+          ],
+          "cost_auc_gap_excludes_zero": false,
+          "outside_tie_band": false
+        }
+      }
+    },
+    "seed1": {
+      "reference": "fp",
+      "n_boot": 1000,
+      "n_queries": 2894,
+      "boot_seed": 42,
+      "tie_band_cost_auc": 0.0035,
+      "point_cost_auc": {
+        "fp": 0.741278,
+        "meta_struct": 0.664,
+        "meta_name": 0.670873,
+        "concat": 0.736246
+      },
+      "gaps": {
+        "meta_struct": {
+          "cost_auc_gap_point": 0.077278,
+          "cost_auc_gap_ci95": [
+            0.066721,
+            0.088212
+          ],
+          "cost_auc_gap_excludes_zero": true,
+          "outside_tie_band": true
+        },
+        "meta_name": {
+          "cost_auc_gap_point": 0.070406,
+          "cost_auc_gap_ci95": [
+            0.061532,
+            0.079612
+          ],
+          "cost_auc_gap_excludes_zero": true,
+          "outside_tie_band": true
+        },
+        "concat": {
+          "cost_auc_gap_point": 0.005032,
+          "cost_auc_gap_ci95": [
+            0.000773,
+            0.009074
+          ],
+          "cost_auc_gap_excludes_zero": true,
+          "outside_tie_band": true
+        }
+      }
+    },
+    "seed2": {
+      "reference": "fp",
+      "n_boot": 1000,
+      "n_queries": 2894,
+      "boot_seed": 42,
+      "tie_band_cost_auc": 0.0035,
+      "point_cost_auc": {
+        "fp": 0.728709,
+        "meta_struct": 0.688266,
+        "meta_name": 0.681541,
+        "concat": 0.738876
+      },
+      "gaps": {
+        "meta_struct": {
+          "cost_auc_gap_point": 0.040443,
+          "cost_auc_gap_ci95": [
+            0.031942,
+            0.049657
+          ],
+          "cost_auc_gap_excludes_zero": true,
+          "outside_tie_band": true
+        },
+        "meta_name": {
+          "cost_auc_gap_point": 0.047169,
+          "cost_auc_gap_ci95": [
+            0.038014,
+            0.057318
+          ],
+          "cost_auc_gap_excludes_zero": true,
+          "outside_tie_band": true
+        },
+        "concat": {
+          "cost_auc_gap_point": -0.010167,
+          "cost_auc_gap_ci95": [
+            -0.015472,
+            -0.004632
+          ],
+          "cost_auc_gap_excludes_zero": true,
+          "outside_tie_band": true
+        }
+      }
+    }
+  }
+}

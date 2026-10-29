@@ -1,0 +1,17 @@
+{
+  "condition": "clcrec",
+  "lambda_re": 0.25,
+  "tau": 0.1,
+  "seed": 0,
+  "target_dim": 64,
+  "hidden_dim": 256,
+  "n_layers": 2,
+  "w_bce": 1.0,
+  "epochs": 200,
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "val_bce": 0.5919047594070435,
+  "best_epoch": 10,
+  "fit_elapsed_s": 162.03,
+  "hp_search_selected": "lre0.25_tau0.1"
+}

@@ -1,0 +1,18 @@
+{
+  "condition": "dropoutnet",
+  "mf_dim": 16,
+  "p_drop": 0.7,
+  "seed": 1,
+  "target_dim": 64,
+  "hidden_dim": 256,
+  "n_layers": 2,
+  "mf_epochs": 100,
+  "epochs": 200,
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "mf_train_bce": 0.34030672907829285,
+  "val_bce": 0.5892406105995178,
+  "best_epoch": 2,
+  "fit_elapsed_s": 288.0,
+  "hp_search_selected": "mf_dim16_pdrop0.7"
+}

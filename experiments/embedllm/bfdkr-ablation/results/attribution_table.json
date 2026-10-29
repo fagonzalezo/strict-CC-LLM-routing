@@ -1,0 +1,134 @@
+{
+  "tie_band_cost_auc": 0.00598,
+  "tie_band_source": "experiments/embedllm/bfdkr-sweep/results/dmkdmr_encoded/seed*/pq_auc/k4096/gap_bootstrap.json (full-vs-MLPDot cost_auc_gap_ci95 half-width, mean over 3 seeds)",
+  "full": {
+    "test_cost_auc": {
+      "mean": 0.498549,
+      "std": 0.014592
+    },
+    "test_pq_auc": {
+      "mean": 0.614059,
+      "std": 0.013263
+    },
+    "test_ece": {
+      "mean": 0.014833,
+      "std": 0.006072
+    },
+    "test_brier": {
+      "mean": 0.197435,
+      "std": 0.001472
+    },
+    "test_aiq": {
+      "mean": 0.104324,
+      "std": 0.014592
+    },
+    "test_aiq_deploy": {
+      "mean": -0.008663,
+      "std": 0.035602
+    }
+  },
+  "qk_off": {
+    "test_cost_auc": {
+      "mean": 0.486753,
+      "std": 0.018605
+    },
+    "test_pq_auc": {
+      "mean": 0.604112,
+      "std": 0.014331
+    },
+    "test_ece": {
+      "mean": 0.03166,
+      "std": 0.002993
+    },
+    "test_brier": {
+      "mean": 0.202637,
+      "std": 0.001801
+    },
+    "test_aiq": {
+      "mean": 0.092528,
+      "std": 0.018605
+    },
+    "test_aiq_deploy": {
+      "mean": -0.034648,
+      "std": 0.004114
+    }
+  },
+  "lk_off": {
+    "test_cost_auc": {
+      "mean": 0.477681,
+      "std": 0.013785
+    },
+    "test_pq_auc": {
+      "mean": 0.600775,
+      "std": 0.008275
+    },
+    "test_ece": {
+      "mean": 0.020907,
+      "std": 0.005218
+    },
+    "test_brier": {
+      "mean": 0.199492,
+      "std": 0.000503
+    },
+    "test_aiq": {
+      "mean": 0.083455,
+      "std": 0.013784
+    },
+    "test_aiq_deploy": {
+      "mean": -0.031554,
+      "std": 0.001295
+    }
+  },
+  "bw_off": {
+    "test_cost_auc": {
+      "mean": 0.489695,
+      "std": 0.026635
+    },
+    "test_pq_auc": {
+      "mean": 0.601445,
+      "std": 0.012808
+    },
+    "test_ece": {
+      "mean": 0.033726,
+      "std": 0.005995
+    },
+    "test_brier": {
+      "mean": 0.206322,
+      "std": 0.000388
+    },
+    "test_aiq": {
+      "mean": 0.09547,
+      "std": 0.026636
+    },
+    "test_aiq_deploy": {
+      "mean": 0.022356,
+      "std": 0.045114
+    }
+  },
+  "knn_enc": {
+    "test_cost_auc": {
+      "mean": 0.480786,
+      "std": 0.020237
+    },
+    "test_pq_auc": {
+      "mean": 0.600687,
+      "std": 0.015526
+    },
+    "test_ece": {
+      "mean": 0.021525,
+      "std": 0.009925
+    },
+    "test_brier": {
+      "mean": 0.199854,
+      "std": 0.001942
+    },
+    "test_aiq": {
+      "mean": 0.086561,
+      "std": 0.020237
+    },
+    "test_aiq_deploy": {
+      "mean": -0.032717,
+      "std": 0.001962
+    }
+  }
+}

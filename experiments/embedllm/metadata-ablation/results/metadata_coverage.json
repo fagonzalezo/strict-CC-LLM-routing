@@ -1,0 +1,144 @@
+{
+  "meta_struct": {
+    "dataset": "embedllm",
+    "variant": "meta_struct",
+    "dim": 23,
+    "n_llms": {
+      "train": 70,
+      "val": 16,
+      "test": 21
+    },
+    "coverage": {
+      "org": {
+        "n_distinct_train": 45,
+        "top_k": 10,
+        "vocab_size_with_unk": 11,
+        "train_in_vocab_rate": 0.442857,
+        "val_in_vocab_rate": 0.1875,
+        "test_in_vocab_rate": 0.095238,
+        "train_unk_rate": 0.557143,
+        "val_unk_rate": 0.8125,
+        "test_unk_rate": 0.904762,
+        "saturated_vocab": {
+          "size": 45,
+          "train_unk_rate": 0.0,
+          "val_unk_rate": 0.4375,
+          "test_unk_rate": 0.666667
+        }
+      },
+      "family": {
+        "n_distinct_train": 46,
+        "top_k": 10,
+        "vocab_size_with_unk": 11,
+        "train_in_vocab_rate": 0.442857,
+        "val_in_vocab_rate": 0.125,
+        "test_in_vocab_rate": 0.142857,
+        "train_unk_rate": 0.557143,
+        "val_unk_rate": 0.875,
+        "test_unk_rate": 0.857143,
+        "saturated_vocab": {
+          "size": 46,
+          "train_unk_rate": 0.0,
+          "val_unk_rate": 0.5625,
+          "test_unk_rate": 0.619048
+        }
+      }
+    },
+    "size_coverage": {
+      "train": {
+        "n": 70,
+        "min_b": 0.5,
+        "median_b": 11.35,
+        "max_b": 72.0
+      },
+      "val": {
+        "n": 16,
+        "min_b": 1.3,
+        "median_b": 7.0,
+        "max_b": 34.0
+      },
+      "test": {
+        "n": 21,
+        "min_b": 1.3,
+        "median_b": 7.0,
+        "max_b": 67.0
+      }
+    },
+    "moe_flag": {
+      "included": false,
+      "train_positives": 0,
+      "note": "dropped: zero variance on this dataset's train pool"
+    }
+  },
+  "concat": {
+    "dataset": "embedllm",
+    "variant": "concat",
+    "dim": 2071,
+    "n_llms": {
+      "train": 70,
+      "val": 16,
+      "test": 21
+    },
+    "coverage": {
+      "org": {
+        "n_distinct_train": 45,
+        "top_k": 10,
+        "vocab_size_with_unk": 11,
+        "train_in_vocab_rate": 0.442857,
+        "val_in_vocab_rate": 0.1875,
+        "test_in_vocab_rate": 0.095238,
+        "train_unk_rate": 0.557143,
+        "val_unk_rate": 0.8125,
+        "test_unk_rate": 0.904762,
+        "saturated_vocab": {
+          "size": 45,
+          "train_unk_rate": 0.0,
+          "val_unk_rate": 0.4375,
+          "test_unk_rate": 0.666667
+        }
+      },
+      "family": {
+        "n_distinct_train": 46,
+        "top_k": 10,
+        "vocab_size_with_unk": 11,
+        "train_in_vocab_rate": 0.442857,
+        "val_in_vocab_rate": 0.125,
+        "test_in_vocab_rate": 0.142857,
+        "train_unk_rate": 0.557143,
+        "val_unk_rate": 0.875,
+        "test_unk_rate": 0.857143,
+        "saturated_vocab": {
+          "size": 46,
+          "train_unk_rate": 0.0,
+          "val_unk_rate": 0.5625,
+          "test_unk_rate": 0.619048
+        }
+      }
+    },
+    "size_coverage": {
+      "train": {
+        "n": 70,
+        "min_b": 0.5,
+        "median_b": 11.35,
+        "max_b": 72.0
+      },
+      "val": {
+        "n": 16,
+        "min_b": 1.3,
+        "median_b": 7.0,
+        "max_b": 34.0
+      },
+      "test": {
+        "n": 21,
+        "min_b": 1.3,
+        "median_b": 7.0,
+        "max_b": 67.0
+      }
+    },
+    "moe_flag": {
+      "included": false,
+      "train_positives": 0,
+      "note": "dropped: zero variance on this dataset's train pool"
+    }
+  }
+}

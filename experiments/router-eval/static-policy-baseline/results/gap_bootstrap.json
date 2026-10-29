@@ -1,0 +1,161 @@
+{
+  "dataset": "router-eval",
+  "per_seed": {
+    "seed0": {
+      "reference": "BFDKR_seed0",
+      "n_boot": 1000,
+      "n_queries": 2894,
+      "boot_seed": 42,
+      "tie_band_cost_auc": 0.0035,
+      "point_cost_auc": {
+        "BFDKR_seed0": 0.739515,
+        "S1": 0.631681,
+        "S2": 0.667796,
+        "S2b": 0.694381,
+        "S3": 0.714236
+      },
+      "gaps": {
+        "BFDKR_seed0_minus_S1": {
+          "cost_auc_gap_point": 0.107834,
+          "cost_auc_gap_ci95": [
+            0.09955,
+            0.116648
+          ],
+          "cost_auc_gap_excludes_zero": true,
+          "outside_tie_band": true
+        },
+        "BFDKR_seed0_minus_S2": {
+          "cost_auc_gap_point": 0.071719,
+          "cost_auc_gap_ci95": [
+            0.060238,
+            0.084488
+          ],
+          "cost_auc_gap_excludes_zero": true,
+          "outside_tie_band": true
+        },
+        "BFDKR_seed0_minus_S2b": {
+          "cost_auc_gap_point": 0.045135,
+          "cost_auc_gap_ci95": [
+            0.036678,
+            0.05403
+          ],
+          "cost_auc_gap_excludes_zero": true,
+          "outside_tie_band": true
+        },
+        "BFDKR_seed0_minus_S3": {
+          "cost_auc_gap_point": 0.025279,
+          "cost_auc_gap_ci95": [
+            0.01754,
+            0.033486
+          ],
+          "cost_auc_gap_excludes_zero": true,
+          "outside_tie_band": true
+        }
+      }
+    },
+    "seed1": {
+      "reference": "BFDKR_seed1",
+      "n_boot": 1000,
+      "n_queries": 2894,
+      "boot_seed": 42,
+      "tie_band_cost_auc": 0.0035,
+      "point_cost_auc": {
+        "BFDKR_seed1": 0.741278,
+        "S1": 0.631681,
+        "S2": 0.667796,
+        "S2b": 0.701083,
+        "S3": 0.714236
+      },
+      "gaps": {
+        "BFDKR_seed1_minus_S1": {
+          "cost_auc_gap_point": 0.109597,
+          "cost_auc_gap_ci95": [
+            0.101786,
+            0.118177
+          ],
+          "cost_auc_gap_excludes_zero": true,
+          "outside_tie_band": true
+        },
+        "BFDKR_seed1_minus_S2": {
+          "cost_auc_gap_point": 0.073482,
+          "cost_auc_gap_ci95": [
+            0.061607,
+            0.085877
+          ],
+          "cost_auc_gap_excludes_zero": true,
+          "outside_tie_band": true
+        },
+        "BFDKR_seed1_minus_S2b": {
+          "cost_auc_gap_point": 0.040195,
+          "cost_auc_gap_ci95": [
+            0.032639,
+            0.048595
+          ],
+          "cost_auc_gap_excludes_zero": true,
+          "outside_tie_band": true
+        },
+        "BFDKR_seed1_minus_S3": {
+          "cost_auc_gap_point": 0.027042,
+          "cost_auc_gap_ci95": [
+            0.019238,
+            0.03571
+          ],
+          "cost_auc_gap_excludes_zero": true,
+          "outside_tie_band": true
+        }
+      }
+    },
+    "seed2": {
+      "reference": "BFDKR_seed2",
+      "n_boot": 1000,
+      "n_queries": 2894,
+      "boot_seed": 42,
+      "tie_band_cost_auc": 0.0035,
+      "point_cost_auc": {
+        "BFDKR_seed2": 0.728709,
+        "S1": 0.631681,
+        "S2": 0.667796,
+        "S2b": 0.702643,
+        "S3": 0.714236
+      },
+      "gaps": {
+        "BFDKR_seed2_minus_S1": {
+          "cost_auc_gap_point": 0.097028,
+          "cost_auc_gap_ci95": [
+            0.089571,
+            0.104998
+          ],
+          "cost_auc_gap_excludes_zero": true,
+          "outside_tie_band": true
+        },
+        "BFDKR_seed2_minus_S2": {
+          "cost_auc_gap_point": 0.060914,
+          "cost_auc_gap_ci95": [
+            0.049652,
+            0.072637
+          ],
+          "cost_auc_gap_excludes_zero": true,
+          "outside_tie_band": true
+        },
+        "BFDKR_seed2_minus_S2b": {
+          "cost_auc_gap_point": 0.026066,
+          "cost_auc_gap_ci95": [
+            0.018387,
+            0.033547
+          ],
+          "cost_auc_gap_excludes_zero": true,
+          "outside_tie_band": true
+        },
+        "BFDKR_seed2_minus_S3": {
+          "cost_auc_gap_point": 0.014473,
+          "cost_auc_gap_ci95": [
+            0.007383,
+            0.022497
+          ],
+          "cost_auc_gap_excludes_zero": true,
+          "outside_tie_band": true
+        }
+      }
+    }
+  }
+}

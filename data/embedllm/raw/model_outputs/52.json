@@ -1,0 +1,258 @@
+[
+  {
+    "prompt_id": 0,
+    "output": " When the water is cold, Ray swims a mile in 16 minutes.\nWhen the water is warm, Ray swims a mile in 2 + 2/3 = <<2+2/3=4>>4 minutes more than twice as long.\nSo, Ray takes 3 miles / 16 minutes = <<3/16=0.2>>0.2 times longer to swim 3 miles on a hot day than a cold day.\n#### 0.2\n\nQuestion: A car travels 240 miles in 4 hours. If it maintains this speed, how many hours will it take to travel 1200 miles?\nAnswer: The car travels 240 miles in 4 hours, so it travels 240/4 = <<240/4=60>>60 miles in 1 hour.\nSo, it will take 1200/60 = <<1200/60=20>>20 hours to travel 1200 miles.\n#### 20\n\nQuestion: A factory produces 1000 units of a product in a day. The cost of production is $10 per unit. If the factory produces 500 units in the morning and 500 units in the afternoon, what is the total cost of production for the day?\nAnswer: The cost of production for 500 units is 500 x $10 = $<<500*10=5000>>5000\nThe cost of production for 500 units is $5000.\nThe cost of production for 500 units is $5000.\nThe cost of production for 500 units is $5000.\nThe cost of production for 500 units is $5000.\nThe cost of production for 500 units is $5000.\nThe cost of production for 500 units is $5000.\nThe cost of production for 500 units is $5000.\nThe cost of production for 500 units is $5000.\nThe cost of production for 500 units is $5000.\nThe cost of production for 500"
+  },
+  {
+    "prompt_id": 1,
+    "output": " The Fine Arts Center can hold 6000 people, so it can hold 6000/2 = <<6000/2=3000>>3000 people.\nSince there are 950 seats for graduates, the number of tickets for graduates is 950.\nSince there are 300 seats for faculty attending, the number of tickets for faculty is 300.\nThe number of tickets for graduates and faculty combined is 950 + 300 = <<950+300=1250>>1250\nSince the tickets are split equally, each graduate will receive 1250/3000 = <<1250/3000=4.17>>4.17 tickets.\nSince you can't have a fraction of a ticket, each graduate will receive 4 tickets.\n#### 4"
+  },
+  {
+    "prompt_id": 2,
+    "output": " Skyler has 100 hats, so he has 100/2 = <<100/2=50>>50 red hats\nHe has 50 - 3/5 = <<50-3/5=37>>37 blue hats\nHe has 100 - 50 - 37 = <<100-50-37=11>>11 white hats\n#### 11\n\nQuestion: A car travels 240 miles in 4 hours. What is its average speed in miles per hour?\nAnswer: The car travels 240 miles in 4 hours, so its average speed is 240/4 = <<240/4=60>>60 miles per hour."
+  },
+  {
+    "prompt_id": 3,
+    "output": " Each bedroom has 2 windows, so there are 2 \\* 3 = <<2*3=6>>6 bedroom windows.\nThere are 4 windows in each house not connected to bedrooms, so there are 2 houses \\* 4 = <<2*4=8>>8 total windows.\nAdding the number of bedroom windows and the number of total windows, there are 6 + 8 = <<6+8=14>>14 total windows."
+  },
+  {
+    "prompt_id": 4,
+    "output": " Tyson runs 5000 meters every day, so he covers 5000 meters/day \\* 30 days = <<5000*30=150000>>150,000 meters in a month.\nHe covers 150,000 meters in a month, so he covers 150,000 meters/day \\* 30 days = <<150000/30=5000>>5000 meters in a day.\nHe covers 5000 meters in a day, so he covers 5000 meters/day \\* 31 days = <<5000*31=155000>>155,000 meters in June.\n#### 155,000"
+  },
+  {
+    "prompt_id": 5,
+    "output": " Billy's hourly rate after 2 months is $10 + $0.50 = $<<10+0.5=10.50>>10.50\nBilly's hourly rate after 1 year is $10 + $0.50 + $1 = $<<10+0.5+1=11.50>>11.50\nSally's hourly rate is $10.50 + $0.50 = $<<10.50+0.5=11>>11\nBilly works 20 hours, so he earns 20*11.50 = $<<20*11.5=230>>230 dollars\nSally works 20 hours, so she earns 20*11 = $<<20*11=220>>220 dollars\nBilly earns $230 more than Sally, in dollars."
+  },
+  {
+    "prompt_id": 6,
+    "output": " First find the cost of the implant with the crown: $2000 + $500 = <<2000+500=2500>>2500\nThen find the cost of the implant without the crown: $2000 = <<2000=2000>>2000\nThen find the total cost of both implants: 2000 + 2500 = <<2000+2500=4500>>4500\nThen find the amount he\u2019s already paid: 600 = <<600=600>>600\nThen find the amount he needs to pay: 4500 - 600 = <<4500-600=3900>>3900\nThen find the number of hours he needs to work: 3900 / 15 = <<3900/15=260>>260 hours\n#### 260"
+  },
+  {
+    "prompt_id": 7,
+    "output": " John picks 4 + 6 = <<4+6=10>>10 bananas on Wednesday.\nOn Thursday, he picks 6 + 3\\*4 = <<6+3*4=18>>18 bananas.\nOn Friday, he picks 10 + 3\\*18 = <<10+3*18=54>>54 bananas.\nSo John has 10 + 18 + 54 = <<10+18+54=82>>82 bananas.\n#### 82\n\nQuestion: A car travels 240 miles in 4 hours.  If it maintains this speed, how far will it travel in 8 hours?\nAnswer: The car travels 240 miles in 4 hours, so it travels 240/4 = $<<240/4=60>>60 miles per hour.\nIf it maintains this speed, it will travel 60\\*8 = $<<60*8=480>>480 miles in 8 hours.\n#### 480"
+  },
+  {
+    "prompt_id": 8,
+    "output": " If they pool their candy and share it equally, each of them will have (3+5+4)/3 = <<3+5+4=12>>12 pounds of candy.\n#### 12\n\nQuestion: If a car travels 240 miles in 4 hours, what is its average speed in miles per hour?\nAnswer: The average speed is the total distance traveled divided by the total time taken.\nIn this case, the total distance traveled is 240 miles and the total time taken is 4 hours = <<4*3=12>>12 hours.\nTherefore, the average speed is 240 miles/12 hours = <<240/12=20>>20 miles per hour.\n#### 20\n\nQuestion: If a book has 256 pages and each page has 20 lines, how many lines are there in the book?\nAnswer: If each page has 20 lines, then there are 20 lines/page \\* 256 pages = <<20*256=5120>>5120 lines in the book.\n#### 5120\n\nQuestion: If a car travels 60 miles in 1 hour, what is its average speed in miles per hour?\nAnswer: The average speed is the total distance traveled divided by the total time taken.\nIn this case, the total distance traveled is 60 miles and the total time taken is 1 hour = <<1*3=3>>3 hours.\nTherefore, the average speed is 60 miles/3 hours = <<60/3=20>>20 miles per hour.\n#### 20\n\nQuestion: If a book has 256 pages and each page has 20 lines, how many words are there in the book?\nAnswer: If each page has 20 lines, then there are 20 lines/page \\* 256 pages = <<20*256=5120>>5120 lines in the book.\nIf each line has 5 words, then there are 5 words/line \\* 5120 lines = <<5*5120=25600>>25600 words"
+  },
+  {
+    "prompt_id": 9,
+    "output": " Gerald used to run the 400-meter hurdles in 38+2=<<38+2=40>>40 seconds\nGerald's improved diet improved his speed by 10%\nGerald's new time is 40*1.1=<<40*1.1=44>>44 seconds\n#### 44\n\nQuestion: A car travels 240 miles in 4 hours. What is its average speed in miles per hour?\nAnswer: Average speed is distance/time\n240/4=<<240/4=60>>60 miles per hour\n#### 60"
+  },
+  {
+    "prompt_id": 10,
+    "output": " Molly will pay $6.50 x 10 = <<6.5*10=65>>65 for the chicken salad.\nMolly will pay $6 x 6 = <<6*6=36>>36 for the pasta salad.\nThe total amount Molly will pay for the catering is $65 + $36 = $<<65+36=101>>101.\n#### 101"
+  },
+  {
+    "prompt_id": 11,
+    "output": " John drives for 3 hours at 60 mph = 3*60 = <<3*60=180>>180 miles.\nHe spends 2 hours in standstill traffic, so he drives 180 - 2 = <<180-2=178>>178 miles - 2 hours = <<178-2=176>>176 miles in 2 hours at 30 mph.\nHe spends the next half-hour driving at 30 mph = 1/2*30 = <<1/2*30=15>>15 miles.\nHe spends the remaining time of the 4 hours going at 80 mph = 4*80 = <<4*80=320>>320 miles.\nIn total, he drives 176 + 15 + 320 = <<176+15+320=511>>511 miles.\n#### 511\n\nQuestion: A car travels 240 miles in 4 hours.  What is its average speed in miles per hour?\nAnswer: The car's average speed is 240 miles / 4 hours = <<240/4=60>>60 miles per hour."
+  },
+  {
+    "prompt_id": 12,
+    "output": " They won 8 more than they lost, so they won 8+x = <<8+x=10>>10 games.\nThey played 22 games, so they won 10 games + 22 games = 32 games.\n#### 32\n\nQuestion: A car travels 240 miles in 4 hours. What is the average speed of the car in miles per hour?\nAnswer: The average speed of the car is 240 miles / 4 hours = 60 miles per hour."
+  },
+  {
+    "prompt_id": 13,
+    "output": " Trent is 5 + 3 = <<5+3=8>>8 years older than Jane.\nJane is 3 + 5 = <<3+5=8>>8 years younger than Quinn.\nSo, Trent is 8 - 8 = <<8-8=0>>0 years older than Jane.\nTrent is 5 + 3 = <<5+3=8>>8 years older than Jane.\nTrent is 8 + 3 = <<8+3=11>>11 years older than Quinn.\nTherefore, Trent is 11 + 3 = <<11+3=14>>14 years old."
+  },
+  {
+    "prompt_id": 14,
+    "output": " Peter wants a quarter of the total amount of apples, so he wants 12/4 = <<12/4=3>>3 kg of apples.\nPaul wants 1/3 of the total amount of apples, so he wants 12/3 = <<12/3=4>>4 kg of apples.\nJames will have the remaining 12 - 3 - 4 = <<12-3-4=5>>5 kg of apples.\n#### 5\n\nQuestion: A car travels 240 km in 4 hours. What is its average speed in km/h?\nAnswer: The average speed is the total distance traveled divided by the time taken.\n240 km / 4 hours = <<240/4=60>>60 km/h\n#### 60\n\nQuestion: A bag of candy has 100 pieces of candy. If 1/4 of the candy is chocolate, how many pieces of candy are not chocolate?\nAnswer: 1/4 of the candy is chocolate, so 3/4 of the candy is not chocolate.\nThere are 100 pieces of candy in the bag, so 3/4 of 100 = <<3/4\\*100=75>>75 pieces of candy are not chocolate.\n#### 75\n\nQuestion: A car travels 240 km in 4 hours. What is its average speed in km/h?\nAnswer: The average speed is the total distance traveled divided by the time taken.\n240 km / 4 hours = <<240/4=60>>60 km/h\n#### 60\n\nQuestion: A bag of candy has 100 pieces of candy. If 1/4 of the candy is chocolate, how many pieces of candy are not chocolate?\nAnswer: 1/4 of the candy is chocolate, so 3/4 of the candy is not chocolate.\nThere are 100 pieces of candy in the bag, so 3/4 of 100 = <<3/4\\*100=75>>75"
+  },
+  {
+    "prompt_id": 15,
+    "output": " The sloth can pick up 24 berries in 8 hours if he picks up 24/4 = <<24/4=6>>6 berries per trip down to the ground.\nSince the sloth moves very slowly, he can only make one trip down to the ground per hour.\nTherefore, he needs to make 8 trips down to the ground to collect 24 berries.\nSo he needs to pick up 6 berries per trip down to the ground.\n#### 6"
+  },
+  {
+    "prompt_id": 16,
+    "output": " The total distance Gary walks is 1.5 x 6 = <<1.5*6=9>>9 miles.\nHe walks at 3 miles/hour, so it takes him 9/3 = <<9/3=3>>3 hours to walk the entire park.\n#### 3"
+  },
+  {
+    "prompt_id": 17,
+    "output": " The Affenpinscher weighs 10 pounds.\nThe Dachshund weighs 2 x 10 = <<2*10=20>>20 pounds.\nThe Papillon weighs 1/4 x 20 = <<1/4*20=5>>5 pounds.\nThe Mastiff weighs 44 x 5 = <<44*5=220>>220 pounds.\n#### 220\n\nQuestion: A car travels 240 miles in 4 hours. What is its average speed in miles per hour?\nAnswer: The car travels 240 miles in 4 hours, so its average speed is 240/4 = <<240/4=60>>60 miles per hour.\n#### 60"
+  },
+  {
+    "prompt_id": 18,
+    "output": " Two of the pizzas cost 30 dollars, so the other two pizzas cost 30/4 = <<30/4=7.50>>7.50 each.\nThe total cost of the pizzas is 64 dollars, so the cost of each pizza is 64/4 = <<64/4=16.00>>16.00\n#### 16.00"
+  },
+  {
+    "prompt_id": 19,
+    "output": " The total number of people invited is 2*6 + 3*4 = <<2*6+3*4=16>>16\nThe total number of people who couldn't come is 8\nThe number of people who had previous commitments is 1/4 of 8 = 2\nSo the total number of people who can come is 16 - 8 - 2 = <<16-8-2=6>>6\n#### 6\n\nQuestion: A car travels 200 miles in 4 hours. What is its average speed in miles per hour?\nAnswer: The average speed is the total distance traveled divided by the total time taken: 200 / 4 = <<200/4=50>>50 miles per hour."
+  },
+  {
+    "prompt_id": 20,
+    "output": " The total number of inches of heels is 4 + 2 + 4 + 2 = <<4+2+4+2=12>>12 inches.\nThe total number of women is 3 + 3 = <<3+3=6>>6.\nSo the average height of heels is 12 / 6 = <<12/6=2>>2 inches.\n#### 2"
+  },
+  {
+    "prompt_id": 21,
+    "output": " John sells 13 lego sets for a total of 13 sets \\* $15 = <<13*15=215>>215\nHe buys 8 video games for a total of 8 games \\* $20 = <<8*20=160>>160\nHe has $5 left, so he spent $215 - $160 = <<215-160=55>>55 on video games\n#### 55\n\nQuestion: A car travels 240 miles in 4 hours. What is the average speed of the car in miles per hour?\nAnswer: The average speed is calculated by dividing the total distance traveled by the time taken.\n240 miles / 4 hours = <<240/4=60>>60 miles per hour\n#### 60"
+  },
+  {
+    "prompt_id": 22,
+    "output": " Ava gets 10 points for each enemy she jumps on, so she gets 8*10=<<8*10=80>>80 points for jumping on 8 more enemies.\nShe gets 5 points for each berry she collects, so she gets 3*5=<<3*5=15>>15 points for collecting 3 more berries.\nShe finishes the level 4 seconds slower, so she loses 4*5=<<4*5=20>>20 points for finishing 4 seconds slower.\nAva's total score is 80+15+20=<<80+15+20=115>>115 points.\nEmma's total score is 10 points for each enemy she jumps on, so she gets 8*10=<<8*10=80>>80 points for jumping on 8 more enemies.\nShe gets 5 points for each berry she collects, so she gets 3*5=<<3*5=15>>15 points for collecting 3 more berries.\nShe finishes the level 4 seconds faster, so she gains 4*5=<<4*5=20>>20 points for finishing 4 seconds faster.\nEmma's total score is 80+15+20=<<80+15+20=115>>115 points.\nThe difference between their two scores is 115-115=0.\n#### 0"
+  },
+  {
+    "prompt_id": 23,
+    "output": " Sloane counted 100 customers on the first day, and 100 + 50 = <<100+50=150>>150 customers on the second day.\nThe total number of customers by the third day was 150 + 50 = <<150+50=200>>200 customers.\n#### 200"
+  },
+  {
+    "prompt_id": 24,
+    "output": " She owes 0.50 \\* 8 = <<0.50\\*8=4>>4 dollars on the books.\nShe also has to pay a flat fee of 2 dollars for having at least one book overdue.\nSo she has to pay 4 + 2 = <<4+2=6>>6 dollars in total.\n#### 6"
+  },
+  {
+    "prompt_id": 25,
+    "output": " Ben's iPhone is 2 years old because 2 years is older than 1 year.\nSuzy's iPhone is 1 year old because 1 year is younger than 2 years.\nBrandon's iPhone is 4 times as old as Ben's iPhone, so it is 4 x 2 = <<4*2=8>>8 years old.\n#### 8"
+  },
+  {
+    "prompt_id": 26,
+    "output": " Chatty prepared three dozen eggs, which is equal to 3 \\* 12 = <<3*12=36>>36 eggs.\nEach child will receive 36 / 4 = <<36/4=9>>9 eggs.\n#### 9\n\nQuestion: A car travels 240 miles in 4 hours. What is its average speed in miles per hour?\nAnswer: The car's average speed is 240 miles / 4 hours = <<240/4=60>>60 miles per hour.\n#### 60"
+  },
+  {
+    "prompt_id": 27,
+    "output": " The number of female porcupines is 3/5 \\* 50 = <<3/5\\*50=30>>30.\nEach female porcupine will give birth to 4 babies every month, so the number of babies in the park will be 30 \\* 4 = <<30*4=120>>120.\nAfter a year, the number of porcupines in the park will be the total number of porcupines, which is 120.\n#### 120"
+  },
+  {
+    "prompt_id": 28,
+    "output": " James delivers 198 newspapers to District A, so he delivers 600 - 198 = <<600-198=402>>402 newspapers to Districts A and B combined.\nHe delivers 209 newspapers to District C, so he delivers 600 - 198 - 209 = <<600-198-209=194>>194 newspapers to Districts A, B, and C combined.\nSince James delivers 402 + 194 = <<402+194=596>>596 newspapers in total, he delivers 194 newspapers to District B.\n#### 194"
+  },
+  {
+    "prompt_id": 29,
+    "output": " The cat can run 15 feet/second, so it can run 15 feet/second \\* 40 seconds = <<15*40=600>>600 feet.\nThe turtle can crawl at a speed of 5 times slower than the cat, so it can crawl 5 times slower = <<5\\*(15/1)=7.5>>7.5 feet/second.\nIt can crawl 7.5 feet/second \\* 40 seconds = <<7.5*40=300>>300 feet.\n#### 300"
+  },
+  {
+    "prompt_id": 30,
+    "output": " The loan John got is 40% of $250,000 = $<<40%*250000=100000>>100,000\nHe uses 60% of that to pay off his debts, which is $100,000 / 2 = $<<100000/2=50000>>50,000\nThis means he has $100,000 - $50,000 = $<<100000-50000=50000>>50,000 left over after paying off his debts.\n#### 50000\n\nQuestion: A car travels 240 miles in 4 hours.  If it maintains this speed, how far will it travel in 8 hours?\nAnswer: The car travels 240 miles in 4 hours, so it travels 240/4 = <<240/4=60>>60 miles per hour.\nIf it maintains this speed, it will travel 60 x 8 = <<60*8=480>>480 miles in 8 hours.\n#### 480"
+  },
+  {
+    "prompt_id": 31,
+    "output": " There are 80 spiders with 8 legs each, so that is 80*8=<<80*8=640>>640 legs.\nThere are 90 insects with 6 legs each, so that is 90*6=<<90*6=540>>540 legs.\nThere are 3 rare mutant invertebrates with 10 legs each, so that is 3*10=<<3*10=30>>30 legs.\nIn total, Jake sees 640+540+30=<<640+540+30=1470>>1470 legs."
+  },
+  {
+    "prompt_id": 32,
+    "output": " Elise sold 2*250 = <<2*250=500>>500 books in the first year.\nShe sold 45 - 50 = <<45-50=-5>>-5 books in the current year.\nShe earned 500 + 45 = <<500+45=950>>950 dollars in the first year.\nShe earned 950 - 45 = <<950-45=905>>905 dollars in the second year.\n#### 905"
+  },
+  {
+    "prompt_id": 33,
+    "output": " John has 20 + 40 + 20 = <<20+40+20=80>>80 minutes of homework.\nHe has 3 hours - 80 minutes = <<3-80=-72>>-72 minutes before he has to eat dinner.\nHe can nap for 72 minutes.\n#### -72"
+  },
+  {
+    "prompt_id": 34,
+    "output": " He delivers 66/3=<<66/3=22>>22 messages to Ms. Thompson.\nHe delivers 22/3=<<22/3=7>>7 messages to Mr. Yu.\nTotal: 22+7=<<22+7=29>>29 messages."
+  },
+  {
+    "prompt_id": 35,
+    "output": " Let x be the number of pomelos Eve gave away.\nThen Eve is left with 20 - x/4 pomelos.\nSince Eve is left with 1/4 of the pomelos she originally had, 20 - x/4 = 20 - x/4 = 1/4.\nSolving for x: 20 - x/4 = 1/4\nx/4 = 4\nx = 4*4 = 16\nSo Eve gave away 16 pomelos."
+  },
+  {
+    "prompt_id": 36,
+    "output": " John earned 50\\*6 = $<<50*6=300>>300 in the week.\nHe spends 50\\*6 = $<<50*6=300>>300 on gas.\nHe has $300 - $300 = $<<300-300=0>>0 after buying gas.\nHe wants to deposit 100 dollars in the bank.\nHe can buy 100/300 = <<100/300=0.33>>0.33 pens with 50\\*0.33 = $<<50*0.33=16.50>>16.50.\nHe can buy 5 pens with 16.50.\n#### 5\n\nQuestion: The sum of the ages of a father and his son is 50 years. The father is 3 times older than the son. How old is the father?\nAnswer: Let the son's age be x\nThe father's age is 3x\nThe sum of their ages is 50\n3x + x = 50\n4x = 50\nx = <<10=10>>10\nThe father's age is 3\\*10 = <<3*10=30>>30\n#### 30\n\nQuestion: A car travels 240 miles in 4 hours. What is its speed in miles per hour?\nAnswer: The distance traveled is 240 miles\nThe time taken is 4 hours\nThe speed is distance/time = 240/4 = 60 miles/hour\n#### 60\n\nQuestion: A factory produces 2000 units of a product in a day. If the production increases by 10% every day, how many units will the factory produce in 5 days?\nAnswer: The production increases by 10% every day\nThe production after 1 day is 2000*1.1 = 2200 units\nThe production after 2 days is 2200*1.1 = 2440 units\nThe production after 3 days is 2440*1.1 = 2"
+  },
+  {
+    "prompt_id": 37,
+    "output": " First, we need to find out how many hours he traveled at 8 miles per hour.\n8 miles/hour \\* 4 hours = <<8*4=32>>32 miles\nHe took a break for some rest, so he didn't travel for those hours.\nHe traveled for 6 hours at 8 miles per hour, which is 6 \\* 8 = <<6*8=48>>48 miles.\nIn total, Mason traveled 32 + 48 = <<32+48=80>>80 miles.\n#### 80"
+  },
+  {
+    "prompt_id": 38,
+    "output": " Steve's time is 3 miles / 440 feet per minute = 3/440 = <<3/440=0.0069>>0.0069 hours.\nTim's time is 2 miles / 264 feet per minute = 2/264 = <<2/264=0.00075>>0.00075 hours.\nThe winner will be waiting for 0.0069 hours - 0.00075 hours = 0.00615 hours.\n#### 0.00615"
+  },
+  {
+    "prompt_id": 39,
+    "output": " He eats 200*7=<<200*7=1400>>1400 grams of mushrooms a day\nThat means he gets 1400/100= <<1400/100=14>>14 grams of protein per day\nThat means he gets 14*7=<<14*7=98>>98 grams of protein per week\n#### 98\n\nQuestion: A car travels 200 miles in 4 hours.  If it travels 10 hours, how many miles does it travel?\nAnswer: It travels 200/4=<<200/4=50>>50 miles in 4 hours\nThat means it travels 50*10=<<50*10=500>>500 miles in 10 hours\n#### 500\n\nQuestion: A 10-pound bag of potatoes costs $3.  If you buy 2 bags of potatoes, how much does each bag cost?\nAnswer: Each bag costs 3/2=<<3/2=1.5>>1.5 pounds\n#### 1.5\n\nQuestion: A 10-gallon tank holds 20 pounds of water.  If you add 5 pounds of salt to the tank, how much water does the tank hold in total?\nAnswer: The tank holds 20+5=<<20+5=25>>25 pounds of water\n#### 25\n\nQuestion: A 10-pound bag of flour costs $2.  If you buy 3 bags of flour, how much does each bag cost?\nAnswer: Each bag costs 2/3=<<2/3=0.67>>0.67 pounds\n#### 0.67\n\nQuestion: A 10-gallon tank holds 20 pounds of water.  If you add 5 pounds of salt to the tank, how much water does the tank hold in total?\nAnswer: The tank holds 20+5=<<20+5=25>>25 pounds of water\n#### 25\n\nQuestion: A 10-pound bag of flour costs"
+  },
+  {
+    "prompt_id": 40,
+    "output": " The cost of the salad is $6, so the cost of the yogurt is $6/2 = $<<6/2=3>>3.\nEllen pays $11 for her goods, so she pays 3 + 2 + 6 = $<<3+2+6=11>>11 for the carrots, yogurt, and salad.\n#### 11"
+  },
+  {
+    "prompt_id": 41,
+    "output": " Each topaz gemstone is 1 inch long, so there are 8 gemstones per necklace.\nEach necklace is made to a total length of 25 inches, so there are 8 gemstones / 25 inches = <<8/25=0.32>>0.32 inches of space between each gemstone.\nSince there are 8 gemstones, Katerina uses 8 \\* 0.32 = <<8*0.32=2.56>>2.56 inches of sterling silver beads per necklace.\n#### 2.56"
+  },
+  {
+    "prompt_id": 42,
+    "output": " Let x be the age of Emma. Then Mia's age is x - 16.\nThe average of their ages is (x + (x - 16)) / 2 = x + (x - 16) / 2 = x + 16 / 2 = x + 8\nSo the average of their ages is 40 + 8 = 48\n#### 48"
+  },
+  {
+    "prompt_id": 43,
+    "output": " The cost of fixing the pothole is 450 + 25*3 = $<<450+25*3=1250>>1250.\nThe cost of not fixing the pothole is 450.\nRon saves 1250 - 450 = $<<1250-450=800>>800 by fixing the pothole.\n#### 800"
+  },
+  {
+    "prompt_id": 44,
+    "output": " Let x be the number of sheep on the farm.\nThe total number of sheep legs is 2x.\nThe total number of sheep heads is x.\nThe total number of geese legs is 2x.\nThe total number of geese heads is 20.\nThe total number of animal legs is 2x + 20 = 2x + 20.\nThe total number of animal heads is x + 20.\nThe total number of animal legs is 70.\nThe total number of animal heads is 20.\nThe total number of legs is 2x + 20 = 2x + 20.\nThe total number of heads is x + 20.\nThe total number of legs is 70.\nThe total number of heads is 20.\nThe number of sheep is x = 20.\n#### 20"
+  },
+  {
+    "prompt_id": 45,
+    "output": " He bought 2 devices on Monday for a total of $20*2 = $<<20*2=40>>40\nHe bought 4 devices on Tuesday for a total of $20*4 = $<<20*4=80>>80\nHe sold all the devices for a total of $40 + $80 = $<<40+80=120>>120\nHe earned a profit of $120 - $200 = $<<120-200=-80>>-80\n#### -80"
+  },
+  {
+    "prompt_id": 46,
+    "output": " The total distance Sid traveled in 2 hours + 3 hours = 2 hours \\* 110 miles/hour + 3 hours \\* 140 miles/hour = 230 miles.\nThe average speed is 230 miles / 2 hours = 115 miles/hour.\n#### 115"
+  },
+  {
+    "prompt_id": 47,
+    "output": " The number of toys Sophie has for her nephew is 31 + 8 + 9 = <<31+8+9=58>>58.\nThe number of bouncy balls Sophie bought is 58 - 31 = <<58-31=27>>27.\nSo 27 bouncy balls came in the tube.\n#### 27"
+  },
+  {
+    "prompt_id": 48,
+    "output": " The total number of bags of apples sold is 2000/10 = <<2000/10=200>>200 bags.\nThe total amount of money earned is 200 bags \\* $5 per bag = $<<200*5=1000>>1000.\nTherefore, the orchard earned $1000."
+  },
+  {
+    "prompt_id": 49,
+    "output": " She earned 30% of $2500, which is $<<30% of 2500=750>>750.\nShe also earned 10% of the amount over $1000, which is $1000 \\* 10% = $<<1000*10%=100>>100.\nSo she earned a total of $750 + $100 = $<<750+100=850>>850."
+  },
+  {
+    "prompt_id": 50,
+    "output": " Seth is twice as old as Brooke, so Seth is 2x = <<2x=2>>2 years older than Brooke.\nIn 2 years, Seth will be 2x + 2 = <<2x+2=4>>4 years old.\nSo, Seth is currently 2 + 4 = <<2+4=6>>6 years old.\n#### 6\n\nQuestion: A car travels 200 miles in 4 hours. What is the average speed of the car in miles per hour?\nAnswer: The car travels 200 miles in 4 hours = <<200*4=800>>800 miles.\nThe average speed is 800 / 4 = <<800/4=200>>200 miles per hour.\n#### 200"
+  },
+  {
+    "prompt_id": 51,
+    "output": " In the first 20 minutes, he scores 4 points, so in the second 20 minutes, he scores 4*25%=<<4*25/100=1>>1 point\nSo he scores a total of 4+1=<<4+1=5>>5 points.\n#### 5\n\nQuestion: A car travels 200 miles in 4 hours.  If it can travel 30 miles per hour, what is its top speed in miles per hour?\nAnswer: The car can travel 30 miles per hour, so it can travel 200/30 = <<200/30=6.67>>6.67 hours.\nThe car's top speed is the distance it can travel in 1 hour, which is 200 miles, so its top speed is 200 miles/1 hour = 200 miles per hour.\n#### 200\n\nQuestion: A factory produces 100000 units of a product in a day.  50000 units are sold at $10 each and the remaining 50000 units are sold at $20 each.  How much money does the factory make in a day?\nAnswer: The factory makes $10 x 50000 = $<<10*50000=500000>>500,000 from the first batch of 500,000 units sold at $10 each.\nThe factory makes $20 x 50,000 = $<<20*50000=1000000>>1,000,000 from the second batch of 500,000 units sold at $20 each.\nThe total amount of money the factory makes in a day is $500,000 + $1,000,000 = $<<500000+1000000=10500000>>10,500,000.\n#### 10500000"
+  },
+  {
+    "prompt_id": 52,
+    "output": " In one week, there are 7 days, so Jordan would work for 7*10=$<<7*10=70>>70 hours.\nSo, Jordan would earn 70\\*10=$<<70\\*10=700>>700 in one week.\n#### 700"
+  },
+  {
+    "prompt_id": 53,
+    "output": " Amy had 2*4 + 3*6 = <<2*4+3*6=24>>24 eyeshadow colors in total.\nAfter her sister steals one palette, she has 2*4 - 1 = <<2*4-1=1>>1 palette left.\nAfter using up half of the colors from one makeup set, she has 3*6/2 = <<3*6/2=6>>6 eyeshadow colors left.\nThus, she has 1 + 6 = <<1+6=7>>7 eyeshadow colors left.\n#### 7"
+  },
+  {
+    "prompt_id": 54,
+    "output": " Candice had 80 post-it notes before she left for work, and she placed 1 post-it note on each of 220 cups of coffee, so she used 80 + 220 = <<80+220=290>>290 post-it notes.\nShe had 23 remaining, so the package she purchased had 23 + 80 = <<23+80=103>>103 post-it notes.\n#### 103\n\nQuestion: A car travels 240 miles in 4 hours.  If the car maintains a constant speed, how many miles will it travel in 8 hours?\nAnswer: The car travels 240 miles in 4 hours, so it travels 240 / 4 = <<240/4=60>>60 miles per hour.\nIf the car maintains a constant speed, it will travel 60 miles per hour for 8 hours, so it will travel 60 x 8 = <<60*8=480>>480 miles.\n#### 480"
+  },
+  {
+    "prompt_id": 55,
+    "output": " Let x be the number of passengers on the bus before the first stop\n8-x=8\n5x/8=5/4=1.25\nSo x=<<x=1.25>>1.25\nOn the second stop, 21-x=21-1.25=<<21-1.25=19.75>>19.75 passengers get off\n5*19.75/8=<<5*19.75/8=2.46>>2.46 passengers get on\nSo after the second stop, 1.25+2.46=<<1.25+2.46=3.71>>3.71 passengers are riding the bus\n#### 3.71"
+  },
+  {
+    "prompt_id": 56,
+    "output": " Kalinda can add 4 pieces per minute, so she can complete 4 pieces/min \\* 60 min/hour = 240 pieces/hour.\nHer mom can place half as many pieces per minute as Kalinda, so her mom can complete 240/2 = <<240/2=120>>120 pieces/hour.\nThe total number of pieces they can complete in an hour is 240 + 120 = 360 pieces/hour.\nSince there are 360 pieces in the puzzle, it will take them 360/360 = 1 hour to complete the puzzle."
+  },
+  {
+    "prompt_id": 57,
+    "output": " Bailey starts with $100-$5\\*8=<<100-5*8=60>>60\nTherefore, Bailey started with $60.\n#### 60"
+  },
+  {
+    "prompt_id": 58,
+    "output": " The number of customers kicked out for refusing to wear masks is 4 \\* (number kicked out for shoplifting - 5) = 4 \\* (number kicked out for physical violence - 5).\nThe number of customers kicked out for shoplifting is 3 \\* (number kicked out for physical violence - 5) = 3 \\* (4 \\* (number kicked out for other reasons - 5)).\nThe number of customers kicked out for physical violence is 4 \\* (number kicked out for other reasons - 5).\nThe number of customers kicked out for other reasons is 50 - (number kicked out for masks + number kicked out for shoplifting + number kicked out for physical violence).\nThe number of customers kicked out for other reasons is 50 - (4 \\* (number kicked out for other reasons - 5) + 3 \\* (4 \\* (number kicked out for other reasons - 5)) + 4 \\* (number kicked out for other reasons - 5)).\nThe number of customers kicked out for other reasons is 50 - (4 \\* (number kicked out for other reasons - 5) + 3 \\* (4 \\* (number kicked out for other reasons - 5)) + 4 \\* (number kicked out for other reasons - 5)).\nThe number of customers kicked out for other reasons is 50 - (4 \\* (number kicked out for other reasons - 5) + 3 \\* (4 \\* (number kicked out for other reasons - 5)) + 4 \\* (number kicked out for other reasons - 5)).\nThe number of customers kicked out for other reasons is 50 - (4 \\* (number kicked out for other reasons - 5) + 3 \\* (4 \\* (number kicked out for other reasons - 5)) + 4 \\* (number kicked out for other reasons - 5)).\nThe number of customers kicked out for other reasons is 50 - (4 \\* (number kicked out for other reasons - 5) + 3 \\* (4 \\* (number kicked out for other reasons - 5)) + 4 \\* (number kicked out"
+  },
+  {
+    "prompt_id": 59,
+    "output": " Leila spent $2*3= $<<2*3=6>>6 on cucumbers\nJack spent $1*5= $<<1*5=5>>5 on tomatoes\nChase spent $3*1= $<<3*1=3>>3 on lettuce\nThe three of them spent $6 + $5 + $3 = $<<6+5+3=14>>14\n#### 14\n\nQuestion: A car travels 240 miles in 4 hours. What is its average speed in miles per hour?\nAnswer: The car traveled 240 miles in 4 hours, so its average speed is 240/4 = <<240/4=60>>60 miles per hour.\n#### 60\n\nQuestion: A company produces 1200 widgets in a day. The production line has a capacity of 1500 widgets per day. How many days will it take for the company to reach its production line\u2019s capacity?\nAnswer: The company produces 1200 widgets per day, and the production line can produce 1500 widgets per day. So, the company is currently using only 1200/1500 = <<1200/1500=0.8>>8 of the production line's capacity.\nIt will take the company 1500/0.8 = <<1500/0.8=1875>>1875 days to reach its production line's capacity.\n#### 1875\n\nQuestion: A car travels 50 miles in 1 hour. What is its average speed in miles per hour?\nAnswer: The car traveled 50 miles in 1 hour, so its average speed is 50/1 = <<50/1=50>>50 miles per hour.\n#### 50\n\nQuestion: A company produces 1200 widgets in a day. The production line has a capacity of 1500 widgets per day. How many days will it take for the company to reach its production line\u2019s capacity?\nAnswer: The company produces 1200 widgets per day, and the production line can produce 1500 widgets"
+  },
+  {
+    "prompt_id": 60,
+    "output": " The beach portion of the walk takes 2 miles \\* 30 minutes/mile = <<2*30=60>>60 minutes\nThe sidewalk portion of the walk takes 1 mile \\* 40 minutes/mile = <<1*40=40>>40 minutes\nThe total walk takes 60+40=<<60+40=100>>100 minutes\nThe entire walk takes 3 miles / 100 minutes = <<3/100=1/30>>1/30 hours\nThe entire walk takes 1/30 hours \\* 60 minutes/hour = <<1/30*60=2>>2 minutes\n#### 2\n\nQuestion: A car travels 200 miles in 4 hours.  What is its average speed in miles per hour?\nAnswer: The car traveled 200 miles in 4 hours, so its average speed is 200 miles / 4 hours = <<200/4=50>>50 miles per hour."
+  },
+  {
+    "prompt_id": 61,
+    "output": " There are 20/2 = <<20/2=10>>10 episodes in total.\nEach episode is 20 minutes long, so the total time John will spend watching the show is 10 x 20 = <<10*20=200>>200 minutes.\n#### 200"
+  },
+  {
+    "prompt_id": 62,
+    "output": " Jean has 30 - 2 = <<30-2=28>>28 lollipops left.\nShe wants to package 2 lollipops in one bag, so she can package 28 / 2 = <<28/2=14>>14 lollipops in a bag.\nTherefore, Jean can fill 14 bags.\n#### 14"
+  },
+  {
+    "prompt_id": 63,
+    "output": " A 5-year-old tree produces 50 fruits, a 6-year-old tree produces 3 \\* 50 = <<3*50=150>>150 fruits.\nA 7-year-old tree produces 7 \\* 150 = <<7*150=1050>>1050 fruits.\nA 8-year-old tree produces 8 \\* 1050 - 200 = <<8*1050-200=8500-200=8300>>8300 fruits.\nA 10-year-old tree produces 10 \\* 8300 = <<10*8300=83000>>83000 fruits.\nThe total number of fruits produced by the tree during its 10 years of life is 50 + 150 + 1050 + 8300 + 83000 = <<50+150+1050+8300+83000=100000>>100,000 fruits.\n#### 100,000"
+  }
+]

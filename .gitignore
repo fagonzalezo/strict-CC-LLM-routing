@@ -1,0 +1,61 @@
+# Dataset bundles, encoders and raw prediction dumps — regenerable by the tier-B pipeline
+# (src/data_pipeline/) or by rerunning an experiment runner, never committed. Tier A needs none
+# of these: every number in the paper is derived from the JSON committed under experiments/.
+*.pkl
+*.npz
+*.pt
+*.pth
+*.npy
+
+# Upstream downloads (RouterEval, EmbedLLM) — fetched by src/data_pipeline/*/download_data.py.
+# Only the authors' own files under data/embedllm/raw/ are tracked.
+data/router-eval/raw/*
+!data/router-eval/raw/.gitkeep
+data/embedllm/raw/*
+!data/embedllm/raw/.gitkeep
+!data/embedllm/raw/model_list.csv
+!data/embedllm/raw/model_outputs/
+
+# Build reports written next to the bundles.
+data/*/processed/*.md
+data/*/processed/*.json
+data/*/reports/
+
+# MLPDot-encoded representation bundles (src/data_pipeline/*/encode_embeddings_mlpdot.py).
+# Path-scoped because these directories also hold loose .json files.
+data/*/processed/mlpdot_encoded_seed*/
+
+# Metadata-representation variant bundles (src/data_pipeline/metadata/build_metadata_bundle.py),
+# each with its own nested mlpdot_encoded_seed*/ output.
+data/*/processed/metadata_variants/
+
+# Fingerprint pipeline outputs: per-model probe answers and encoded fingerprints.
+# data/fingerprints/probes/ (the shared probe set) IS committed.
+data/fingerprints/answers/
+data/fingerprints/router-eval/
+data/fingerprints/embedllm/
+
+# Narrative reports and plots that aggregators write next to the committed results/.
+experiments/**/reports/
+
+# Tier-A outputs — regenerate with `bash src/paper/reproduce_all.sh`.
+/paper/
+
+# Byte-compiled
+__pycache__/
+*.py[cod]
+
+# Run logs
+**/logs/
+
+# OS / editor / environments
+.DS_Store
+.venv/
+venv/
+.pytest_cache/
+
+# Claude Code (project settings, memory files, MCP config) — at any depth
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+.mcp.json

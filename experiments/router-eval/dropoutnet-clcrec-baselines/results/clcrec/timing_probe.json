@@ -1,0 +1,14 @@
+{
+  "config": {
+    "lambda_re": 0.25,
+    "tau": 0.05,
+    "seed": 0
+  },
+  "fit_s": 104.96,
+  "device": "cuda",
+  "val_bce": 0.651839,
+  "n_train_q": 22906,
+  "n_train_l": 2999,
+  "test_cost_auc": 0.662854,
+  "test_pq_auc": 0.730688
+}

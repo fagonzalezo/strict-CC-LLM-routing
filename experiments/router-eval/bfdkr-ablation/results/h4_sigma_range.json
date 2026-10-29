@@ -1,0 +1,35 @@
+{
+  "per_seed": [
+    {
+      "seed": 0,
+      "full_sigma_y_mult": 0.067826,
+      "full_ext_sigma_y_mult": 0.068437,
+      "full_pinned_at_old_floor": false,
+      "full_ext_moved_below_floor": false,
+      "delta_cost_auc": -0.000301,
+      "delta_pq_auc": -8e-06
+    },
+    {
+      "seed": 1,
+      "full_sigma_y_mult": 0.063581,
+      "full_ext_sigma_y_mult": 0.05616,
+      "full_pinned_at_old_floor": true,
+      "full_ext_moved_below_floor": true,
+      "delta_cost_auc": 0.000801,
+      "delta_pq_auc": 0.000805
+    },
+    {
+      "seed": 2,
+      "full_sigma_y_mult": 0.0728,
+      "full_ext_sigma_y_mult": 0.071199,
+      "full_pinned_at_old_floor": false,
+      "full_ext_moved_below_floor": false,
+      "delta_cost_auc": -0.000765,
+      "delta_pq_auc": 3.2e-05
+    }
+  ],
+  "old_floor": 0.0625,
+  "n_seeds_pinned_at_old_floor": 1,
+  "n_seeds_moved_below_floor": 1,
+  "H4_range_limited": false
+}

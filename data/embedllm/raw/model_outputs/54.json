@@ -1,0 +1,258 @@
+[
+  {
+    "prompt_id": 0,
+    "output": ""
+  },
+  {
+    "prompt_id": 1,
+    "output": ""
+  },
+  {
+    "prompt_id": 2,
+    "output": " Half of the hats are red, so there are 100 / 2 = <<100/2=50>>50 red hats.\nThe remaining hats are blue and white, so there are 100 - 50 = <<100-50=50>>50 hats that are not red.\n3/5 of the remaining hats are blue, so there are 50 * 3/5 = <<50*3/5=30>>30 blue hats.\nThe rest of the hats are white, so there are 50 - 30 = <<50-30=20>>20 white hats.\n#### 20"
+  },
+  {
+    "prompt_id": 3,
+    "output": ""
+  },
+  {
+    "prompt_id": 4,
+    "output": ""
+  },
+  {
+    "prompt_id": 5,
+    "output": ""
+  },
+  {
+    "prompt_id": 6,
+    "output": ""
+  },
+  {
+    "prompt_id": 7,
+    "output": ""
+  },
+  {
+    "prompt_id": 8,
+    "output": " Robert, Cindy, and Aaron have a total of 3 + 5 + 4 = <<3+5+4=12>>12 pounds of candy.\nIf they pool and share their candy equally, each of them would have 12 / 3 = <<12/3=4>>4 pounds of candy.\n#### 4"
+  },
+  {
+    "prompt_id": 9,
+    "output": ""
+  },
+  {
+    "prompt_id": 10,
+    "output": " The total cost for the chicken salad is 10 people * $6.50/person = $65.00\nThe total cost for the pasta salad is 6 people * $6.00/person = $36.00\nThe total cost for the catering is $65.00 + $36.00 = $101.00\n#### 101"
+  },
+  {
+    "prompt_id": 11,
+    "output": ""
+  },
+  {
+    "prompt_id": 12,
+    "output": ""
+  },
+  {
+    "prompt_id": 13,
+    "output": ""
+  },
+  {
+    "prompt_id": 14,
+    "output": ""
+  },
+  {
+    "prompt_id": 15,
+    "output": ""
+  },
+  {
+    "prompt_id": 16,
+    "output": ""
+  },
+  {
+    "prompt_id": 17,
+    "output": ""
+  },
+  {
+    "prompt_id": 18,
+    "output": ""
+  },
+  {
+    "prompt_id": 19,
+    "output": ""
+  },
+  {
+    "prompt_id": 20,
+    "output": ""
+  },
+  {
+    "prompt_id": 21,
+    "output": ""
+  },
+  {
+    "prompt_id": 22,
+    "output": " First, let's calculate the number of enemies each player jumps on. Ava jumps on 8 more enemies than Emma, so we add 8 to Emma's score:\n\nEmma's score = Number of enemies Emma jumps on\nAva's score = Emma's score + 8\n\nNext, let's calculate the number of berries each player collects. Ava collects 3 more berries than Emma, so we add 3 to Emma's score:\n\nEmma's score = Number of berries Emma collects\nAva's score = Emma's score + 3\n\nNow, let's calculate the time each player takes to finish the level. Ava finishes 4 seconds slower than Emma, so we subtract 4 from Emma's score:\n\nEmma's score = Time Emma takes to finish the level\nAva's score = Time Emma takes to finish the level - 4\n\nFinally, we calculate the total score for each player by multiplying their score by the points they receive for each action:\n\nEmma's total score = Emma's score * Points per enemy\nAva's total score = Ava's score * Points per enemy\n\nThe difference between their two scores is:\n\nDifference = Ava's total score - Emma's total score\n\nLet's calculate these values step by step.\n\nEmma's score = Number of enemies Emma jumps on\nAva's score = Emma's score + 8\n\nEmma's score = 8\nAva's score = 8 + 8 = 16\n\nEmma's score = Number of berries Emma collects\nAva's score = Emma's score + 3\n\nEmma's score = 3\nAva's score = 3 + 3 = 6\n\nEmma's score = Time Emma takes to finish the level\nAva's score = Time Emma takes to finish the level - 4\n\nEmma's score = 4\nAva's score = 4 - 4 = 0\n\nEmma's total score = Emma's score * Points per enemy\nAva's total score = Ava's score * Points per enemy\n\nEmma's total score = 8 * 10\nAva's total score = 6 * 10\n\nDifference = Ava's total score - Emma's total score\n\nDifference = 60 - 80\n\nDifference = -20\n\nThe difference between their two scores is -20 points. However, since the total score cannot be negative, there must be an error in the calculation. Let's check the values again:\n\nEmma's score = Number"
+  },
+  {
+    "prompt_id": 23,
+    "output": ""
+  },
+  {
+    "prompt_id": 24,
+    "output": ""
+  },
+  {
+    "prompt_id": 25,
+    "output": ""
+  },
+  {
+    "prompt_id": 26,
+    "output": ""
+  },
+  {
+    "prompt_id": 27,
+    "output": ""
+  },
+  {
+    "prompt_id": 28,
+    "output": ""
+  },
+  {
+    "prompt_id": 29,
+    "output": ""
+  },
+  {
+    "prompt_id": 30,
+    "output": ""
+  },
+  {
+    "prompt_id": 31,
+    "output": ""
+  },
+  {
+    "prompt_id": 32,
+    "output": ""
+  },
+  {
+    "prompt_id": 33,
+    "output": ""
+  },
+  {
+    "prompt_id": 34,
+    "output": ""
+  },
+  {
+    "prompt_id": 35,
+    "output": ""
+  },
+  {
+    "prompt_id": 36,
+    "output": ""
+  },
+  {
+    "prompt_id": 37,
+    "output": " Mason travels 8*4 = <<8*4=32>>32 miles in the first 4 hours.\nHe travels 8*6 = <<8*6=48>>48 miles in the next 6 hours.\nMason travels 32+48 = <<32+48=80>>80 miles in total.\n#### 80"
+  },
+  {
+    "prompt_id": 38,
+    "output": ""
+  },
+  {
+    "prompt_id": 39,
+    "output": ""
+  },
+  {
+    "prompt_id": 40,
+    "output": " The cost of the yogurt is 6 / 2 = $3.\nSo, the total cost of the salad and the yogurt is 6 + 3 = $9.\nThat means, the cost of one carrot is 11 - 9 = $2.\n#### 2"
+  },
+  {
+    "prompt_id": 41,
+    "output": ""
+  },
+  {
+    "prompt_id": 42,
+    "output": ""
+  },
+  {
+    "prompt_id": 43,
+    "output": " Ron will save $450 - $120 = $<<450-120=330>>330 by fixing the pothole himself.\nThe total cost of the asphalt is 3 buckets * $25/bucket = $<<3*25=75>>75.\nSo, Ron will save $330 - $75 = $<<330-75=255>>255 by fixing the pothole himself.\n#### 255"
+  },
+  {
+    "prompt_id": 44,
+    "output": ""
+  },
+  {
+    "prompt_id": 45,
+    "output": ""
+  },
+  {
+    "prompt_id": 46,
+    "output": ""
+  },
+  {
+    "prompt_id": 47,
+    "output": ""
+  },
+  {
+    "prompt_id": 48,
+    "output": ""
+  },
+  {
+    "prompt_id": 49,
+    "output": ""
+  },
+  {
+    "prompt_id": 50,
+    "output": ""
+  },
+  {
+    "prompt_id": 51,
+    "output": ""
+  },
+  {
+    "prompt_id": 52,
+    "output": ""
+  },
+  {
+    "prompt_id": 53,
+    "output": " Amy had 2 palettes * 4 colors/palette = <<2*4=8>>8 colors.\nShe had 3 makeup sets * 6 colors/set = <<3*6=18>>18 colors.\nAfter her sister steals one palette, she has 8 - 1 = <<8-1=7>>7 colors.\nAfter using up half of the colors from one makeup set, she has 7 - 6 = <<7-6=1>>1 color left.\n#### 1"
+  },
+  {
+    "prompt_id": 54,
+    "output": " Candice put 80 + 23 = <<80+23=103>>103 post-it notes in her purse.\nShe placed a single post-it note on each of 220 different cups of coffee, so she used 220 post-it notes.\nTherefore, the package of post-it notes that she purchased had 103 - 220 = <<103-220=-117>>-117 post-it notes.\nHowever, it is not possible to have a negative number of post-it notes in a package, so there must be an error in the problem. Please double-check the information provided."
+  },
+  {
+    "prompt_id": 55,
+    "output": ""
+  },
+  {
+    "prompt_id": 56,
+    "output": ""
+  },
+  {
+    "prompt_id": 57,
+    "output": ""
+  },
+  {
+    "prompt_id": 58,
+    "output": ""
+  },
+  {
+    "prompt_id": 59,
+    "output": " Leila spends 3*2=$<<3*2=6>>6 on cucumbers.\nJack spends 5*1=$<<5*1=5>>5 on tomatoes.\nChase spends 3*1=$<<3*1=3>>3 on lettuce.\nTogether, they spend 6+5+3=$<<6+5+3=14>>14 to make a salad for the potluck.\n#### 14"
+  },
+  {
+    "prompt_id": 60,
+    "output": ""
+  },
+  {
+    "prompt_id": 61,
+    "output": " There are 20*2=<<20*2=40>>40 minutes per episode.\nThere are 40/2=<<40/2=20>>20 episodes.\nSo, John will spend 20*20=<<20*20=400>>400 minutes watching the show.\n#### 400"
+  },
+  {
+    "prompt_id": 62,
+    "output": ""
+  },
+  {
+    "prompt_id": 63,
+    "output": ""
+  }
+]

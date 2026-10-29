@@ -1,0 +1,258 @@
+[
+  {
+    "prompt_id": 0,
+    "output": "OnacolddayRaytakes3x16=<<3*16=48>>48minutesOnahotdayRaytakes3x(2x16)=<<3*(2*16)=96>>96minutesSo,Raytakes48-96=<<48-96=-48>>-48minuteslongeronahotdaythanacoldday.####-48\u010a<jupyter_code>\u010a#\u0120Answer:\u0120\u010a\u010a#\u01201.\u0120There\u0120are\u012032\u0120students\u0120in\u0120a\u0120statistics\u0120course.\u012025%\u0120of\u0120the\u0120class\u0120received\u0120an\u0120A.\u01201/4\u0120of\u0120the\u0120remaining\u0120students\u0120got\u0120either\u0120a\u0120B\u0120or\u0120C,\u0120and\u0120the\u0120rest\u0120of\u0120the\u0120students\u0120failed.\u0120How\u0120many\u0120students\u0120failed?\u010a\u010a#\u0120Answer:\u012018\u0120students\u0120failed.\u010a\u010a#\u01202.\u0120Carson\u0120is\u0120a\u0120night\u0120security\u0120guard.\u0120He's\u0120supposed\u0120to\u0120patrol\u0120the\u0120outside\u0120of\u0120a\u0120warehouse\u0120that's\u0120600\u0120feet\u0120long\u0120and\u0120400\u0120feet\u0120wide.\u0120If\u0120Carson\u0120is\u0120supposed\u0120to\u0120circle\u0120the\u0120warehouse\u012010\u0120times,\u0120but\u0120gets\u0120tired\u0120and\u0120skips\u01202\u0120times,\u0120how\u0120far\u0120does\u0120he\u0120walk\u0120in\u0120one\u0120night?\u010a\u010a#\u0120Answer:\u012016,000\u0120feet.\u010a\u010a#\u01203.\u0120Derek\u0120has\u0120$40.\u0120He\u0120spends\u0120$14\u0120on\u0120lunch\u0120for\u0120himself,\u0120$11\u0120for\u0120lunch\u0120for\u0120his\u0120dad,\u0120and\u0120$5\u0120on\u0120more\u0120lunch\u0120for\u0120himself.\u0120His\u0120brother\u0120Dave\u0120has\u0120$50\u0120and\u0120only\u0120spends\u0120$7\u0120on\u0120lunch\u0120for\u0120his\u0120mom.\u0120How\u0120much\u0120more\u0120money\u0120does\u0120Dave\u0120have\u0120left\u0120than\u0120Derek?\u010a\u010a#\u0120Answer:\u0120Dave\u0120has\u0120$33\u0120more\u0120than\u0120Derek.\u010a\u010a#\u01204.\u0120Five\u0120dozens\u0120of\u0120people\u0120are\u0120attending\u0120your\u0120family\u0120reunion.\u0120Your\u0120family\u0120was\u0120assigned\u0120to\u0120bring\u0120the\u0120cans\u0120of\u0120soda.\u0120Each\u0120box\u0120of\u0120soda\u0120contains\u012010\u0120cans\u0120and\u0120costs\u0120$2\u0120per\u0120box.\u0120It\u0120was\u0120assumed\u0120that\u0120each\u0120person\u0120can\u0120consume\u01202\u0120cans\u0120of\u0120soda.\u0120If\u0120you\u0120are\u0120six\u0120in\u0120the\u0120family\u0120and\u0120agreed\u0120to\u0120pay\u0120equally\u0120for\u0120the\u0120cost,\u0120how\u0120much\u0120will\u0120each\u0120of\u0120your\u0120family\u0120members\u0120pay?\u010a\u010a#\u0120Answer:\u0120Each\u0120family\u0120member\u0120will\u0120pay\u0120$4.\u010a\u010a#\u01205.\u0120Tim\u0120hosts\u0120a\u0120show\u0120and\u0120they\u0120film\u0120multiple\u0120episodes\u0120per\u0120day.\u0120Each\u0120episode\u0120is\u012020\u0120minutes\u0120long\u0120and\u0120it\u0120takes\u012050%\u0120longer\u0120than\u0120that\u0120to\u0120film"
+  },
+  {
+    "prompt_id": 1,
+    "output": "Afteraccountingfor950seatsforgraduatesand300seatsforfacultyattending,AppleHighSchoolhas450seatsleft.Iftheticketsaresplitequally,eachgraduatewillreceiveticketsfor450seats/6000people=<<450/6000=0.0075>>0.0075of6000people.####0.0075Question:Ashleyisorganizingherpencils,anddecidesshewantsherboxesarrangedbycolor.Eachboxholds20pencilseach.Shehas20redpencils,twiceasmanybluepencils,40yellowpencils,andhasasmanygreenpencilsasshehasredandbluepencilscombined.HowmanyboxesdoesAshleyneed?Answer:Ashleyhas20redpencils*2=<<20*2=40>>40bluepencils.Shethereforehas20redpencils+40bluepencils=<<20+40=60>>60greenpencils.Intotal,shehas20redpencils+40bluepencils+60greenpencils+40yellowpencils=<<20+40+60+40=160>>160pencils.Aseachboxholds20pencils,sheneeds160pencils/20pencils/box=<<160/20=8>>8boxes.####8Question:JerrywascontractedtoworkonahousebyhisneighborMissStevie.Thetimeittookhimtofixthebrokenkitchencounterwasthreetimeslongerthanthetimehetookpaintingthehouse.Hetook8hourspaintingthehouseandthenhelpedmowMissStevie'slawn,taking6hours.IfhechargedMissStevie$15perhourofwork,calculatetheamountofmoneythatMissSteviepaidhim.Answer:Jerrytook2*8=24hoursfixingthebrokenkitchencounterTogether,paintingthehouseandfixingthebroken"
+  },
+  {
+    "prompt_id": 2,
+    "output": "Halfof100hatsarered,soSkylerhas100/2=<<100/2=50>>50redhats.3/5of100hatsareblue,soSkylerhas3/5*100=<<3/5*100=60>>60bluehats.Therestarewhite,soSkylerhas100-50-60=<<100-50-60=10>>10whitehats.####10Question:Ashleyhas1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "prompt_id": 3,
+    "output": "Thereare2houses,eachwith3bedrooms,andeachbedroomhas2windows,so2*3*2=<<2*3*2=12>>12windows.Thereare4additionalwindowsineachhouse,so2*4=<<2*4=8>>8.Addingthewindowsbetweenthehousesandthewindowsinthebedrooms,thereare12+8=<<12+8=20>>20windows.####20Question:Jennahas1000dollars.Shebought500dollarsworthofapples.HowmuchmoneydoesJennahaveleft?Answer:Jennahas1000dollarsandshespent500dollarsonapples,so1000-500=<<1000-500=500>>500dollarsleft.####500Question:Jennahas1000dollars.Shebought500dollarsworthofapples.HowmuchmoneydoesJennahaveleft?Answer:Jennahas1000dollarsandshespent500dollarsonapples,so1000-500=<<1000-500=500>>500dollarsleft.####500Question:Jennahas1000dollars.Shebought500dollarsworthofapples.HowmuchmoneydoesJennahaveleft?Answer:Jennahas1000dollarsandshespent500dollarsonapples,so1000-500=<<1000-500=500>>500dollarsleft.####500Question:Jennahas1000dollars.Shebought500dollarsworthofapples.HowmuchmoneydoesJennahaveleft?Answer:Jennahas1000dollarsandshespent500dollarsonapples,so1000-500=<<1000-500=500>>500dollarsleft.####500"
+  },
+  {
+    "prompt_id": 4,
+    "output": "Inamonth,Tysonruns5000meters*30days=<<5000*30=150000>>150000meters.Hewouldrun1/5timesmoremetersinaday,sohewouldrun5000meters*30days*1/5=<<5000*30*1/5=30000>>30000metersmore.Foratotalof150000+30000=<<150000+30000=180000>>180000meters.####180000Question:Ashley'snewjobrequireshertobepreparedforthesevenhazardousmaterials.Shehas1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "prompt_id": 5,
+    "output": "Billy'sstartingsalaryis$10perhour,andafter2months,hewasgivenaraiseof$0.50perhour,sohisnewrateis$10+0.50=$<<10+0.5=10.5>>10.5perhour.Sally'sstartingsalaryis$0.50morethanBilly's,soherstartingsalaryis$10.5+$0.50=$<<10.5+0.5=11>>11perhour.Billyearns20hours*$10.5=$<<20*10.5=210>>210dollars,Sallyearns20hours*$11=$<<20*11=220>>220dollars,SoBillyearns220-210=$<<220-210=10>>10moredollarsthanSally.####10\u010a"
+  },
+  {
+    "prompt_id": 6,
+    "output": "Firstfindthetotalcostofimplants:2implants*$2000=<<2*2000=4000>>4000.Thenfindthetotalcostofimplantsandcrown:4000+$500=<<4000+500=4500>>4500.Thenfindthetotalcostofimplants,crown,anddeposit:4500+$600=<<4500+600=5100>>5100.Thenfindthenumberofhoursheneeds:5100/$15=<<5100/15=340>>340hours####340Question:Thecostofonebottleofwineis$10.Thecostofonebottleofbeeris$8.Thecostofonebottleofwhiskeyis$12.Howmanybottlesofwine,beer,andwhiskeydoesSallyneedtobuytotalsavingsof$1000?Firstfindthetotalcostofonebottleofwine,beer,andwhiskey:$10+$8+$12=<<10+8+12=30>>30.Thenfindthetotalnumberofbottlesofwine,beer,andwhiskey:$1000/$30=<<1000/30=33>>33bottles.Thenfindthenumberofbottlesofwine:33/3=<<33/3=11>>11bottles.Thenfindthenumberofbottlesofbeer:33/3=<<33/3=11>>11bottles.Thenfindthenumberofbottlesofwhiskey:33/3=<<33/3=11>>11bottles.####11,11,11\u010a"
+  },
+  {
+    "prompt_id": 7,
+    "output": "Johnpicked4bananasonWednesday.Thenhepicked6bananasonThursday.OnFriday,hepicked3timesthenumberofbananashedidonWednesday.So,Johnpicked4+6+3*4=<<4+6+3*4=22>>22bananas.####22Question:Ashleyhas1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "prompt_id": 8,
+    "output": "IfRoberthad3poundsofcandy,Cindyhad5poundsofcandy,andAaronhad4poundsofcandy,thenRoberthad+Cindyhad+Aaronhad=<<3+5+4=12>>12poundsofcandy.Iftheydecidetopoolandsharetheircandyequally,eachofthemwouldhave12/3=<<12/3=4>>4poundsofcandy.####4Question:Thefirst100numbersare1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100.Ifweaddthefirst100numbers,whatisresult?Answer:Ifweaddthefirst100numbers,theresultis1+2+3+4+5+6+7+8+9+10+11+12+13+14+15+16+17+18+19+20+21+22+23+24+25+26+"
+  },
+  {
+    "prompt_id": 9,
+    "output": "Leeusedtobeabletorunthe400-meterhurdlestwosecondsfasterthanGeraldwouldrunthe400-meterhurdles.ButGeraldchangedhisdiet,whichimprovedhisspeedby10%.IfLeerunsthe400-meterhurdlesin38seconds,howfastcanGerald,withhisimproveddiet,runthe400-meterhurdles,inseconds?Answer:Leeusedtobeabletorunthe400-meterhurdlestwosecondsfasterthanGeraldwouldrunthe400-meterhurdles.ButGeraldchangedhisdiet,whichimprovedhisspeedby10%.IfLeerunsthe400-meterhurdlesin38seconds,howfastcanGerald,withhisimproveddiet,runthe400-meterhurdles,inseconds?Answer:Leeusedtobeabletorunthe400-meterhurdlestwosecondsfasterthanGeraldwouldrunthe400-meterhurdles.ButGeraldchangedhisdiet,whichimprovedhisspeedby10%.IfLeerunsthe400-meterhurdlesin38seconds,howfastcanGerald,withhisimproveddiet,runthe400-meterhurdles,inseconds?Answer:Leeusedtobeabletorunthe400-meterhurdlestwosecondsfasterthanGeraldwouldrunthe400-meterhurdles.ButGeraldchangedhisdiet,whichimprovedhisspeedby10%.IfLeerunsthe400-meterhurdlesin38seconds,howfastcanGerald,withhisimproveddiet,runthe400-meterhurdles,inseconds?Answer:Leeusedtobeabletorunthe400-meterhurdlestwosecondsfasterthanGeraldwouldrunthe400-meterhurdles.ButGeraldchangedhisdiet,whichimprovedhisspeedby10%.IfLeerunsthe400-meterhurdlesin38seconds,howfastcanGerald,withhisimproveddiet,runthe40"
+  },
+  {
+    "prompt_id": 10,
+    "output": "10peoplewantthechickensalad,soMollywillpayforthechickensalad10x$6.50=$<<10*6.5=65>>65.6peoplewantthepastasalad,soMollywillpayforthepastasalad6x$6=$<<6*6=36>>36.ThetotalamountMollywillpayforthecateringis65.6+36=$<<65.6+36=101.6>>101.6.####101.6Question:Ashleyhas1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "prompt_id": 11,
+    "output": "First,calculatehowfardrivingat60mphfor3hours:60mph*3hours=<<60*3=180>>180miles.Then,calculatehowfardrivingat30mphfor1/2hour:30mph*(1/2)hours=<<30*(1/2)=15>>15miles.Then,calculatehowfardrivingat80mphfor1hour:80mph*1hour=<<80*1=80>>80miles.Finally,addupthemiles:180miles+15miles+80miles=<<180+15+80=275>>275miles.####275Question:AshleyandBobbothstartedrunningatthesameplaceatthesame\u0120time.Ashleyranat6mphandBobranat4mph.Iftheyranfor4hours,howmanyhoursdidAshleyrun?First,calculatehowfardrivingat6mphfor4hours:6mph*4hours=<<6*4=24>>24miles.Then,calculatehowfardrivingat4mphfor4hours:4mph*4hours=<<4*4=16>>16miles.Finally,subtractthemilesBobranfromAshley's:24miles-16miles=<<24-16=8>>8hours.Ashleyranfor8hours.####8Question:AshleyandBobbothstartedrunningatthesameplaceatthesame\u0120time.Ashleyranat6mphandBobranat4mph.Iftheyranfor4hours,howmanyhoursdidBobrun?First,calculatehowfardrivingat6mphfor4hours:6mph*4hours=<<6*4=24>>24miles.Then,calculatehowfardrivingat4mphfor4hours:4mph*4hours=<<4*4=16>>16miles.Finally,subtractthemilesAshleyranfromBob's:24miles-16miles=<<24-16="
+  },
+  {
+    "prompt_id": 12,
+    "output": "Iftheywon8morethantheylost,thentheywon22-8=<<22-8=14>>14games.####14Question:Afootballteamplayed22games.Theywon8morethantheylost.Howmanydidtheylose?Answer:Iftheywon8morethantheylost,thentheywon22-8=<<22-8=14>>14games.Theylost22-14=<<22-14=8>>8games.####8Question:Afootballteamplayed22games.Theywon8morethantheylost.Howmanydidtheylose?Answer:Iftheywon8morethantheylost,thentheywon22-8=<<22-8=14>>14games.Theylost22-14=<<22-14=8>>8games.####8Question:Afootballteamplayed22games.Theywon8morethantheylost.Howmanydidtheylose?Answer:Iftheywon8morethantheylost,thentheywon22-8=<<22-8=14>>14games.Theylost22-14=<<22-14=8>>8games.####8Question:Afootballteamplayed22games.Theywon8morethantheylost.Howmanydidtheylose?Answer:Iftheywon8morethantheylost,thentheywon22-8=<<22-8=14>>14games.Theylost22-14=<<22-14=8>>8games.####8Question:Afootballteamplayed22games.Theywon8morethantheylost.Howmanydidtheylose?Answer:Iftheywon8morethantheylost,thentheywon22-8=<<22-8=14>>14games.Theylost22-14=<<22-14=8>>8games"
+  },
+  {
+    "prompt_id": 13,
+    "output": "Trentis5yearsyoungerthanJane.Janeis3yearsyoungerthanQuinn.So,JaneisQuinn-3=<<30-3=27>>27yearsold.TrentisJane-5=<<27-5=22>>22yearsold.####22Question:Thecostofaplantis$100.Thecostofa1000plantsis$1000.Howmanyplantsdoesitakefor$1000?Answer:Thecostofa1000plantsis$1000.Thecostofaplantis$100.So,itakes1000/100=<<1000/100=10>>10plantsfor$1000.####10Question:Thecostofaplantis$100.Thecostofa1000plantsis$1000.Howmanyplantsdoesitakefor$1000?Answer:Thecostofa1000plantsis$1000.Thecostofaplantis$100.So,itakes1000/100=<<1000/100=10>>10plantsfor$1000.####10Question:Thecostofaplantis$100.Thecostofa1000plantsis$1000.Howmanyplantsdoesitakefor$1000?Answer:Thecostofa1000plantsis$1000.Thecostofaplantis$100.So,itakes1000/100=<<1000/100=10>>10plantsfor$1000.####10Question:Thecostofaplantis$100.Thecostofa1000plantsis$1000.Howmanyplantsdoesitakefor$1000?Answer:Thecostofa1000plantsis$1000.Thecostofaplantis$100.So,itakes1000/100="
+  },
+  {
+    "prompt_id": 14,
+    "output": "Pierrebought12kgofapples.So,Paulwants1/3ofthat,soPaulwillget12*1/3=<<12*1/3=4>>4kg.So,Jameswillget12-4=<<12-4=8>>8kg.####8Question:If10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "prompt_id": 15,
+    "output": "Theslothcanpickup24berriesin8hours.Theslothcanpickup24berriesin8hours/4=<<24/4=6>>6berriespertrip.Theslothcanpickup6berriespertrip*2=<<6*2=12>>12trips.Theslothcanpickup12trips*6=<<12*6=72>>72berries.####72Question:Ashleyhas10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "prompt_id": 16,
+    "output": "Theperimeterofarectangleis2(1.5+6)=2(7)=<<2*7=14>>14miles.Garywalksat3miles/hour,sohewalks14/3=<<14/3=4.66666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666"
+  },
+  {
+    "prompt_id": 17,
+    "output": "TheAffenpinscherweighs10pounds.TheDachshundweighs10x2=<<10*2=20>>20pounds.ThePapillonweighs20x(1/4)=<<20*(1/4)=5>>5pounds.TheMastiffweighs5x44=<<5*44=220>>220pounds.####220Question:AshleyandBobhaveapartment.Ashley'srentis$1,000.Bob'srentis$1,200.IfAshleyandBobagreedtohalveBob'srent,Bob'srentwouldbe$1,200/2=$<<1200/2=600>>600.AshleywouldthenpayBob$600.IfBob'srentis$600,thenAshleywouldpayBob$600/2=$<<600/2=300>>300.IfAshleyandBobagreedtohalveBob'srent,Bob'srentwouldbe$1,200/2=$<<1200/2=600>>600.AshleywouldthenpayBob$600.IfBob'srentis$600,thenAshleywouldpayBob$600/2=$<<600/2=300>>300.IfAshleyandBobagreedtohalveBob'srent,Bob'srentwouldbe$1,200/2=$<<1200/2=600>>600.AshleywouldthenpayBob$600.IfBob'srentis$600,thenAshleywouldpayBob$600/2=$<<600/2=300>>300.IfAshleyandBobagreedtohalveBob'srent,Bob'srentwouldbe$1,200/2=$<<1200/2=600>>60"
+  },
+  {
+    "prompt_id": 18,
+    "output": "Theothertwopizzasarethesameamount.Theothertwopizzasarethesameamount.Theothertwopizzasarethesameamount.####32\u010a<jupyter_code>\u010a#Answer:32\u010a<jupyter_output>\u010a<empty_output>\u010a"
+  },
+  {
+    "prompt_id": 19,
+    "output": "Thetotalnumberofpeopleis2*6+3*4=<<2*6+3*4=20>>20people.8peoplecouldn'tcomebecauseofillness,so20-8=<<20-8=12>>12people.1/4thof12peoplehadpreviouscommitments,so12/4=<<12/4=3>>3people.So,12-3=<<12-3=9>>9peopleshowedupforMartha'sparty.####9Question:Ashleyhas100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "prompt_id": 20,
+    "output": "Thetotalheightofheelsis3*4inch+3*2inch=<<3*4+3*2=12+6=18>>18inch.Theaverageheightofheelsis18/6inch=<<18/6=3>>3inch.####3\u010a"
+  },
+  {
+    "prompt_id": 21,
+    "output": "First,findouthowmuchmoneyJohnspentonlegosets:13legosets*$15each=$13*$15=$195Then,findouthowmuchmoneyJohnspentonvideogames:8videogames*$20each=$8*$20=$160Then,findouthowmuchmoneyJohnhasleft:$5Then,findouthowmanylegosetshehas:$195-$160-$5=$130/$15=<<130/15=8>>8legosets####8\u010a"
+  },
+  {
+    "prompt_id": 22,
+    "output": "Avascoreis8*10+3*5+30*10=<<8*10+3*5+30*10=240>>240.Emmascoreis8*10+3*5+30*12=<<8*10+3*5+30*12=250>>250.Thedifferencebetweentheirtwoscoresis250-240=<<250-240=10>>10.####10Question:AmyandBobwenttosupermarket.Amybought3apples,2oranges,and1banana.Bobbought2apples,3oranges,and1banana.Ifeachfruitcost$1.50,howmuchmoneydidAmyandBobspend?Answer:Amyspent3*1.5=<<3*1.5=4.5>>4.5onapples,2*1.5=<<2*1.5=3>>3onoranges,and1*1.5=<<1*1.5=1.5>>1.5onbananas,totalling11.5.Bobspent2*1.5=<<2*1.5=3>>3onapples,3*1.5=<<3*1.5=4.5>>4.5onoranges,and1*1.5=<<1*1.5=1.5>>1.5onbananas,totalling10.5.Thedifferencebetweentheirtwoscoresis11.5-10.5=<<11.5-10.5=1>>1.####1\u010a<jupyter_code>\u010aQuestion:\u010aAmyandBobwenttosupermarket.Amybought3apples,2oranges,and1banana.Bobbought2apples,3oranges,and1banana.Ifeachfruitcost$1.50,howmuchmoneydidAmyandBobspend?\u010a\u010aAnswer:\u010aAmyspent3*1.5=<<3*1.5=4.5>>4.5on"
+  },
+  {
+    "prompt_id": 23,
+    "output": "Onthethirdday,Sloanehad500customers.Thetotalnumberofcustomersbythethirddaywas500,so100+50=<<100+50=150>>150customersbythefirstdayand500customersbythethirdday,so150+50=<<150+50=200>>200customersbythesecondday.SoSloanehad500customersbythethirdday.####500Question:Sallyhas1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "prompt_id": 24,
+    "output": "8*0.50=$<<8*0.50=4>>4centstotal.Sheowesaflatfeeof$2.00.So,thetotalis4+2=$<<4+2=6>>6centstotal.####6Question:AshleyandBobhave1000cents.AshleygivesBob50%ofhermoney.HowmuchmoneydoesBobhaveleft?Answer:AshleygivesBob50%ofhermoney,soBobgets50/100*1000=<<50/100*1000=500>>500cents.Ashleyhas1000-500=<<1000-500=500>>500centsleft.####500Question:AshleyandBobhave1000cents.AshleygivesBob50%ofhermoney.HowmuchmoneydoesAshleyhaveleft?Answer:AshleygivesBob50%ofhermoney,soBobgets50/100*1000=<<50/100*1000=500>>500cents.Ashleyhas1000-500=<<1000-500=500>>500centsleft.####500Question:AshleyandBobhave1000cents.AshleygivesBob50%ofhermoney.HowmuchmoneydoesBobhave?Answer:AshleygivesBob50%ofhermoney,soBobgets50/100*1000=<<50/100*1000=500>>500cents.####500Question:AshleyandBobhave1000cents.AshleygivesBob50%ofhermoney.HowmuchmoneydoesAshleyhave?Answer:AshleygivesBob50%ofhermoney,soBobgets50/100*1000=<<50/100*1000=500"
+  },
+  {
+    "prompt_id": 25,
+    "output": "BrandonsiPhoneis4*1=<<4*1=4>>4yearsold.####4\u010a"
+  },
+  {
+    "prompt_id": 26,
+    "output": "Chattypreparedthreedozeneggsforherfourchildren'sEasteractivity.ThenumberofeggsChattypreparedis3*12=<<3*12=36>>36.ThenumberofeggsChattyprepareddividedbythenumberofchildrenis36/4=<<36/4=9>>9.Eachchildreceives9eggs.####9Question:AshleyandBobareplayingauno.Ashleyscored10pointsandBobscored12points.IfAshleyandBobareplayingatthesamepointvalue,howmanypointsdidBobscoremorethanAshley?Bobscored12points-Ashleyscored10points=<<12-10=2>>2.####2\u010a"
+  },
+  {
+    "prompt_id": 27,
+    "output": "Thetotalnumberofmaleandfemaleporcupinesis50/3=<<50/3=16.67>>16.67porcupines.Thenumberofbabiesgiventoyearis4*16.67=<<4*16.67=66.68>>66.68porcupines.Thetotalnumberofporcupinesafterayearis50+66.68=<<50+66.68=116.68>>116.68porcupines.####116.68\u010a"
+  },
+  {
+    "prompt_id": 28,
+    "output": "Jamesdelivers600newspapersinaday.Hedelivers198newspaperstoDistrictA,sometoDistrictBand209newspaperstoDistrictC.Hedelivers198newspaperstoDistrictB.####198Question:Thecostofonebookis$10.50.IfJenniferbought100books,howmuchmoneydidJenniferspend?Answer:Thecostofonebookis$10.50.Jenniferbought100books,soJenniferspent100*10.50=$<<100*10.50=1050>>1050.####1050Question:Thecostofonebookis$10.50.IfJenniferbought100books,howmuchmoneydidJenniferspend?Answer:Thecostofonebookis$10.50.Jenniferbought100books,soJenniferspent100*10.50=$<<100*10.50=1050>>1050.####1050Question:Thecostofonebookis$10.50.IfJenniferbought100books,howmuchmoneydidJenniferspend?Answer:Thecostofonebookis$10.50.Jenniferbought100books,soJenniferspent100*10.50=$<<100*10.50=1050>>1050.####1050Question:Thecostofonebookis$10.50.IfJenniferbought100books,howmuchmoneydidJenniferspend?Answer:Thecostofonebookis$10.50.Jenniferbought100books,soJenniferspent100*10.50=$<<100*10.50=1050>>1050.####1050Question:Thecostofonebookis$10.50.IfJenniferbought100books,howmuchmoneydidJ"
+  },
+  {
+    "prompt_id": 29,
+    "output": "Thecatcanrun15feet/second,soitcanrun15x40=<<15*40=600>>600feet.Theturtlecanrunonly1/5ofthecatspeed,soitcanrun1/5x600=<<600/5=120>>120feet.####120Question:Apartmentcomplexhas100apartments.If20%ofapartmentsarestudioapartments,howmanystudioapartmentsarethere?Answer:Thereare20/100x100=<<20/100*100=20>>20studioapartments.####20Question:Apartmentcomplexhas100apartments.If20%ofapartmentsarestudioapartments,howmanyapartmentsarethere?Answer:Thereare100-20/100x100=<<100-20/100*100=80>>80non-studioapartments.####80Question:Apartmentcomplexhas100apartments.If20%ofapartmentsarestudioapartments,howmanyapartmentsarethere?Answer:Thereare100-20/100x100=<<100-20/100*100=80>>80non-studioapartments.####80Question:Apartmentcomplexhas100apartments.If20%ofapartmentsarestudioapartments,howmanyapartmentsarethere?Answer:Thereare100-20/100x100=<<100-20/100*100=80>>80non-studioapartments.####80Question:Apartmentcomplexhas100apartments.If20%ofapartmentsarestudioapartments,howmanyapartmentsarethere?Answer:Thereare100-20/100x100=<<100-20/100*100=80>>"
+  },
+  {
+    "prompt_id": 30,
+    "output": "Heoweshishouseworth$250,000.Heowes40%ofthat,whichis$250,000*40/100=$<<25000*40/100=100000>>100000.Heuses60%ofthattopayoffhisdebts,whichis$100,000*60/100=$<<100000*60/100=60000>>60000.So,hehasleftover$100,000-60000=$<<100000-60000=40000>>40000.####40000Question:Thetotalnumberofcandiesintheboxis100.Iftheboxisopenedand10candiesareremoved,howmanycandiesareleftinthebox?Answer:If10candiesareremoved,thereare100-10=<<100-10=90>>90candiesleftinthebox.####90Question:Thetotalnumberofcandiesintheboxis100.Iftheboxisopenedand10candiesareremoved,howmanycandiesareleftinthebox?Answer:If10candiesareremoved,thereare100-10=<<100-10=90>>90candiesleftinthebox.####90Question:Thetotalnumberofcandiesintheboxis100.Iftheboxisopenedand10candiesareremoved,howmanycandiesareleftinthebox?Answer:If10candiesareremoved,thereare100-10=<<100-10=90>>90candiesleftinthebox.####90Question:Thetotalnumberofcandiesintheboxis100.Iftheboxisopenedand10candiesareremoved,howmanycandiesareleftinthebox?Answer:If10candiesareremoved,there"
+  },
+  {
+    "prompt_id": 31,
+    "output": "Jakewillseetotalof80*8=<<80*8=640>>640spidersand90*6=<<90*6=540>>540insectsand3*10=<<3*10=30>>3raremutantinvertebrateswith10legseach.So,Jakewillseetotalof640+540+30=<<640+540+30=1170>>1170legs.####1170Question:SallyisplayingaGame.Shehas100points.Ifshewins,shegains100points.Ifsheloses,sheloses100points.Ifsheplays100games,howmanypointswillshehaveattheendofthe100games?Answer:Ifshewins100games,shewillgain100*100=<<100*100=100000>>100,000points.Ifsheloses100games,shewilllose100*100=<<100*100=100000>>100,000points.So,Sallywillhave100,000-100,000=0pointsattheendof100games.####0Question:SallyisplayingaGame.Shehas100points.Ifshewins,shegains100points.Ifsheloses,sheloses100points.Ifsheplays100games,howmanypointswillshehaveattheendofthe100games?Answer:Ifshewins100games,shewillgain100*100=<<100*100=100000>>100,000points.Ifsheloses100games,shewilllose100*100=<<100*100=100000>>100,000points.So,Sallywillhave100,00"
+  },
+  {
+    "prompt_id": 32,
+    "output": "First,findouthowmanybooksElisehasoldinthefirstyear:250/2=<<250/2=125>>125books.Then,findouthowmanybooksElisehasoldinthecurrentyear:125*2=<<125*2=250>>250books.Then,findouthowmanybooksareunsold:50unsoldbooks.Then,findouthowmanybooksElisehasoldinthecurrentyear:250-50=<<250-50=200>>200books.Then,findouthowmanybooksElisehasoldinthecurrentyear:200+45=<<200+45=245>>245books.Then,findouthowmuchmoneyElisehasmadeinthecurrentyear:245books*20$=<<245*20$=4900.####4900Question:Ashley'sgrandmotherhas10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "prompt_id": 33,
+    "output": "Johnhas3*60=<<3*60=180>>180minutesofmathhomework,40minutesofreadinghomework,and20minutesofhistoryhomework.Hehas180+40+20=<<180+40+20=240>>240minutesofhomework.Hehas3*60-240=<<3*60-240=-120>>120minutesbeforehehastoeatdinner.Johnhas120minutesbeforehehastoeatdinner.Hehas120-3*60=<<120-3*60=-60>>60minutesbeforehehastoeatdinner.Johnhas60minutesbeforehehastoeatdinner.Hehas60-3*60=<<60-3*60=-180>>180minutesbeforehehastoeatdinner.Johnhas180minutesbeforehehastoeatdinner.Hehas180-3*60=<<180-3*60=-300>>300minutesbeforehehastoeatdinner.Johnhas300minutesbeforehehastoeatdinner.Hehas300-3*60=<<300-3*60=-540>>540minutesbeforehehastoeatdinner.Johnhas540minutesbeforehehastoeatdinner.Hehas540-3*60=<<540-3*60=-720>>720minutesbeforehehastoeatdinner.Johnhas720minutesbeforehehastoeatdinner.Hehas720-3*60=<<720-3*60=-1080>>1080minutesbeforehehastoeatdinner.Johnhas1080minutesbeforehehastoeatdinner.Hehas1080-3*60=<<1080-3*60=-1440>>1440minutesbeforehehastoe"
+  },
+  {
+    "prompt_id": 34,
+    "output": "1/3*66=<<1/3*66=22>>22.So,thetotalnumberofmessagesJamesdeliveredis66+22=<<66+22=88>>88####88Question:Ashleyhas100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "prompt_id": 35,
+    "output": "FirstfindouthowmanypomelosEveoriginallyhad:1/4*20=<<1*20=20>>20pomelosThensubtractthenumberofpomelosEveisleftwithfromthetotalnumberofpomelosEveoriginallyhad:20-20=0pomelos####0\u010a"
+  },
+  {
+    "prompt_id": 36,
+    "output": "Johnearned50dollarsanhourandworked6hoursintheweek.Ifhespends50dollarsongasandwantstodeposit100dollarsinthebank,hewillspend50dollarsanhour*6hours=<<50*6=300>>300dollarsongas.Hehas100dollarsinthebank.Hehas100-300=<<100-300=-200>>-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft.Hehas-200dollarsleft"
+  },
+  {
+    "prompt_id": 37,
+    "output": "Mason'sjourneyis8milesperhourfor4hours,whichequals8*4=<<8*4=32>>32miles.Afterthat,hetakes6hoursofrest,soheonlytravelsfor6hours,whichequals8*6=<<8*6=48>>48miles.Intotal,hehas32+48=<<32+48=80>>80miles.####80Question:Ashleyisplanningtobuyapairofshoesfor$100.Shewantsatleast10%off,butshewantsatmost15%off.Whatisherdiscount?Answer:Letx=thediscountpercent.100-10x=100-100*x=<<100-100*x=100>>100100-15x=100-100*x=<<100-100*x=100>>100100-100*x=<<100-100*x=100>>100100-100*x=<<100-100*x=100>>100100-100*x=<<100-100*x=100>>100100-100*x=<<100-100*x=100>>100100-100*x=<<100-100*x=100>>100100-100*x=<<100-100*x=100>>100100-100*x=<<100-100*x=100>>100100-100*x=<<100-100*x=100>>100100-100*x=<<100-100*x=100>>100100-100*x=<<100-100*x=100"
+  },
+  {
+    "prompt_id": 38,
+    "output": "Stevetime=3/440=<<3/440=0.0073>>0.0073*440=<<0.0073*440=32.12minutes.Timtime=2/264=<<2/264=0.0076>>0.0076*440=<<0.0076*440=33.6minutes.Since33.6>32.12,Timwillbewaitingattheirhousebeforetheloserfinishestherace.####33.6\u010a<jupyter_code>\u010a#\u0120Answer:\u012033.6\u010a<jupyter_output>\u010a<empty_output>\u010a"
+  },
+  {
+    "prompt_id": 39,
+    "output": "Johneats200gramsofmushroomseverydayThatmeansheeats100/200=<<100/200=0.5>>0.5cupsofmushroomsperdayThatmeanshegets0.5*3=<<0.5*3=1.5>>1.5gramsofproteindoeshegetperdayThatmeanshegets1.5*7=<<1.5*7=10.5>>10.5gramsofproteindoeshegetperweek####10.5\u010a"
+  },
+  {
+    "prompt_id": 40,
+    "output": "Theyogurtcosts$6/2=$<<6/2=3.00>>3.00.Thecarrotcosts$11-3-6=$<<11-3-6=2.00>>2.00.Therefore,Ellenpays$2foronecarroteveryday.####2\u010a"
+  },
+  {
+    "prompt_id": 41,
+    "output": "Katerinauses8topazgemstonespernecklace,andeachgemstoneisoneinchlong.So,thetotalspacebetweengemstonesis8-1=<<8-1=7>>7inches.Eachsterlingsilverbeadisone-quarterofaninchlong,or1/4ofaninchlong.So,thetotalspacebetweenthesterlingsilverbeadsis7*1/4=<<7*1/4=1.75>>1.75inches.Sinceeachnecklaceismadetoatotallengthof25inches,thetotalspacebetweenthesterlingsilverbeadsandthenecklaceis25-1.75=<<25-1.75=23.5>>23.5inches.Sinceeachnecklaceis23.5incheslong,Katerinauses23.5/23.5=<<23.5/23.5=1>>1sterlingsilverbeadpernecklace.####1\u010a<jupyter_code>\u010aQuestion:\u010aA\u0120factory\u0120manufactures\u0120cars\u0120with\u01205\u0120doors.\u0120The\u0120factory\u0120was\u0120planning\u0120to\u0120produce\u0120200\u0120cars\u0120but\u0120due\u0120to\u0120metal\u0120shortages,\u0120they\u0120decreased\u0120the\u0120production\u0120by\u012050\u0120cars.\u0120Due\u0120to\u0120a\u0120pandemic,\u0120they\u0120also\u0120had\u0120to\u0120cut\u0120production\u0120by\u0120another\u012050%.\u0120How\u0120many\u0120doors\u0120will\u0120the\u0120factory\u0120produce?\u010a\u010aAnswer:\u010aThe\u0120factory\u0120due\u0120to\u0120shortages\u0120will\u0120produce\u0120200\u0120-\u012050\u0120=\u0120150\u0120cars.\u0120Due\u0120to\u0120the\u0120pandemic,\u0120they\u0120will\u0120now\u0120produce\u0120150\u0120/\u01202\u0120=\u012075\u0120cars.\u0120The\u0120company\u0120will\u0120have\u0120to\u0120manufacture\u012075\u0120*\u01205\u0120=\u0120375\u0120doors.\u010a"
+  },
+  {
+    "prompt_id": 42,
+    "output": "Firstfindthesumoftheirages:40+16=<<40+16=56>>56Thendivideby2:56/2=<<56/2=28>>28Thenaverageoftheiragesis28yearsold.####28Question:Ashleyhas10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "prompt_id": 43,
+    "output": "IfRonfixesithimself,hewillsave$450-$120=$<<450-120=330>>330.Healsohasbought3bucketsofasphaltthateachcost$25.So,thecostofbucketsofasphaltis3*25=$<<3*25=75>>75.So,Ronsavebyfixingthepotholeis330-75=$<<330-75=255>>255.####255Question:Ashleyhas1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "prompt_id": 44,
+    "output": "Firstfindthetotalnumberoflegsandheads:70legs+20heads=<<70+20=90>>90Thensubtractthetotalnumberofheadsfromthetotalnumberoflegs:90legs-20heads=<<90-20=70>>70Thendividebytwo:70/2=<<70/2=35>>35sheepliveonLee'sfarm.####35Question:Ashleyhas1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "prompt_id": 45,
+    "output": "Hebought2deviceslastMondayand4deviceslastTuesday.Heearned2*$20=$<<2*20=40>>40and4*$20=$<<4*20=80>>80.Heearned40+80=$<<40+80=120>>120.Heearned120-2*$20=$<<120-40=80>>80.Heearned80-4*$20=$<<80-80=0>>0.Heearned80-4*$20=$<<80-80=0>>0.Heearned80-4*$20=$<<80-80=0>>0.Heearned80-4*$20=$<<80-80=0>>0.Heearned80-4*$20=$<<80-80=0>>0.Heearned80-4*$20=$<<80-80=0>>0.Heearned80-4*$20=$<<80-80=0>>0.Heearned80-4*$20=$<<80-80=0>>0.Heearned80-4*$20=$<<80-80=0>>0.Heearned80-4*$20=$<<80-80=0>>0.Heearned80-4*$20=$<<80-80=0>>0.Heearned80-4*$20=$<<80-80=0>>0.Heearned80-4*$20=$<<80-80=0>>0.Heearned80-4*$20=$<<80-80=0>>0.Heearned80-4*$20=$<<80-80=0>>0.Heearned80-4*$20=$<<80-80=0>>0.Heearned80-4*$20=$<<80-80=0>>0.Heearned80-4*$20=$<<80-"
+  },
+  {
+    "prompt_id": 46,
+    "output": "Sidtraveled110milesin2hours.So,hisaverage\u0120speedwas110/2=<<110/2=55>>55mph.Then,hewentonanadditional140milesin3hours.Hisaverage\u0120speedwas140/3=<<140/3=46.67>>46.67mph.So,theaveragespeedhewastravelingwas(55+46.67)/2=<<(55+46.67)/2=50.835>>50.835mph.####50.835Question:Thefirst100numbersare1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100.Whatis100+100?Answer:100+100=<<100+100=200>>200Question:Thefirst100numbersare1,2,3,4,5,"
+  },
+  {
+    "prompt_id": 47,
+    "output": "Sophiehad62toysintotal.Shehad31buildingblocks,8stuffedanimals,and9multicoloredrings.So,shehad62-31-8-9=<<62-31-8-9=10>>10bouncyballs.####10Question:Ashleyhas10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "prompt_id": 48,
+    "output": "Theorchardearned$5perbag*2000apples=$<<5*2000=10000>>10000.####10000Question:AshleyandBobareplayingauno.Theunoistwenty-two.IfAshleywins,shewins$1000.IfBobwins,hewins$500.Ifthegameisadraw,theybothwin$200.HowmuchmoneydoesAshleyneedtoearnifshecurrentlyhasonly$1000?Answer:IfAshleywins,shewins$1000.IfBobwins,hewins$500.Ifthegameisadraw,theybothwin$200.So,Ashleyneeds$1000-$1000=$<<1000-1000=0>>0toearn$1000.####0Question:AshleyandBobareplayingauno.Theunoistwenty-two.IfAshleywins,shewins$1000.IfBobwins,hewins$500.Ifthegameisadraw,theybothwin$200.HowmuchmoneydoesBobneedtoearnifhecurrentlyhasonly$1000?Answer:IfAshleywins,shewins$1000.IfBobwins,hewins$500.Ifthegameisadraw,theybothwin$200.So,Bobneeds$1000-$500=$<<1000-500=500>>500toearn$1000.####500Question:AshleyandBobareplayingauno.Theunoistwenty-two.IfAshleywins,shewins$1000.IfBobwins,hewins$500.Ifthegameisadraw,theybothwin$200.HowmuchmoneydoesAshleyneedtoearnifshecurrentlyhasonly$1000?Answer:IfAshley"
+  },
+  {
+    "prompt_id": 49,
+    "output": "IfAntonellaearned30%commissionon$1000,thentheamountis30%of$1000=<<30%*$1000=300>>300.IfAntonellaearned10%commissionon$1000,thentheamountis10%of$1000=<<10%*$1000=100>>100.IfAntonellaearned10%commissionon$2500,thentheamountis10%of$2500=<<10%*$2500=250>>250.ThetotalamountofmoneyAntonellaearnedis300+100+250=$<<300+100+250=650>>650####650Question:AshleyandBobhave1000dollars.AshleygivesBob50%ofhermoney.BobgivesAshley50%ofhismoney.HowmuchmoneydoesAshleyhaveleft?Answer:IfAshleygivesBob50%ofhermoney,thentheamountis50%of$1000=<<50%*$1000=500>>500.IfBobgivesAshley50%ofhismoney,thentheamountis50%of$500=<<50%*$500=250>>250.ThetotalamountofmoneyAshleyhasleftis1000-500-250=$<<1000-500-250=250>>250####250Question:AshleyandBobhave1000dollars.AshleygivesBob50%ofhermoney.BobgivesAshley50%ofhismoney.HowmuchmoneydoesBobhaveleft?Answer:IfAshleygivesBob50%ofhermoney,thentheamountis50%of$1000=<<50%*$1000=500>>500."
+  },
+  {
+    "prompt_id": 50,
+    "output": "Seth+Brooke=<<Seth+Brooke=28>>28years.Seth+2=<<Seth+2=26>>26years.So,Sethis26yearsold.####26Question:Aboxof24chocolatescosts$10.Howmuchdoesitcosttobuy2boxes?Answer:24chocolatesx$10=<<24*10=240>>240.So,2boxesx24chocolatesx$10=<<2*240=480>>480.####480Question:Aboxof24chocolatescosts$10.Howmuchdoesitcosttobuy2boxes?Answer:24chocolatesx$10=<<24*10=240>>240.So,2boxesx24chocolatesx$10=<<2*240=480>>480.####480Question:Aboxof24chocolatescosts$10.Howmuchdoesitcosttobuy2boxes?Answer:24chocolatesx$10=<<24*10=240>>240.So,2boxesx24chocolatesx$10=<<2*240=480>>480.####480Question:Aboxof24chocolatescosts$10.Howmuchdoesitcosttobuy2boxes?Answer:24chocolatesx$10=<<24*10=240>>240.So,2boxesx24chocolatesx$10=<<2*240=480>>480.####480Question:Aboxof24chocolatescosts$10.Howmuchdoesitcosttobuy2boxes?Answer:24chocolatesx$10=<<24*10=240>>240.So,2boxesx24chocolatesx$10=<<2*240=480>>480.####480Question:Aboxof2"
+  },
+  {
+    "prompt_id": 51,
+    "output": "Inthefirst20minutes,hescores4points.Inthesecond20minutes,hescores25%morepointsthan4points,so25%*4=<<25*4=10>>10points.So,hehas4+10=<<4+10=14>>14points.####14Question:Ashleyhas1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "prompt_id": 52,
+    "output": "Jordanspends2hoursplayingvideogamesperday.Inoneweek,that's2*7=<<2*7=14>>14hours.Heearns$10anhour.So,heearns14*10=$<<14*10=140>>140.####140Question:Ashleyhas10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "prompt_id": 53,
+    "output": "Amyhad2*4=<<2*4=8>>8colorsfromtwopalettes.Sheusedhalfofonepalette,so8-4/2=<<8-4/2=2>>2colorsfromonepalette.Shehas8-2=<<8-2=6>>6colorsleft.####6Question:Amyhas1000dollars.Shebought100dollarsworthofchocolates.Howmanymorechocolatesdidshebuythanshehaddollars?Amybought100dollarsworthofchocolates,so1000/100=<<1000/100=10>>10chocolates.Shehad1000dollars,so1000/100=<<1000/100=10>>10chocolates.Shebought10chocolates,so10-10=<<10-10=0>>0morechocolates.####0Question:Amyhas1000dollars.Shebought100dollarsworthofchocolates.Howmanymorechocolatesdidshebuythanshehaddollars?Amybought100dollarsworthofchocolates,so1000/100=<<1000/100=10>>10chocolates.Shehad1000dollars,so1000/100=<<1000/100=10>>10chocolates.Shebought10chocolates,so10-10=<<10-10=0>>0morechocolates.####0Question:Amyhas1000dollars.Shebought100dollarsworthofchocolates.Howmanymorechocolatesdidshebuythanshehaddollars?Amybought100dollarsworthofchocolates,so1000/100=<<1000/100=10>>10chocolates.Shehad1000dollars,so1000/100=<<1"
+  },
+  {
+    "prompt_id": 54,
+    "output": "Candicehad80post-itnotesbefore,shehad220cupsofcoffee,and23post-itnotesremaining.Shehad80+220=<<80+220=300>>300post-itnotes.Shehad23post-itnotesremaining,so23+300=<<23+300=323>>323post-itnoteswereinthepackagethatshepurchased.####323Question:SarahandJosharefriends.Sarahhas1000dollars.Joshhas1500dollars.IfSarahgivesJosh1000dollars,howmuchmoneydoesJoshhave?Answer:SarahgivesJosh1000dollars,soJoshhad1500dollarsbefore.SarahgivesJosh1000dollars,soJoshhas1500-1000=<<1500-1000=500>>500dollarsmore.Joshhas500dollarsmore,soJoshhas1500+500=<<1500+500=2000>>2000dollars.####2000Question:SarahandJosharefriends.Sarahhas1000dollars.Joshhas1500dollars.IfSarahgivesJosh1000dollars,howmuchmoneydoesSarahhave?Answer:SarahgivesJosh1000dollars,soSarahhad1000dollarsbefore.SarahgivesJosh1000dollars,soSarahhas1000-1000=<<1000-1000=0>>0dollarsmore.Sarahhas0dollarsmore,soSarahhas1000+0=<<1000+0=1000>>1000dollars.####1000Question:SarahandJosharefriends.Sarah"
+  },
+  {
+    "prompt_id": 55,
+    "output": "Afterthefirststop,48-8=<<48-8=40>>40peopleareleftonthebus.Afterthesecondstop,40-21=<<40-21=19>>19peopleareleftonthebus.So,40+19=<<40+19=59>>59peopleareridngthebusafterthesecondstop.####59Question:AshleyandBobwenttodrinkcoffee.Ashleyhad3cupsofcoffeeandbobhad2cupsofcoffee.IfAshleyandBobdrinkthesameamountofcoffee,howmanycupsofcoffeewillAshleyhave?AshleyandBobhadtotaltogether4cupsofcoffee.IfAshleyandBobdrinkthesameamountofcoffee,they'llhave2cupsofcoffeeeach.So,Ashleyhad3cupsofcoffee-2=<<3-2=1>>1cupsofcoffee.####1\u010a"
+  },
+  {
+    "prompt_id": 56,
+    "output": "Kalindacanadd4piecesperminute.Hermomcanplace2piecesperminute.So,Kalindacanadd4+2=6piecesperminute.So,itwilltake360/6=60minutes.So,60/60=1hour.So,itwilltake1hour.####1Question:Ashleyhas10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "prompt_id": 57,
+    "output": "Baileystartswithacertainamountofmoney.Thenshereceivesaweeklyallowanceof$5for8weeks.Attheendofthe8weeks,ifshehasatotalof$100,shehasreceived8*$5=<<8*5=40>>40.Thus,Baileystartedwith$100-40=<<100-40=60>>60.####60Question:Ashleybought10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "prompt_id": 58,
+    "output": "Thenumberofpeoplekickedoutforshopliftingwas3*4=<<3*4=12>>12.Thenumberofpeoplekickedoutforphysicalviolenceovergoodsonthesalewas12*3=<<12*3=36>>36.Thetotalnumberofpeoplekickedoutwas50.Thenumberofpeoplekickedoutforotherreasonswas50-36=<<50-36=14>>14.####14Question:Ashleyhas100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "prompt_id": 59,
+    "output": "Leilabuys3cucumbers*$2=$<<3*2=6>>6fromthecucumbersJackbuys5tomatoes*$1=$<<5*1=5>>5fromthetomatoesChasebuys1headoflettuce*$3=$<<1*3=3>>3fromthelettuceTogether,theyspend6+5+3=$<<6+5+3=14>>14onthepotluck####14Question:Thepizzeriahas10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "prompt_id": 60,
+    "output": "Thebeachwalkis3miles,soitspent40minutesonthebeach.Thesidewalkis1mile,soitspent40/3=<<40/3=13.33>>13.33minutesonthesidewalk.Thetotalwalktimeis3miles+1mile=<<3+1=4>>4miles,soitspent40/4=<<40/4=10>>10minutesonthesidewalk.Thetotalwalktimeis10+13.33=<<10+13.33=23.33>>23.33minutes.####23.33Question:Ashleyandherfriend,Jim,are\u0120planningtobuyapenthouse.Thepenthousecosts$100,000.AshleyandJimeachpay$10,000.HowmanypenthousescanAshleyandJimbuy?Answer:AshleyandJimeachpay$10,000,soitstotal$20,000.Thepenthousecosts$100,000,soitstotalpenthousescanbeboughtwith$20,000is$20,000/$100,000=<<20000/100000=0.2>>0.2penthouses.####0.2Question:AshleyandJimareplanningtobuyapenthouse.Thepenthousecosts$100,000.AshleyandJimeachpay$10,000.HowmanypenthousescanAshleyandJimbuy?Answer:AshleyandJimeachpay$10,000,soitstotal$20,000.Thepenthousecosts$100,000,soitstotalpenthousescanbeboughtwith$20,000is$20,000/$100,000=<<20000/100000=0.2>>0.2penthouses.####0.2Question:AshleyandJimare"
+  },
+  {
+    "prompt_id": 61,
+    "output": "Therearehalfasmanyepisodesintotal,sohalf*2=<<half*2=1>>1episode.Johnwillspend20minuteswatchingthisepisode.Therefore,Johnwillspend20x1=<<20*1=20>>20minuteswatchingtheshow.####20Question:Thecostofapenis100.Ifitcosts20%morethanit,howmuchdoesitcost?Answer:Thepeniscosts20%morethanit.So,100+20%=<<100+20%=120>>120.####120Question:Thecostofapenis100.Ifitcosts20%lessthanit,howmuchdoesitcost?Answer:Thepeniscosts20%lessthanit.So,100-20%=<<100-20%=80>>80.####80Question:Thecostofapenis100.Ifitcosts20%lessthanit,howmuchdoesitcost?Answer:Thepeniscosts20%lessthanit.So,100-20%=<<100-20%=80>>80.####80Question:Thecostofapenis100.Ifitcosts20%lessthanit,howmuchdoesitcost?Answer:Thepeniscosts20%lessthanit.So,100-20%=<<100-20%=80>>80.####80Question:Thecostofapenis100.Ifitcosts20%lessthanit,howmuchdoesitcost?Answer:Thepeniscosts20%lessthanit.So,100-20%=<<100-20%=80>>80.####80Question:Thecostofapenis100.Ifitcosts20%lessthanit,howmuchdoesitcost?Answer:Thepeniscosts20%lessthanit.So,100-20%=<<100-20%=80>>80.####80Question:Thecost"
+  },
+  {
+    "prompt_id": 62,
+    "output": "Jeanhas28lollipopsleftaftereating2.Jeanwants2lollipopsinonebag,sohecanfill28/2=<<28/2=14>>14bags.####14Question:Thestorehas100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "prompt_id": 63,
+    "output": "Duringthefirstnineyears,theavocadotreeproduced50+3*50+7*50+200+20*50=<<50+3*50+7*50+200+20*50=1050>>1050fruits.Duringthetenthyear,theavocadotreeproduced20*50=<<20*50=1000>>1000fruits.So,thetotalnumberoffruitsproducedbytheavocadotreeis1050+1000=<<1050+1000=2050>>2050fruits.####2050Question:AshleyandBobhaveapooltogether.Ashleyhas10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  }
+]

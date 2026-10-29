@@ -1,0 +1,62 @@
+{
+  "condition": "bfdkr_ref",
+  "dataset": "embedllm",
+  "seed": 1,
+  "k_protocol": "per_seed_val_selected",
+  "k_selection": {
+    "protocol": "per_seed_val_selected",
+    "rule": "argmax val_cost_auc, ties by min val_brier",
+    "grid": [
+      {
+        "k": 128,
+        "val_cost_auc": 0.466915,
+        "val_brier": 0.19801,
+        "committed_test_cost_auc": 0.503691
+      },
+      {
+        "k": 512,
+        "val_cost_auc": 0.46935,
+        "val_brier": 0.197958,
+        "committed_test_cost_auc": 0.511461
+      },
+      {
+        "k": 2048,
+        "val_cost_auc": 0.467276,
+        "val_brier": 0.197824,
+        "committed_test_cost_auc": 0.518764
+      },
+      {
+        "k": 4096,
+        "val_cost_auc": 0.469779,
+        "val_brier": 0.197763,
+        "committed_test_cost_auc": 0.513981
+      }
+    ],
+    "selected_k": 4096
+  },
+  "encoded_bundle": "data/embedllm/processed/mlpdot_encoded_seed1/llm_perf_dataset_mlpdot_encoded.pkl",
+  "config": {
+    "seed": 1,
+    "objective": "pq_auc",
+    "k": 4096,
+    "sigma_x": 0.090651,
+    "sigma_y": 0.158476,
+    "sigma_x_med": 0.573521,
+    "sigma_y_med": 0.637756,
+    "val_cost_auc": 0.467858,
+    "val_brier": 0.197754,
+    "val_pq_auc": 0.651729,
+    "fit_elapsed_s": 345.76
+  },
+  "P_test": {
+    "path": "experiments/embedllm/static-policy-baseline/results/bfdkr_ref/seed1/P_test.npy",
+    "shape": [
+      10702,
+      21
+    ],
+    "dtype": "float32",
+    "sha256": "b3ea1a074b0e499cfe9e46a8fafcac540a516b7cfc14d617bc56ca164f309c36",
+    "committed": false,
+    "note": "gitignored by the *.npy rule; the committed contract is the derived JSON in this experiment's results/."
+  }
+}

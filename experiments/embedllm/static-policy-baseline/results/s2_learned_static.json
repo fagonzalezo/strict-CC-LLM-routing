@@ -1,0 +1,68 @@
+{
+  "arm": "S2",
+  "dataset": "embedllm",
+  "group": "pooled",
+  "n_queries": 10702,
+  "n_llms_test": 21,
+  "test_cost_auc": 0.456184,
+  "test_floor_cost_auc": 0.394225,
+  "test_oracle_cost_auc": 0.868398,
+  "test_aiq": 0.061959,
+  "uses_test_labels": false,
+  "test_quality_at_cap_1B": 0.24117,
+  "test_quality_at_cap_3B": 0.24117,
+  "test_quality_at_cap_7B": 0.458139,
+  "test_quality_at_cap_30B": 0.475519,
+  "test_quality_at_cap_67B": 0.475519,
+  "policy": "ridge from raw fingerprint to train-mean accuracy, fit on train LLMs only",
+  "representation": "raw fingerprint (seed-free by construction)",
+  "selected": {
+    "family": "ridge",
+    "alpha": 0.1,
+    "val_cost_auc": 0.462045
+  },
+  "selection_rule": "val_cost_auc (tiny grid; see section VII caveat)",
+  "n_val_llms": 16,
+  "val_winner_across_families": {
+    "family": "ridge",
+    "hp": 0.1,
+    "val_cost_auc": 0.4620451860803117
+  },
+  "robustness_knn_regression": {
+    "k": 1,
+    "val_cost_auc": 0.462045,
+    "test_cost_auc": 0.460221
+  },
+  "grid_audit": [
+    {
+      "family": "ridge",
+      "hp": 0.1,
+      "val_cost_auc": 0.462045
+    },
+    {
+      "family": "ridge",
+      "hp": 1.0,
+      "val_cost_auc": 0.462045
+    },
+    {
+      "family": "ridge",
+      "hp": 10.0,
+      "val_cost_auc": 0.462045
+    },
+    {
+      "family": "knn",
+      "hp": 1.0,
+      "val_cost_auc": 0.462045
+    },
+    {
+      "family": "knn",
+      "hp": 5.0,
+      "val_cost_auc": 0.423764
+    },
+    {
+      "family": "knn",
+      "hp": 10.0,
+      "val_cost_auc": 0.455908
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "meta_struct": {
+    "dataset": "router-eval",
+    "variant": "meta_struct",
+    "dim": 104,
+    "n_llms": {
+      "train": 2999,
+      "val": 374,
+      "test": 376
+    },
+    "coverage": {
+      "org": {
+        "n_distinct_train": 828,
+        "top_k": 50,
+        "vocab_size_with_unk": 51,
+        "train_in_vocab_rate": 0.327109,
+        "val_in_vocab_rate": 0.307487,
+        "test_in_vocab_rate": 0.255319,
+        "train_unk_rate": 0.672891,
+        "val_unk_rate": 0.692513,
+        "test_unk_rate": 0.744681,
+        "saturated_vocab": {
+          "size": 828,
+          "train_unk_rate": 0.0,
+          "val_unk_rate": 0.112299,
+          "test_unk_rate": 0.132979
+        }
+      },
+      "family": {
+        "n_distinct_train": 1116,
+        "top_k": 50,
+        "vocab_size_with_unk": 51,
+        "train_in_vocab_rate": 0.422808,
+        "val_in_vocab_rate": 0.417112,
+        "test_in_vocab_rate": 0.396277,
+        "train_unk_rate": 0.577192,
+        "val_unk_rate": 0.582888,
+        "test_unk_rate": 0.603723,
+        "saturated_vocab": {
+          "size": 1116,
+          "train_unk_rate": 0.0,
+          "val_unk_rate": 0.21123,
+          "test_unk_rate": 0.242021
+        }
+      }
+    },
+    "size_coverage": {
+      "train": {
+        "n": 2999,
+        "min_b": 0.001,
+        "median_b": 7.0,
+        "max_b": 280.0
+      },
+      "val": {
+        "n": 374,
+        "min_b": 0.003,
+        "median_b": 7.0,
+        "max_b": 176.0
+      },
+      "test": {
+        "n": 376,
+        "min_b": 0.111,
+        "median_b": 7.0,
+        "max_b": 85.6
+      }
+    },
+    "moe_flag": {
+      "included": true,
+      "train_positives": 190,
+      "note": null
+    }
+  },
+  "concat": {
+    "dataset": "router-eval",
+    "variant": "concat",
+    "dim": 2152,
+    "n_llms": {
+      "train": 2999,
+      "val": 374,
+      "test": 376
+    },
+    "coverage": {
+      "org": {
+        "n_distinct_train": 828,
+        "top_k": 50,
+        "vocab_size_with_unk": 51,
+        "train_in_vocab_rate": 0.327109,
+        "val_in_vocab_rate": 0.307487,
+        "test_in_vocab_rate": 0.255319,
+        "train_unk_rate": 0.672891,
+        "val_unk_rate": 0.692513,
+        "test_unk_rate": 0.744681,
+        "saturated_vocab": {
+          "size": 828,
+          "train_unk_rate": 0.0,
+          "val_unk_rate": 0.112299,
+          "test_unk_rate": 0.132979
+        }
+      },
+      "family": {
+        "n_distinct_train": 1116,
+        "top_k": 50,
+        "vocab_size_with_unk": 51,
+        "train_in_vocab_rate": 0.422808,
+        "val_in_vocab_rate": 0.417112,
+        "test_in_vocab_rate": 0.396277,
+        "train_unk_rate": 0.577192,
+        "val_unk_rate": 0.582888,
+        "test_unk_rate": 0.603723,
+        "saturated_vocab": {
+          "size": 1116,
+          "train_unk_rate": 0.0,
+          "val_unk_rate": 0.21123,
+          "test_unk_rate": 0.242021
+        }
+      }
+    },
+    "size_coverage": {
+      "train": {
+        "n": 2999,
+        "min_b": 0.001,
+        "median_b": 7.0,
+        "max_b": 280.0
+      },
+      "val": {
+        "n": 374,
+        "min_b": 0.003,
+        "median_b": 7.0,
+        "max_b": 176.0
+      },
+      "test": {
+        "n": 376,
+        "min_b": 0.111,
+        "median_b": 7.0,
+        "max_b": 85.6
+      }
+    },
+    "moe_flag": {
+      "included": true,
+      "train_positives": 190,
+      "note": null
+    }
+  }
+}

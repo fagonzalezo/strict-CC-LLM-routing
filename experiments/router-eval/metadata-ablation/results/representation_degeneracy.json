@@ -1,0 +1,803 @@
+{
+  "dataset": "router-eval",
+  "n_test_llms": 376,
+  "n_perm": 20,
+  "perm_seed": 42,
+  "tie_band_cost_auc": 0.0035,
+  "bundle_distinct_llm_vectors": {
+    "fp": {
+      "train": {
+        "n_llms": 2999,
+        "n_distinct": 2922,
+        "distinct_frac": 0.9743
+      },
+      "val": {
+        "n_llms": 374,
+        "n_distinct": 372,
+        "distinct_frac": 0.9947
+      },
+      "test": {
+        "n_llms": 376,
+        "n_distinct": 375,
+        "distinct_frac": 0.9973
+      }
+    },
+    "meta_struct": {
+      "train": {
+        "n_llms": 2999,
+        "n_distinct": 614,
+        "distinct_frac": 0.2047
+      },
+      "val": {
+        "n_llms": 374,
+        "n_distinct": 163,
+        "distinct_frac": 0.4358
+      },
+      "test": {
+        "n_llms": 376,
+        "n_distinct": 172,
+        "distinct_frac": 0.4574
+      }
+    },
+    "meta_name": {
+      "train": {
+        "n_llms": 2999,
+        "n_distinct": 2999,
+        "distinct_frac": 1.0
+      },
+      "val": {
+        "n_llms": 374,
+        "n_distinct": 374,
+        "distinct_frac": 1.0
+      },
+      "test": {
+        "n_llms": 376,
+        "n_distinct": 376,
+        "distinct_frac": 1.0
+      }
+    },
+    "concat": {
+      "train": {
+        "n_llms": 2999,
+        "n_distinct": 2951,
+        "distinct_frac": 0.984
+      },
+      "val": {
+        "n_llms": 374,
+        "n_distinct": 373,
+        "distinct_frac": 0.9973
+      },
+      "test": {
+        "n_llms": 376,
+        "n_distinct": 375,
+        "distinct_frac": 0.9973
+      }
+    }
+  },
+  "arms": {
+    "fp": {
+      "BF-DKR": [
+        {
+          "seed": 0,
+          "n_distinct_pred_columns": 375,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.739515,
+          "cost_auc_tie_averaged": 0.739515,
+          "tie_averaged_delta": 0.0,
+          "cost_auc_under_permutation": {
+            "min": 0.739515,
+            "max": 0.739515,
+            "mean": 0.739515,
+            "spread": 0.0,
+            "spread_exceeds_tie_band": false
+          }
+        },
+        {
+          "seed": 1,
+          "n_distinct_pred_columns": 375,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.741278,
+          "cost_auc_tie_averaged": 0.741278,
+          "tie_averaged_delta": 0.0,
+          "cost_auc_under_permutation": {
+            "min": 0.741278,
+            "max": 0.741278,
+            "mean": 0.741278,
+            "spread": 0.0,
+            "spread_exceeds_tie_band": false
+          }
+        },
+        {
+          "seed": 2,
+          "n_distinct_pred_columns": 375,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.728709,
+          "cost_auc_tie_averaged": 0.728709,
+          "tie_averaged_delta": 0.0,
+          "cost_auc_under_permutation": {
+            "min": 0.728709,
+            "max": 0.728709,
+            "mean": 0.728709,
+            "spread": 0.0,
+            "spread_exceeds_tie_band": false
+          }
+        }
+      ],
+      "MLPDot": [
+        {
+          "seed": 0,
+          "n_distinct_pred_columns": 375,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.718116,
+          "cost_auc_tie_averaged": 0.718116,
+          "tie_averaged_delta": 0.0,
+          "cost_auc_under_permutation": {
+            "min": 0.718116,
+            "max": 0.718116,
+            "mean": 0.718116,
+            "spread": 0.0,
+            "spread_exceeds_tie_band": false
+          }
+        },
+        {
+          "seed": 1,
+          "n_distinct_pred_columns": 375,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.719871,
+          "cost_auc_tie_averaged": 0.719871,
+          "tie_averaged_delta": 0.0,
+          "cost_auc_under_permutation": {
+            "min": 0.719871,
+            "max": 0.719871,
+            "mean": 0.719871,
+            "spread": 0.0,
+            "spread_exceeds_tie_band": false
+          }
+        },
+        {
+          "seed": 2,
+          "n_distinct_pred_columns": 375,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.723334,
+          "cost_auc_tie_averaged": 0.723334,
+          "tie_averaged_delta": 0.0,
+          "cost_auc_under_permutation": {
+            "min": 0.723334,
+            "max": 0.723334,
+            "mean": 0.723334,
+            "spread": 0.0,
+            "spread_exceeds_tie_band": false
+          }
+        }
+      ],
+      "kNN-enc": [
+        {
+          "seed": 0,
+          "n_distinct_pred_columns": 368,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.725625,
+          "cost_auc_tie_averaged": 0.725395,
+          "tie_averaged_delta": -0.00023,
+          "cost_auc_under_permutation": {
+            "min": 0.724442,
+            "max": 0.725992,
+            "mean": 0.725242,
+            "spread": 0.001549,
+            "spread_exceeds_tie_band": false
+          }
+        },
+        {
+          "seed": 1,
+          "n_distinct_pred_columns": 369,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.725816,
+          "cost_auc_tie_averaged": 0.726999,
+          "tie_averaged_delta": 0.001184,
+          "cost_auc_under_permutation": {
+            "min": 0.725611,
+            "max": 0.727969,
+            "mean": 0.726813,
+            "spread": 0.002358,
+            "spread_exceeds_tie_band": false
+          }
+        },
+        {
+          "seed": 2,
+          "n_distinct_pred_columns": 371,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.723302,
+          "cost_auc_tie_averaged": 0.723948,
+          "tie_averaged_delta": 0.000645,
+          "cost_auc_under_permutation": {
+            "min": 0.722791,
+            "max": 0.725003,
+            "mean": 0.723873,
+            "spread": 0.002212,
+            "spread_exceeds_tie_band": false
+          }
+        }
+      ],
+      "kNN-raw": [
+        {
+          "seed": 0,
+          "n_distinct_pred_columns": 373,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.690283,
+          "cost_auc_tie_averaged": 0.690449,
+          "tie_averaged_delta": 0.000167,
+          "cost_auc_under_permutation": {
+            "min": 0.690283,
+            "max": 0.690616,
+            "mean": 0.690417,
+            "spread": 0.000333,
+            "spread_exceeds_tie_band": false
+          }
+        },
+        {
+          "seed": 1,
+          "n_distinct_pred_columns": 373,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.690283,
+          "cost_auc_tie_averaged": 0.690449,
+          "tie_averaged_delta": 0.000167,
+          "cost_auc_under_permutation": {
+            "min": 0.690283,
+            "max": 0.690616,
+            "mean": 0.690417,
+            "spread": 0.000333,
+            "spread_exceeds_tie_band": false
+          }
+        },
+        {
+          "seed": 2,
+          "n_distinct_pred_columns": 373,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.690283,
+          "cost_auc_tie_averaged": 0.690449,
+          "tie_averaged_delta": 0.000167,
+          "cost_auc_under_permutation": {
+            "min": 0.690283,
+            "max": 0.690616,
+            "mean": 0.690417,
+            "spread": 0.000333,
+            "spread_exceeds_tie_band": false
+          }
+        }
+      ]
+    },
+    "meta_struct": {
+      "BF-DKR": [
+        {
+          "seed": 0,
+          "n_distinct_pred_columns": 172,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.680246,
+          "cost_auc_tie_averaged": 0.680621,
+          "tie_averaged_delta": 0.000376,
+          "cost_auc_under_permutation": {
+            "min": 0.679668,
+            "max": 0.681179,
+            "mean": 0.680416,
+            "spread": 0.001511,
+            "spread_exceeds_tie_band": false
+          }
+        },
+        {
+          "seed": 1,
+          "n_distinct_pred_columns": 172,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.664,
+          "cost_auc_tie_averaged": 0.66403,
+          "tie_averaged_delta": 3e-05,
+          "cost_auc_under_permutation": {
+            "min": 0.663916,
+            "max": 0.664289,
+            "mean": 0.664065,
+            "spread": 0.000373,
+            "spread_exceeds_tie_band": false
+          }
+        },
+        {
+          "seed": 2,
+          "n_distinct_pred_columns": 172,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.688266,
+          "cost_auc_tie_averaged": 0.687454,
+          "tie_averaged_delta": -0.000812,
+          "cost_auc_under_permutation": {
+            "min": 0.68641,
+            "max": 0.688612,
+            "mean": 0.687487,
+            "spread": 0.002201,
+            "spread_exceeds_tie_band": false
+          }
+        }
+      ],
+      "MLPDot": [
+        {
+          "seed": 0,
+          "n_distinct_pred_columns": 172,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.704788,
+          "cost_auc_tie_averaged": 0.703858,
+          "tie_averaged_delta": -0.00093,
+          "cost_auc_under_permutation": {
+            "min": 0.703038,
+            "max": 0.704905,
+            "mean": 0.703945,
+            "spread": 0.001867,
+            "spread_exceeds_tie_band": false
+          }
+        },
+        {
+          "seed": 1,
+          "n_distinct_pred_columns": 172,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.69339,
+          "cost_auc_tie_averaged": 0.695134,
+          "tie_averaged_delta": 0.001744,
+          "cost_auc_under_permutation": {
+            "min": 0.693113,
+            "max": 0.696483,
+            "mean": 0.694665,
+            "spread": 0.003371,
+            "spread_exceeds_tie_band": false
+          }
+        },
+        {
+          "seed": 2,
+          "n_distinct_pred_columns": 172,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.704957,
+          "cost_auc_tie_averaged": 0.704386,
+          "tie_averaged_delta": -0.000571,
+          "cost_auc_under_permutation": {
+            "min": 0.703626,
+            "max": 0.705342,
+            "mean": 0.704404,
+            "spread": 0.001716,
+            "spread_exceeds_tie_band": false
+          }
+        }
+      ],
+      "kNN-enc": [
+        {
+          "seed": 0,
+          "n_distinct_pred_columns": 167,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.70701,
+          "cost_auc_tie_averaged": 0.704864,
+          "tie_averaged_delta": -0.002147,
+          "cost_auc_under_permutation": {
+            "min": 0.699583,
+            "max": 0.710266,
+            "mean": 0.706289,
+            "spread": 0.010683,
+            "spread_exceeds_tie_band": true
+          }
+        },
+        {
+          "seed": 1,
+          "n_distinct_pred_columns": 168,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.642692,
+          "cost_auc_tie_averaged": 0.640939,
+          "tie_averaged_delta": -0.001754,
+          "cost_auc_under_permutation": {
+            "min": 0.627003,
+            "max": 0.652012,
+            "mean": 0.643669,
+            "spread": 0.025009,
+            "spread_exceeds_tie_band": true
+          }
+        },
+        {
+          "seed": 2,
+          "n_distinct_pred_columns": 166,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.69807,
+          "cost_auc_tie_averaged": 0.698169,
+          "tie_averaged_delta": 9.9e-05,
+          "cost_auc_under_permutation": {
+            "min": 0.696227,
+            "max": 0.700181,
+            "mean": 0.698241,
+            "spread": 0.003954,
+            "spread_exceeds_tie_band": true
+          }
+        }
+      ],
+      "kNN-raw": [
+        {
+          "seed": 0,
+          "n_distinct_pred_columns": 165,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.690404,
+          "cost_auc_tie_averaged": 0.686388,
+          "tie_averaged_delta": -0.004017,
+          "cost_auc_under_permutation": {
+            "min": 0.672746,
+            "max": 0.696864,
+            "mean": 0.689158,
+            "spread": 0.024118,
+            "spread_exceeds_tie_band": true
+          }
+        },
+        {
+          "seed": 1,
+          "n_distinct_pred_columns": 165,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.690404,
+          "cost_auc_tie_averaged": 0.686388,
+          "tie_averaged_delta": -0.004017,
+          "cost_auc_under_permutation": {
+            "min": 0.672746,
+            "max": 0.696864,
+            "mean": 0.689158,
+            "spread": 0.024118,
+            "spread_exceeds_tie_band": true
+          }
+        },
+        {
+          "seed": 2,
+          "n_distinct_pred_columns": 165,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.690404,
+          "cost_auc_tie_averaged": 0.686388,
+          "tie_averaged_delta": -0.004017,
+          "cost_auc_under_permutation": {
+            "min": 0.672746,
+            "max": 0.696864,
+            "mean": 0.689158,
+            "spread": 0.024118,
+            "spread_exceeds_tie_band": true
+          }
+        }
+      ]
+    },
+    "meta_name": {
+      "BF-DKR": [
+        {
+          "seed": 0,
+          "n_distinct_pred_columns": 376,
+          "has_duplicate_columns": false,
+          "cost_auc_as_reported": 0.677637,
+          "cost_auc_tie_averaged": 0.677637,
+          "tie_averaged_delta": 0.0,
+          "cost_auc_under_permutation": null
+        },
+        {
+          "seed": 1,
+          "n_distinct_pred_columns": 376,
+          "has_duplicate_columns": false,
+          "cost_auc_as_reported": 0.670873,
+          "cost_auc_tie_averaged": 0.670873,
+          "tie_averaged_delta": 0.0,
+          "cost_auc_under_permutation": null
+        },
+        {
+          "seed": 2,
+          "n_distinct_pred_columns": 376,
+          "has_duplicate_columns": false,
+          "cost_auc_as_reported": 0.681541,
+          "cost_auc_tie_averaged": 0.681543,
+          "tie_averaged_delta": 2e-06,
+          "cost_auc_under_permutation": null
+        }
+      ],
+      "MLPDot": [
+        {
+          "seed": 0,
+          "n_distinct_pred_columns": 376,
+          "has_duplicate_columns": false,
+          "cost_auc_as_reported": 0.704648,
+          "cost_auc_tie_averaged": 0.704648,
+          "tie_averaged_delta": 0.0,
+          "cost_auc_under_permutation": null
+        },
+        {
+          "seed": 1,
+          "n_distinct_pred_columns": 376,
+          "has_duplicate_columns": false,
+          "cost_auc_as_reported": 0.711175,
+          "cost_auc_tie_averaged": 0.711175,
+          "tie_averaged_delta": 0.0,
+          "cost_auc_under_permutation": null
+        },
+        {
+          "seed": 2,
+          "n_distinct_pred_columns": 376,
+          "has_duplicate_columns": false,
+          "cost_auc_as_reported": 0.716398,
+          "cost_auc_tie_averaged": 0.716398,
+          "tie_averaged_delta": 0.0,
+          "cost_auc_under_permutation": null
+        }
+      ],
+      "kNN-enc": [
+        {
+          "seed": 0,
+          "n_distinct_pred_columns": 339,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.721562,
+          "cost_auc_tie_averaged": 0.724031,
+          "tie_averaged_delta": 0.002469,
+          "cost_auc_under_permutation": {
+            "min": 0.7202,
+            "max": 0.727661,
+            "mean": 0.724403,
+            "spread": 0.00746,
+            "spread_exceeds_tie_band": true
+          }
+        },
+        {
+          "seed": 1,
+          "n_distinct_pred_columns": 360,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.702213,
+          "cost_auc_tie_averaged": 0.701293,
+          "tie_averaged_delta": -0.00092,
+          "cost_auc_under_permutation": {
+            "min": 0.70017,
+            "max": 0.702213,
+            "mean": 0.701224,
+            "spread": 0.002043,
+            "spread_exceeds_tie_band": false
+          }
+        },
+        {
+          "seed": 2,
+          "n_distinct_pred_columns": 374,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.684661,
+          "cost_auc_tie_averaged": 0.684843,
+          "tie_averaged_delta": 0.000182,
+          "cost_auc_under_permutation": {
+            "min": 0.684641,
+            "max": 0.685045,
+            "mean": 0.684849,
+            "spread": 0.000404,
+            "spread_exceeds_tie_band": false
+          }
+        }
+      ],
+      "kNN-raw": [
+        {
+          "seed": 0,
+          "n_distinct_pred_columns": 371,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.503967,
+          "cost_auc_tie_averaged": 0.503836,
+          "tie_averaged_delta": -0.000131,
+          "cost_auc_under_permutation": {
+            "min": 0.503705,
+            "max": 0.503967,
+            "mean": 0.503848,
+            "spread": 0.000262,
+            "spread_exceeds_tie_band": false
+          }
+        },
+        {
+          "seed": 1,
+          "n_distinct_pred_columns": 371,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.503967,
+          "cost_auc_tie_averaged": 0.503836,
+          "tie_averaged_delta": -0.000131,
+          "cost_auc_under_permutation": {
+            "min": 0.503705,
+            "max": 0.503967,
+            "mean": 0.503848,
+            "spread": 0.000262,
+            "spread_exceeds_tie_band": false
+          }
+        },
+        {
+          "seed": 2,
+          "n_distinct_pred_columns": 371,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.503967,
+          "cost_auc_tie_averaged": 0.503836,
+          "tie_averaged_delta": -0.000131,
+          "cost_auc_under_permutation": {
+            "min": 0.503705,
+            "max": 0.503967,
+            "mean": 0.503848,
+            "spread": 0.000262,
+            "spread_exceeds_tie_band": false
+          }
+        }
+      ]
+    },
+    "concat": {
+      "BF-DKR": [
+        {
+          "seed": 0,
+          "n_distinct_pred_columns": 375,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.741089,
+          "cost_auc_tie_averaged": 0.741089,
+          "tie_averaged_delta": 0.0,
+          "cost_auc_under_permutation": {
+            "min": 0.741089,
+            "max": 0.741089,
+            "mean": 0.741089,
+            "spread": 0.0,
+            "spread_exceeds_tie_band": false
+          }
+        },
+        {
+          "seed": 1,
+          "n_distinct_pred_columns": 375,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.736246,
+          "cost_auc_tie_averaged": 0.736246,
+          "tie_averaged_delta": 0.0,
+          "cost_auc_under_permutation": {
+            "min": 0.736246,
+            "max": 0.736246,
+            "mean": 0.736246,
+            "spread": 0.0,
+            "spread_exceeds_tie_band": false
+          }
+        },
+        {
+          "seed": 2,
+          "n_distinct_pred_columns": 375,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.738876,
+          "cost_auc_tie_averaged": 0.738876,
+          "tie_averaged_delta": 0.0,
+          "cost_auc_under_permutation": {
+            "min": 0.738876,
+            "max": 0.738876,
+            "mean": 0.738876,
+            "spread": 0.0,
+            "spread_exceeds_tie_band": false
+          }
+        }
+      ],
+      "MLPDot": [
+        {
+          "seed": 0,
+          "n_distinct_pred_columns": 375,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.720464,
+          "cost_auc_tie_averaged": 0.720464,
+          "tie_averaged_delta": 0.0,
+          "cost_auc_under_permutation": {
+            "min": 0.720464,
+            "max": 0.720464,
+            "mean": 0.720464,
+            "spread": 0.0,
+            "spread_exceeds_tie_band": false
+          }
+        },
+        {
+          "seed": 1,
+          "n_distinct_pred_columns": 375,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.730177,
+          "cost_auc_tie_averaged": 0.730177,
+          "tie_averaged_delta": 0.0,
+          "cost_auc_under_permutation": {
+            "min": 0.730177,
+            "max": 0.730177,
+            "mean": 0.730177,
+            "spread": 0.0,
+            "spread_exceeds_tie_band": false
+          }
+        },
+        {
+          "seed": 2,
+          "n_distinct_pred_columns": 375,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.730339,
+          "cost_auc_tie_averaged": 0.730339,
+          "tie_averaged_delta": 0.0,
+          "cost_auc_under_permutation": {
+            "min": 0.730339,
+            "max": 0.730339,
+            "mean": 0.730339,
+            "spread": 0.0,
+            "spread_exceeds_tie_band": false
+          }
+        }
+      ],
+      "kNN-enc": [
+        {
+          "seed": 0,
+          "n_distinct_pred_columns": 335,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.72415,
+          "cost_auc_tie_averaged": 0.727167,
+          "tie_averaged_delta": 0.003017,
+          "cost_auc_under_permutation": {
+            "min": 0.723762,
+            "max": 0.73073,
+            "mean": 0.72745,
+            "spread": 0.006968,
+            "spread_exceeds_tie_band": true
+          }
+        },
+        {
+          "seed": 1,
+          "n_distinct_pred_columns": 362,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.720214,
+          "cost_auc_tie_averaged": 0.72009,
+          "tie_averaged_delta": -0.000124,
+          "cost_auc_under_permutation": {
+            "min": 0.719718,
+            "max": 0.720755,
+            "mean": 0.720115,
+            "spread": 0.001037,
+            "spread_exceeds_tie_band": false
+          }
+        },
+        {
+          "seed": 2,
+          "n_distinct_pred_columns": 359,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.732031,
+          "cost_auc_tie_averaged": 0.730527,
+          "tie_averaged_delta": -0.001504,
+          "cost_auc_under_permutation": {
+            "min": 0.728167,
+            "max": 0.733007,
+            "mean": 0.730424,
+            "spread": 0.00484,
+            "spread_exceeds_tie_band": true
+          }
+        }
+      ],
+      "kNN-raw": [
+        {
+          "seed": 0,
+          "n_distinct_pred_columns": 360,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.698376,
+          "cost_auc_tie_averaged": 0.698066,
+          "tie_averaged_delta": -0.00031,
+          "cost_auc_under_permutation": {
+            "min": 0.69725,
+            "max": 0.698442,
+            "mean": 0.697906,
+            "spread": 0.001192,
+            "spread_exceeds_tie_band": false
+          }
+        },
+        {
+          "seed": 1,
+          "n_distinct_pred_columns": 360,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.698376,
+          "cost_auc_tie_averaged": 0.698066,
+          "tie_averaged_delta": -0.00031,
+          "cost_auc_under_permutation": {
+            "min": 0.69725,
+            "max": 0.698442,
+            "mean": 0.697906,
+            "spread": 0.001192,
+            "spread_exceeds_tie_band": false
+          }
+        },
+        {
+          "seed": 2,
+          "n_distinct_pred_columns": 360,
+          "has_duplicate_columns": true,
+          "cost_auc_as_reported": 0.698376,
+          "cost_auc_tie_averaged": 0.698066,
+          "tie_averaged_delta": -0.00031,
+          "cost_auc_under_permutation": {
+            "min": 0.69725,
+            "max": 0.698442,
+            "mean": 0.697906,
+            "spread": 0.001192,
+            "spread_exceeds_tie_band": false
+          }
+        }
+      ]
+    }
+  }
+}

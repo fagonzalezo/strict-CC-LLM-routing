@@ -1,0 +1,39 @@
+{
+  "statement": "BF-DKR > S2 outside the tie-band, CI excluding 0 -> per-query adaptation is doing real work. Refuted if S2 ties BF-DKR: the method's gain would be LLM-quality ranking, not query adaptation. This is the outcome that would most change the paper.",
+  "arm": "S2",
+  "per_seed": [
+    {
+      "cost_auc_gap_point": 0.044439,
+      "cost_auc_gap_ci95": [
+        0.037889,
+        0.051053
+      ],
+      "cost_auc_gap_excludes_zero": true,
+      "outside_tie_band": true
+    },
+    {
+      "cost_auc_gap_point": 0.058413,
+      "cost_auc_gap_ci95": [
+        0.052337,
+        0.064945
+      ],
+      "cost_auc_gap_excludes_zero": true,
+      "outside_tie_band": true
+    },
+    {
+      "cost_auc_gap_point": 0.023926,
+      "cost_auc_gap_ci95": [
+        0.01818,
+        0.030001
+      ],
+      "cost_auc_gap_excludes_zero": true,
+      "outside_tie_band": true
+    }
+  ],
+  "n_seeds": 3,
+  "bfdkr_wins": 3,
+  "arm_wins": 0,
+  "ties_within_band": 0,
+  "mean_gap": 0.042259,
+  "tie_band_cost_auc": 0.0035
+}
